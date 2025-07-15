@@ -7,6 +7,6 @@ This is a site that I don’t expect many people to read, it’s mostly just for
 
 You can find a list of games I’ve completed [right here](/meta/completion/) I will update it as soon as I complete another game and all that. It also contains links to videos of completion progress or posts relating to the games.
 
-If you like the site you can message me on discord  **@ranhya and tell me what you think about it! I’m not really on any other social media.
+If you like the site you can message me on discord  **@ranhya** and tell me what you think about it! I’m not really on any other social media.
 
 Made with 💟 by Nasu Rei.
