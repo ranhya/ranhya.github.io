@@ -4,6 +4,7 @@ date: 2025-06-28
 draft: false
 tags: ['anime']
 ---
+
 ![[World Trigger.jpeg]](/images/World_Trigger.jpeg)
 [World Trigger](https://anilist.co/manga/78151/) is a super underrated shounen battle anime in my opinion. I don’t hear people talking about it like at all even though it’s probably one of the best in the genre. World Trigger has amazing characters and a banger power system—and an interesting plot to top it all off of course. The world building is nothing to scoff at and the show is filled TO THE BRIM with tournament arcs, which we all know everyone loves. 
 
