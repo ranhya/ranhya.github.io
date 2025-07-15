@@ -5,6 +5,7 @@ languageCode = "en"                # zh-Hans
 title = "Ranhya"
 copyright = "© 2025 Ranhya"
 
+
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
@@ -14,6 +15,11 @@ capitalizeListTitles = false
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 # ignoreErrors = ["error-disable-taxonomy"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [taxonomies]
 tag = "tags"
 
