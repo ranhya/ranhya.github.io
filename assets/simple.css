@@ -27,12 +27,12 @@
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    --bg: #212121;
-    --accent-bg: #2b2b2b;
-    --text: #dcdcdc;
-    --text-light: #ababab;
-    --accent: #ffb300;
-    --accent-hover: #ffe099;
+    --bg: #252423;
+    --accent-bg: #32302f;
+    --text: #ebdbb2;
+    --text-light: #ebdbb2;
+    --accent: #83a598;
+    --accent-hover: #8ec07c;
     --accent-text: var(--bg);
     --code: #f06292;
     --preformatted: #ccc;

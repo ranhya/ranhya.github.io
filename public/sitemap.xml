@@ -68,11 +68,17 @@
     <loc>http://localhost:1313/hidden/sekiro-mechanics/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/sifu/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/uncharted/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/uncharted-2/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meta/about/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/meta/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
