@@ -1,0 +1,390 @@
+* {
+  --my-accent-color: rgb(185, 233, 249);
+  --my-accent-color-render: rgb(211, 237, 252);
+  --my-accent-color-dark: rgb(20, 68, 84);
+  --my-accent-color-dark-render: rgb(34, 60, 75);
+
+  --edit-view-background-color: rgb(247, 247, 247);
+  --edit-view-background-color-dark: rgb(27, 26, 27);
+
+  --nav-background-color: #fdfdfd;
+  --nav-background-color-dark: #141414;
+  --nav-separator-color: hsl(0, 0%, 90%);
+  --nav-separator-color-dark: hsl(0, 0%, 15%);
+
+  --code-block-background-color: rgb(240, 240, 240);
+  --code-block-background-color-dark: rgb(38, 37, 38);
+
+  --nav-activer-color: hsl(210, 4%, 90%);
+  --nav-activer-color-dark: hsl(225, 3%, 26%);
+
+  --text-color: rgb(26, 26, 26);
+  --text-color-dark: rgb(204, 204, 204);
+  --indicator-color: #00bfff;
+
+  --hashtag-underline-color: #b4b3b0;
+  --hashtag-underline-color-dark: #7a7a79;
+
+  --list-done-color: #b4b3b0;
+  --list-done-color-dark: #7b7a78;
+
+  caret-color: var(--indicator-color);
+}
+
+body {
+  /* --interactive-accent: var(--nav-activer-color) !important; */
+  --interactive-accent: var(--indicator-color);
+  --font-text-theme: "iA Writer Duo V";
+  --font-interface-override: "iA Writer Quattro V";
+  --font-monospace-theme: "iA Writer Mono V";
+  --nav-item-size: 0.875rem;
+  --nav-item-background-active: var(--nav-activer-color);
+  --blockquote-font-style: italic;
+  --font-text-size: 1.125rem !important;
+  --table-header-size: 0.93rem;
+  --table-text-size: 0.93rem;
+  --embed-block-shadow-hover: clear;
+  --list-marker-color-collapsed: var(--text-color);
+  --collapse-icon-color-collapsed: var(--text-color);
+  --tag-background: clear;
+  --tag-color: var(--text-color);
+
+  --checkbox-border-color: var(--text-color);
+  --checklist-done-color: var(--list-done-color);
+  --checkbox-color: clear;
+
+  --text-accent-hover: #0591cf;
+
+  --h1-size: 1.4rem;
+  --h2-size: 1.3rem;
+  --h3-size: 1.2rem;
+  --h4-size: 1.2rem;
+  --h5-size: 1.17rem;
+  --h6-size: 1.17rem;
+  --h5-weight: normal;
+  --h4-style: oblique;
+  --h5-style: oblique;
+  --table-border-width: 0px;
+  --table-header-border-width: 1px;
+  --table-row-last-border-width: 1px;
+  /* --table-column-max-width: 700px; */
+  --line-height-normal: 1.6;
+  --blockquote-border-color: clear;
+  --file-line-width: 750px;
+}
+
+.workspace-tab-container .is-active .workspace-tab-header-inner-title {
+  font-weight: bolder !important;
+}
+
+.workspace-tab-container .workspace-tab-header-inner {
+  border-right: 1px dashed var(--my-accent-color);
+}
+
+.nav-folder-title,
+.nav-file-title {
+  margin: 1px auto;
+}
+
+.nav-file {
+  border-radius: 0 !important;
+}
+
+.nav-files-container {
+  --size-4-6: 10px !important;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  /* max-width: 660px; */
+  max-width: 100%;
+}
+
+.markdown-preview-sizer div:not(:has(table)),
+.table-wrapper {
+  max-width: 660px;
+  margin: auto;
+}
+
+.markdown-preview-sizer table,
+.table-wrapper table {
+  table-layout: fixed !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  word-break: break-word !important;
+  border-collapse: collapse !important;
+  margin: auto;
+}
+
+table th {
+  width: 100px !important;
+}
+
+.mod-root .workspace-tab-header-container .is-active {
+  border-bottom: 1.5px solid var(--indicator-color);
+}
+
+.markdown-rendered thead tr > th {
+  border-left: none;
+  border-right: none;
+  border-bottom-width: var(--table-header-border-width);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.mod-header {
+  text-align: center;
+}
+
+h3,
+h4,
+h5 {
+  margin: 0.3125rem auto !important;
+}
+
+h3 {
+  margin-top: 1.875rem !important;
+}
+
+.cm-hashtag,
+.cm-underline,
+a.internal-link,
+a.tag {
+  /* This is for background color of Movbile device */
+  background-color: rgba(255, 255, 255, 0);
+
+  text-decoration: underline;
+}
+
+.cm-hashtag,
+.cm-underline {
+  text-decoration-color: var(--hashtag-underline-color) !important;
+}
+
+a.internal-link,
+a.tag {
+  text-decoration-color: var(--text-color) !important;
+}
+
+[data-task="x"] .cm-underline,
+[data-task="x"] .cm-hashtag,
+li[data-task="x"] a.internal-link,
+li[data-task="x"] a.tag {
+  color: var(--list-done-color);
+  text-decoration-color: var(--list-done-color) !important;
+}
+
+.cm-active .cm-link:not(.cm-formatting-link) {
+  color: var(--text-color) !important;
+}
+
+.cm-url {
+  color: #b5b3b0 !important;
+}
+
+a.tag:hover {
+  background-color: rgba(255, 255, 255, 0);
+  text-decoration: underline;
+}
+
+blockquote {
+  position: relative;
+  top: -20px !important;
+  margin-bottom: -20px !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-html-embed,
+.markdown-source-view.mod-cm6 .cm-callout,
+.markdown-source-view.mod-cm6 .cm-table-widget {
+  overflow-wrap: break-word;
+}
+
+table th:first-of-type {
+  width: 50%;
+}
+
+table th:nth-of-type(5) {
+  width: 50%;
+}
+
+.markdown-rendered td,
+.markdown-rendered th {
+  --size-2-2: 0.5rem;
+}
+.markdown-rendered pre {
+  --size-4-2: 1.25rem;
+  --size-4-4: 1.5625rem;
+}
+
+.markdown-preview-sizer {
+  font-family: "iA Writer Quattro V", sans-serif;
+}
+
+.modal-title {
+  text-align: center;
+}
+
+input[type="checkbox"]:checked:after {
+  background-color: var(--list-done-color);
+}
+
+.task-list-item-checkbox[data-task="x"] {
+  border-color: var(--list-done-color) !important;
+}
+
+.task-list-item-checkbox[checked] {
+  border-color: var(--list-done-color) !important;
+}
+
+.theme-light {
+  --color-base-00: var(--edit-view-background-color);
+  --color-base-10: var(--code-block-background-color);
+  --color-base-20: var(--nav-background-color);
+  --color-base-100: var(--text-color);
+  --color-accent: var(--text-color);
+  --accent-h: 201;
+  --accent-s: 93%;
+  --accent-l: 66%;
+  --text-selection: var(--my-accent-color);
+
+  --tab-background-active: var(--edit-view-background-color);
+  --background-primary: var(--edit-view-background-color);
+  /* --file-header-border: 1px solid #e0e0e0; */
+}
+
+.theme-light .markdown-source-view {
+  background-color: var(--edit-view-background-color);
+}
+
+.theme-light .markdown-reading-view {
+  background-color: var(--nav-background-color);
+}
+
+.theme-light .nav-folder:not(:last-child),
+.theme-light .nav-file:not(:last-child) {
+  border-bottom: 1px solid var(--nav-separator-color);
+}
+
+.theme-light .markdown-rendered pre {
+  background-color: var(--code-block-background-color);
+}
+
+.theme-dark {
+  /* --interactive-accent: var(--nav-activer-color-dark) !important; */
+  --interactive-accent: var(--my-accent-color-dark);
+  --color-base-00: var(--edit-view-background-color-dark);
+  --tab-background-active: var(--edit-view-background-color-dark);
+  --nav-item-background-active: var(--nav-activer-color-dark);
+  --background-primary: var(--edit-view-background-color-dark);
+  --list-marker-color-collapsed: var(--text-color-dark);
+  --collapse-icon-color-collapsed: var(--text-color-dark);
+  --tag-color: var(--text-color-dark);
+
+  --checkbox-border-color: var(--text-color-dark);
+  --checklist-done-color: var(--list-done-color-dark);
+  /* --checkbox-color: clear; */
+
+  --color-base-10: var(--code-block-background-color-dark);
+  --color-base-20: var(--nav-background-color-dark);
+  --color-base-100: var(--text-color-dark);
+  --color-accent: var(--text-color-dark);
+  --accent-h: 196;
+  --accent-s: 61.5%;
+  --accent-l: 20.4%;
+  --text-selection: var(--my-accent-color-dark);
+}
+
+.theme-dark .workspace-tab-container .workspace-tab-header-inner {
+  border-right: 1px dashed var(--my-accent-color-dark);
+}
+
+.theme-dark .markdown-source-view {
+  background-color: var(--edit-view-background-color-dark);
+}
+
+.theme-dark .markdown-reading-view {
+  background-color: var(--nav-background-color-dark);
+}
+
+.theme-dark .nav-folder,
+.theme-dark .tree-item .nav-file:not(:last-child) {
+  border-bottom: 1px solid var(--nav-separator-color-dark);
+}
+
+.theme-dark .HyperMD-codeblock,
+.theme-dark .markdown-rendered pre {
+  background-color: var(--code-block-background-color-dark) !important;
+}
+
+.theme-dark .cm-hashtag,
+.theme-dark .cm-underline {
+  color: var(--text-color-dark);
+  text-decoration-color: var(--hashtag-underline-color-dark) !important;
+}
+
+.theme-dark [data-task="x"] .cm-underline,
+.theme-dark [data-task="x"] .cm-hashtag,
+.theme-dark li[data-task="x"] a.internal-link,
+.theme-dark li[data-task="x"] a.tag {
+  color: var(--list-done-color-dark);
+  text-decoration-color: var(--list-done-color-dark) !important;
+}
+
+.theme-dark a.internal-link,
+.theme-dark a.tag,
+.theme-dark a.external-link {
+  color: var(--text-color-dark);
+  text-decoration-color: var(--text-color-dark) !important;
+}
+
+.theme-dark .cm-active .cm-link:not(.cm-formatting-link) {
+  color: var(--text-color-dark) !important;
+}
+
+.theme-dark .cm-url {
+  color: #7b7a78 !important;
+}
+
+.theme-dark input[type="checkbox"]:checked:after {
+  background-color: var(--list-done-color-dark);
+}
+
+.theme-dark .task-list-item-checkbox[data-task="x"] {
+  border-color: var(--list-done-color-dark) !important;
+}
+
+.theme-dark .task-list-item-checkbox[checked] {
+  border-color: var(--list-done-color-dark) !important;
+}
+
+.cm-underline:hover,
+a.internal-link:hover,
+a.external-link:hover {
+  color: var(--text-accent-hover) !important;
+  text-decoration-color: var(--text-accent-hover) !important;
+}
+
+.tree-item-children .nav-folder-children {
+  /* margin-bottom: 5px !important; */
+  border-left: none !important;
+}
+
+.nav-folder-title {
+  font-weight: bold !important;
+}
+
+.markdown-preview-view .collapse-indicator {
+  opacity: 0;
+}
+
+/* .markdown-source-view.mod-cm6
+  .cm-line:hover
+  .cm-fold-indicator
+  .collapse-indicator,
+.markdown-source-view.mod-cm6
+  .cm-fold-indicator.is-collapsed
+  .collapse-indicator {
+  opacity: 0;
+} */

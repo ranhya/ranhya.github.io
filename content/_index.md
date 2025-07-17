@@ -1,23 +1,12 @@
 ---
-title: "ᕦʕ •ᴥ•ʔᕤ"
+title: ૮ ・ﻌ・ა
+draft: false
+date: 2025-07-15
 ---
+This is a site that I don’t expect many people to read, it’s mostly just for me to keep track of what video games I’ve played and my thoughts on them—just in a public manner because why not. I’ll try to keep it updated as much as possible because I don’t want to be another person with a “blog” that only has like two posts lol.
 
-Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.
+You can find a list of games I’ve completed [right here](/meta/completion/) I will update it as soon as I complete another game and all that. It also contains links to videos of completion progress or posts relating to the games.
 
-> The internet has become a bloated mess. Huge JavaScript libraries, countless
-> client-side queries and overly complex frontend frameworks are par for the
-> course these days.
->
-> --- [Kev Quirk](https://512kb.club/)
+If you like the site you can message me on discord  **@ranhya** and tell me what you think about it! I’m not really on any other social media.
 
-Let's change this, one website at a time! **Hugo Simple** is a
-[Hugo](https://gohugo.io/) theme based on [Simple.css](https://simplecss.org/) and
-[Hugo Bear](https://github.com/janraasch/hugo-bearblog/) that takes care of speed and
-optimization, so you can focus on writing good content.
-
-It is free, multilingual, optimized for search engines, no-nonsense, responsive,
-light, and fast. Really fast.
-
-Made with 💟 by [Shaolong Chen](https://github.com/maolonglong).
+Made with 💟 by Nasu Rei.
