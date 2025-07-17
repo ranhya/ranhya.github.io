@@ -16,3 +16,5 @@ The game’s combat is so incredibly satisfying, and makes you feel like a total
 The Arenas mode that was added later on via a free update is where you might spend most of your time after beating the game. It takes the arcade style of the game and turns it up to the max... and it's also really fucking hard, not even master difficulty is as hard as some of these challanges. The gameplay is also varied with different modes—like a TA mode, control mode... mode where you kill all the targets etc. they really spice things up.
 
 Not only that but there are a lot of new environments and maps to play around in! It's super awesome that all of this came for free with an update! The amount of content here is awesome, especially since you get it all for free!
+
+test
