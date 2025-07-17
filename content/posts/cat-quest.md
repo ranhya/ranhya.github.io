@@ -12,7 +12,7 @@ The gameplay loop is addictive and keeps you playing, I played it for 10 hours a
 
 ## Combat
 
-The combat system is incredibly polished and the movement attacking and using spells all feel very good. It’s very satisfying killing groups of enemies and collecting EXP and coins dropped from enemies forces my brain to literally ooze dopamine from my pores it’s just that good.
+The combat system is incredibly polished and the movement, attacking and spells all feel very good. It’s very satisfying killing groups of enemies, collecting EXP and coins dropped from killed enemies makes me literally ooze dopamine from my pores it’s just that good.
 
 The spells are very thought out, though a lot of them are outshined by 3 spells specifically. You can get every spell after beating the first main boss in the game (dragon) which is cool. Though the most useful ones so heavily outshine the other ones that I mostly ended up using 3 spells, and was melting bosses way above my own level, skull icon and all.
 
