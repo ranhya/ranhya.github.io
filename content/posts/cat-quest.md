@@ -32,7 +32,7 @@ The exploration at first feels slow because you move really slow but it isn’t 
 
 The caves are a fun challenge especially if you’re doing them under-leveled and there are a LOT of secrets in them which I find very fun! You get the 3 best items and the ones I ended up using for most of the end-game from these chests. All secret items of course.
 
-Yup that’s about it. Play Cat Quest!!! It’s peak gaming!
+Yup that’s about it. Play Cat Quest!!! It’s purrfect! :3
 
 
 
