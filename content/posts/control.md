@@ -2,7 +2,11 @@
 title: Control
 date: 2025-05-17
 draft: false
+<<<<<<< HEAD
 tags: ['games', 'review']
+=======
+tags: ["games", "review"]
+>>>>>>> c7d2d047cec88917d95cd8da9ea31e461f1d64f0
 ---
 
 ![Control.jpeg](/images/Control.jpeg)
@@ -35,4 +39,8 @@ It’s a liminal space. In the plot it is used as a sort of security measure by 
 ### Jesse Faden
 Jesse is the main character of the game obviously, I wanna talk about her a bit because I think she’s cool. She’s very well written and very autism-coded. She’s not overly cautious when she doesn’t need to be and is trusting of people which is great—it makes the atmosphere feel less odd when you know she likes a person.
 
+<<<<<<< HEAD
 Her monologuing and talking to Polaris is also super welcome and I love her thought process. She feels like a very well written main character that fits the role of director very well :D
+=======
+Her monologuing and talking to Polaris is also super welcome and I love her thought process. She feels like a very well written main character that fits the role of director very well :D
+>>>>>>> c7d2d047cec88917d95cd8da9ea31e461f1d64f0
