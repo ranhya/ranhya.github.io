@@ -2,11 +2,7 @@
 title: Control
 date: 2025-05-17
 draft: false
-<<<<<<< HEAD
 tags: ['games', 'review']
-=======
-tags: ["games", "review"]
->>>>>>> c7d2d047cec88917d95cd8da9ea31e461f1d64f0
 ---
 
 ![Control.jpeg](/images/Control.jpeg)

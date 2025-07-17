@@ -1,10 +1,7 @@
 ---
 title: Elden Ring
 date:
-tags:
-  - games
-  - review
-  - fromsoft
+tags: ['games', 'review', 'fromsoft']
 draft: true
 ---
 ![Elden_Ring.jpg](/images/Elden_Ring.jpg)

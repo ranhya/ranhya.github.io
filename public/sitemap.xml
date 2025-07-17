@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/cat-quest/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/games/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/review/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/rpg/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/gta5-missions/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/offtopic/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/offtopic/the-blacklist/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tv/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/anime/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/offtopic/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/offtopic/world-trigger/</loc>
@@ -33,9 +48,6 @@
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hades/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/review/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/roguelike/</loc>
@@ -91,5 +103,7 @@
   </url><url>
     <loc>http://localhost:1313/meta/completion/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/elden-ring/</loc>
   </url>
 </urlset>
