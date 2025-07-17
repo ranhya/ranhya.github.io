@@ -4,7 +4,8 @@ date: 2025-06-18
 draft: false
 tags: ['games', 'review', 'fromsoft', ]
 ---
-![[Sekiro]](/images/Sekiro.jpeg)
+
+![Sekiro](/images/Sekiro.jpeg)
 
 Sekiro is a great game with one of the best combat systems in any video game ever. And I’m glad to have played and completed it—and to have [platinumed]( https://youtube.com/watch?v=OXaeOXQwhtkit) it. It is definitely in my top 10.
 ***

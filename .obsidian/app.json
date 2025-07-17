@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "mobileToolbarCommands": [
+    "editor:paste",
+    "editor:move-caret-left",
+    "editor:move-caret-right",
+    "editor:move-caret-up",
+    "editor:move-caret-down"
+  ],
+  "showInlineTitle": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "images",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
+}

@@ -1,0 +1,14 @@
+{
+  "theme": "system",
+  "cssTheme": "iB Writer",
+  "accentColor": "#88aa55",
+  "textFontFamily": "Trebuchet MS",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "fonts-ia-writer",
+    "mobile-floating-toolbar",
+    "clutter",
+    "footnotes",
+    "hide-yaml-reading-mode"
+  ]
+}

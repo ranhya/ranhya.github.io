@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "title": "text",
+    "date": "date",
+    "platinum": "text",
+    "completed": "checkbox",
+    "helper": "checkbox"
+  }
+}
