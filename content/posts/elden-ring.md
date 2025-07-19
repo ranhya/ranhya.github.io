@@ -27,7 +27,7 @@ Though travel times aren’t really that big of a deal the main thing that sucks
 It is so infuriating when you’re looking for an item or a dungeon or something and you just cannot open your map to check where the fuck you are because some random enemy 3000 meters away is still aggroed onto you, it is so bad. I don’t know what FromSoft was thinking when they made you unable to open the map in combat. Worse decision they’ve ever made. You could argue that it’s to prevent you from fast traveling when in combat but they could’ve just disabled fast travel in combat and that would’ve been a better way to deal with it.
 
 ## Gameplay
-The gameplay loop in Elden Ring is a lot different than the other games FromSoft has made, in my opinion. The core of it is still the same, explore, kill bosses, find key items, get an ending.
+The gameplay loop in Elden Ring is a lot different than the other games FromSoft has made. The core of it is still the same, explore, kill bosses, find key items, get an ending.
 
 But the gameplay loop in Elden Ring focuses a lot more on exploration than the other games, obviously with such a massive open world it’s not a surprise that the game is very focused on exploration—but it’s not just the fact that the game has an open world, the game also has A LOT of dungeons to explore. Not just legacy dungeons but optional dungeons which you will spend a lot of time exploring.
 
