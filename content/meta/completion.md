@@ -11,10 +11,11 @@ This is a list of the games I have completed—not in any particular order. The 
 - Risk of Rain 2 - ~150 hours
 - Hollow Knight - ~100 hours
 - NieR: Automata - ~45 hours
-- [Bloodborne](/posts/bloodborne/) (No DLC) - 150 hours
+- [Bloodborne](/posts/bloodborne/) - 150 hours
+- [Elden Ring](/posts/elden-ring) - 124 hours
+- Dark Souls 3 - ~132 hours
 - Horizon Zero Dawn - First platinum - ~60 hours
 - [Dishonored 2](https://youtu.be/_3bs6to5pm4) - ~63 hours
-- Dark Souls 3 - ~100 hours
 - [Uncharted: Drake’s Fortune Remastered](/posts/uncharted-1/) - 26 hours
 - [Uncharted 2: Among Thieves](/posts/uncharted-2/) - 27 hours
 - [Persona 5 Royal](/posts/persona-5-royal/) - 135 Hours
