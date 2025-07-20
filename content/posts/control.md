@@ -6,6 +6,7 @@ tags: ['games', 'review']
 ---
 
 ![Control.jpeg](/images/Control.jpg)
+
 Control is an amazing game with an amazing atmosphere. While a little short I think it suits it well, and after playing it… I think it’s become one of my favorite games I’ve played so far!
 
 You play as Jesse Faden, in search of her brother who was taken away by the FBC (Federal Bureau of Control)… which is basically the SCP foundation. 
