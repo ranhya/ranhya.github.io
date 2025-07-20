@@ -9,6 +9,6 @@ You can find a list of games I’ve completed [right here](/meta/completion/) I 
 
 If you like the site you can message me on discord  **@ranhya** and tell me what you think about it! I’m not really on any other social media. 
 
-Though I have recently started streaming my silent gameplay to Twitch just for fun. It’s really easy for me to do it from my PS5 as it’s literally only one button press to start the stream. If you do want you can check it out [@ranhyadesu](https://twitch.tv/ranhyadesu). I don’t use a microphone or anything so it’s just silent gameplay—unlikely to respond to chat messages lol.
+Though I have recently started streaming my silent gameplay to Twitch just for fun. It’s really easy for me to do it from my PS5 as it’s literally only one button press to start the stream. If you do want you can check it out [@ranhiya](https://twitch.tv/ranhiya). I don’t use a microphone or anything so it’s just silent gameplay—unlikely to respond to chat messages lol.
 
 Made with 💟 by Nasu Rei.
