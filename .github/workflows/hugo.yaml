@@ -76,6 +76,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache" \
+            --buildDrafts
       - name: Cache Save
         id: cache-save
         uses: actions/cache/save@v4
