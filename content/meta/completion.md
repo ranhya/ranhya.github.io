@@ -20,6 +20,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Uncharted 2: Among Thieves](/posts/uncharted-2/) - 27 hours
 - [Persona 5 Royal](/posts/persona-5-royal/) - 135 Hours
 - [Cat Quest](/posts/cat-quest/) - 10 hours
+- [Marvel’s Spider-Man: Miles Morales](/posts/spider-man-miles-morales) - 22 hours
 ## Platinumed
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
 - Sleeping dogs - 90 hours
