@@ -4,7 +4,7 @@ date: 2025-05-28
 draft: true
 tags: ['games', 'review']
 build:
-list: never
+  list: never
 ---
 ![Sifu](/images/Sifu.JPG)
 ## It's just awesome

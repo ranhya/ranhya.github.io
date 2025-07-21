@@ -4,7 +4,7 @@ date: 2025-06-29
 draft: true
 tags: ['TV']
 build:
-list: never
+  list: never
 ---
 ![[The_Blacklist.jpeg]]
 The Blacklist is an interesting show, it’s right up my alley, and has done quite well to the point that other shows seem to have taken from it. (I say this because I have a feeling the J-Drama Invisible (インビジブル) might have taken inspiration from it as they have an identical premise)
