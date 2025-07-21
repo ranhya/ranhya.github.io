@@ -1,8 +1,8 @@
 ---
 title: Elden Ring
-date: 2025-07-21
+date: 2025-07-22
 tags: ['games', 'review', 'fromsoft']
-draft: true
+draft: false
 ---
 ![Elden_Ring.jpg](/images/Elden_Ring.jpg)
 Elden Ring is by far the biggest game FromSoft has made to date and it is also my favorite as of writing this post.
@@ -37,15 +37,21 @@ So, I wanna talk about the NPC quests a bit since I think Elden Ring improves *a
 
 There’s not a lot that will lock you out of certain NPC quests and it is a lot more obvious what you’re supposed to do in them. In general you’d ignore quests in these games but in this game specifically I think they’re worth at least trying to do as they’re not too complicated.
 
-#### Ranni’s quest
+#### Ranni’s Quest
+
 ![Elden Ring Ranni](../../images/Elden_Ring_Ranni.jpeg)
 Ranni’s quest is one of the most important quests in the game as certain areas are locked behind it essentially so doing it is imperative, plus you get a cool ending if you do it. The game does an ok job of making it obvious that Ranni is an important character for the most part since you see her right at the start of the game.
 
-#### Varre’s and other quests
+#### Varre’s Quest
+
+![Varre](/images/Varre.jpeg)
 Varre’s quest is also up there as it offers easy access to Mohgwyn palace. Same applies to Rya’s quest though you don’t need to finish it fully to get access to Volcano Manor and Mt. Gelmir.
 
 There is one thing about Varre’s quest that I dislike—that is the fact that there’s zero indication that his quest can be done offline. You just literally have to look it up on Google as you’re not told what to do in order to complete the quest offline. Which to be fair isn’t uncommon for these games but Elden Ring set a precedent that you do get enough info from dialogue USUALLY. I don’t play these games online because of the lack of a PS Plus subscription so for the longest time I thought that Varre’s quest was inaccessible to me.
 
+#### Fia’s Quest
+
+![Fia](/images/FiaER.jpeg)
 Fia’s quest is also very important as it’s locking a remembrance boss behind it which is quite interesting as it’s super out of the way… though her quest is not super difficult to do, I in fact stumbled upon it on my first playthrough where I actually ended up getting most of the endings set up besides the frenzied flame ending.
 
 ### Combat
