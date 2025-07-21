@@ -1,13 +1,13 @@
 ---
 title: Elden Ring
-date:
+date: 2025-07-21
 tags: ['games', 'review', 'fromsoft']
-draft: true
+draft: false
 ---
 ![Elden_Ring.jpg](/images/Elden_Ring.jpg)
 Elden Ring is by far the biggest game FromSoft has made to date and it is also my favorite as of writing this post.
 
-I think it has every aspect I loved about the other souls games I played but by like boosted like 10 times. I think, these games are at heart, Metroidvanias and Elden Ring feels most like one. The open world and literally do anything whenever you want nature of the game make this game feel way more like a Metroidvania than the others.
+I think it has every aspect I loved about the other souls games I played but by like boosted like 10 times. I think, these games are at heart, Metroidvanias and Elden Ring feels most like one. The open world and literally do anything whenever you want nature of the game make this game feel way more like a Metroidvania than the others. I’m glad to have [platinumed](https://youtu.be/QKbSvsgJGgc?feature=shared) it.
 
 There’s so much to do and see that you could do many playthroughs without even seeing certain areas that other players ended up seeing at the very beginning or other stuff like that. That gives the game a lot of replay-ability along with the amount of build variety you can have, you can just play the game for thousands of hours casually and still not get bored.
 
@@ -47,5 +47,36 @@ Varre’s quest is also up there as it offers easy access to Mohgwyn palace. Sam
 There is one thing about Varre’s quest that I dislike—that is the fact that there’s zero indication that his quest can be done offline. You just literally have to look it up on Google as you’re not told what to do in order to complete the quest offline. Which to be fair isn’t uncommon for these games but Elden Ring set a precedent that you do get enough info from dialogue USUALLY. I don’t play these games online because of the lack of a PS Plus subscription so for the longest time I thought that Varre’s quest was inaccessible to me.
 
 Fia’s quest is also very important as it’s locking a remembrance boss behind it which is quite interesting as it’s super out of the way… though her quest is not super difficult to do, I in fact stumbled upon it on my first playthrough where I actually ended up getting most of the endings set up besides the frenzied flame ending.
+
+### Combat
+Finally onto the most important part of the game—the best one too. I think Elden Ring has improved on the souls combat formula so drastically and it feels amazing. In part because of the added jump and crouch buttons but also due to the fact that the variety in viable builds and play-styles has increased so much that it feels like you can make anything work in this game and have a lot of fun doing it.
+
+You can choose any weapon and build on it and it will destroy bosses if you know what you’re doing. 
+
+The added abilities to your kit are also super awesome and make combat feel so dynamic—it’s less about learning timings now as learning spacing different ways to dodge enemy attacks becomes way more useful than in the other games where you can roll spam lol. I especially like the jump and crouch mechanics it feels incredibly cool to jump over attacks or even crouch under them, which you can do for a surprising amount of attacks.
+
+Guard counters are also incredibly cool and I really love that they gave shields their time to shine as they’ve been ignoring them heavily for the other games in my opinion. I didn’t get to use shields on most of the bosses as I don’t like that play-style but I do plan on doing a tank run where I just play with shields and a lance or something and level END and VIG. 
+
+Though the combat wouldn’t matter if the bosses weren’t good as well. And I do think that Elden Ring does REALLY REALLY well in this aspect. There’s not one boss I don’t look forward to fighting in this game. Maybe fire giant but he can be fun as he’s a real test of how much damage you can do.
+
+Basically all of the bosses have some delay to most if not all of their attacks, along with one or two attacks that are INCREDIBLY delayed. It really caught me off guard and I still am not used to it, as in the games I’ve played this was a very rare occurrence—in DS3 I can only think of one boss with delayed attacks and that’s The Nameless King. 
+
+Though all that isn’t to say I dislike the delayed attacks, I think they promote more skill expression as you can’t just roll spam to dodge them, you actually have to learn the timings and positioning in order to successfully dodge them which I think is very rewarding. In DS3 you can get away with roll spamming on most bosses but Elden Ring will heavily punish you for it, panic dodging means getting hit for most of your health or even just straight up dying. I do enjoy it.
+
+#### A note on difficulty 
+
+I keep hearing people say this game is easy, but I don’t think it’s that much easier than the other games. Yes you can get really broken and destroy every boss but I personally had a much easier time with DS3 than I did with this game. Some of the bosses in this game just absolutely destroy me still.
+
+### Respec mechanics
+
+I love the respec system in this game. It’s pretty fair with the amount of respecs you’re given per NG cycle (17) and larval tears are easy to come by so you can try out so so many builds, it’s awesome!
+
+### Music
+
+The music in this game is top notch, same as in any other fromsoft game. I love ambiance and it really makes you feel things, it can actually get overwhelming during a hard boss fight. Really gets your heart pumping when the orchestra hits.
+
+I especially like the singing enemies on the game like the ones in Nokstella and the bird women that sing.
+
+Yeah I think that’s it for now. Bye!
 
 
