@@ -20,7 +20,7 @@ The story  SUCKS. **spoilers ahead because I want to talk about this**
 
 The story isn’t just mid it is bad. I didn’t… I mean I couldn’t care about any of the characters, the dialogue was super mid and Phin especially I think is just a bad character with zero substance. Every character is shallow but she especially is super shallow and annoying.
 
-The main reason she does anything is because her brother got killed or something but it’s never actually explained what happened you just know that Simon was involved in some way, but you are not told exactly what happened and it means that Phin appears super shallow this way. Her reasoning is not sound at all and all she does is get mad at Miles for no fucking reason dude it’s insane. And not only that but then she stops listening to him completely and then almost destroys all the city—only to then fucking die in the end thank God.
+The main reason she does anything is because her brother died or something but she has no reason to be mad since it’s all his fault anyways for developing NewForm, and making himself sick, he should’ve taken precautions even if Simon wasn’t taking them. Her reasoning is not sound at all and all she does is get mad at Miles for no fucking reason dude it’s insane. And not only that but then she stops listening to him completely and then almost destroys all the city—only to then fucking die in the end thank God.
 
 Insane stuff. The plot is shallow and the characters are one-dimensional without any sort of development or anything—in fact Phin gets 0 development she’s exactly the same at the end as she was at the start.
 
