@@ -1,7 +1,7 @@
 ---
 title: "Elden Ring: Summons and Delayed Attacks"
 date: 2025-06-09
-draft: false
+draft: true
 tags: ['games', 'fromsoft']
 ---
 
