@@ -36,6 +36,12 @@ The gameplay is not bad, it’s pretty fun and satisfying for the most part. It�
 
 Friendly is the best difficulty in my opinion as the enemies aren’t health sponges but you can still die in it at least. Anything above friendly increases your playtime by 209392495 hours because the enemies take SO long to die.
 
+### Movement outside of combat
+
+The movement outside of combat such as swinging and stuff feels WAY worse than the 2018 Spider-Man game. Part of that is due to the fact that in this game Miles doesn’t swing from a real point in the world but rather he swings from air, which you’d think would make it better but it in fact makes it worse. It’s worse because you never really know what or where you’re swinging from so it feels a bit random and weird. Not to say that it’s bad—it works perfectly fine but it is definitely WAY worse than in the other game.
+
+It also ruins photo-mode because you get random ass webs in the middle of nowhere and it just ruins the pictures which is a real bummer lol. They could’ve at least tried to do it better 
+
 ### Collectibles
 
 I had more fun doing these than anything else in the game. I chose to include the bases and stuff in this category as well as they are basically collectibles.
