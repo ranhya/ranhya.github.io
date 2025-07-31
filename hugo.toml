@@ -1,76 +1,162 @@
-# Basic config
-baseURL = "https://ranhya.github.io/"
-theme = "hugo-simple"
-languageCode = "en"                # zh-Hans
+BaseURL = "http://ranhya.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+author = "Nasu Rei"
 title = "Ranhya"
-copyright = "© 2025 Ranhya"
+theme = "hugo-vitae"
 
-
-# Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
-# https://github.com/gohugoio/hugo/issues/12152
-capitalizeListTitles = false
+copyright = "© 2025 Ranhya"
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-# ignoreErrors = ["error-disable-taxonomy"]
+pygmentsstyle = "colorful"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
+googleAnalytics = ""
+[pagination]
+pagerSize = 10
 [taxonomies]
-tag = "tags"
-
-[permalinks]
-blog = "/:slugorcontentbasename/"
-tags = "/blog/:slug"
-
-[markup.goldmark.renderer]
-unsafe = true
-[markup.tableOfContents]
-startLevel = 2
-endLevel = 3
-[markup.highlight]
-lineNos = true
-lineNumbersInTable = false
-noClasses = true
-style = "catppuccin-mocha"
+	tag = "tags"
+	category = "category"
+	series = "series"
 
 [params]
-title = "Hugo Simple"
-description = "Hugo Simple Demo"
-favicon = "images/favicon.ico"
-dateFormat = "2006-01-02"
-hideMadeWithLine = false
-hideRSSLink = false
-[params.author]
-name = "Nasu Rei"
-email = "nasurei22@gmail.com"
+	# Enable dark mode as default
+	#darkmode = true
 
+	# Use homepage.md instead of a list of posts
+	homepage = false
+
+	# Add meta keywords in head part (Site Keywords or Tags of Page)
+	#keywords = ["هوگو","ویتا","قالب","استاتیک"]
+
+	# Add meta description in head part
+	#description = "Vitae یک تم وبلاگ برای Hugo است که بر محتوای شما تمرکز دارد."
+
+	# Add pagetitle to homepage <title> tag
+	pagetitle = "Ranhya's Blog"
+
+	# Add a subtitle to your website
+	subtitle = "Ranhya should edit this"
+
+	# Add math typesetting with KaTeX (Global with this Param)
+	math = true
+
+	# Optional 80x80 avatar image.
+	avatar = "avatar.jpg"
+
+	# Optional favicons for website
+	favicon = true
+
+	# Add list of sections that should show up on the homepage
+	mainSections = ["posts"]
+
+	# Add list of Sections/Types that should no be considered by RSS
+	#nofeedSections = ["post"]
+
+	# Deactivate Taxonomies for specific page types
+	#disableTaxoTypes = [""]
+
+	# Custom CSS applied to default styles. (Path could be "static/css/")
+	#customcss = "css/custom.css"
+
+	# Show reading time on a post
+	readingTime = false
+
+	# Show word count on a post
+	wordCount = true
+
+	# Show author on a post (groups with readingTime and wordCount)
+	hideAuthor = true
+
+# Custom JavaScript
+[params.customjs]
+# enable Javascript by setting to true
+enabled = false
+
+# add a filepath (could be "static/js/")
+#src = "js/main.js"
+
+# specifies which referrer information to send when fetching the script
+#referrerpolicy = "no-referrer"
+
+# specifies that the script should not be executed in browsers supporting ES2015 modules
+#nomodule = false
+
+# Allows a browser to check for integrity to ensure the code hasn't been manipulated
+#integrity= ""
+
+# execute the script when page has finished parsing (external only)
+#defer = true
+
+# sets the mode of the request to an http cors request
+#crossorigin=true
+
+# executes the script asynchronously (external only)
+#async = true
+
+# Comments
+[params.comments]
+# Enable Comments with "true"
+enabled = false
+
+# Comment provider:
+#   disqus (https://disqus.com)
+#   commento (https://commento.io)
+#   isso (https://isso-comments.de/)
+#engine = "disqus"
+
+# Content types to disable comments on.
+#disableOnTypes = ["page"]
+
+[params.comments.disqus]
+#shortname = "" # Paste the shortname from your Disqus dashboard.
+
+[params.comments.commento]
+#host = "" # Paste the domain of you commento.io system
+
+[params.comments.isso]
+#host = "" # Enter the domain of your Isso instance
+
+# Navigation
 [[menu.main]]
 name = "Home"
-pageRef = "/"
-weight = 10
+url = "/"
+weight = 1
+
 [[menu.main]]
 name = "Meta"
-pageRef = "/meta"
-weight = 20
+url = "/meta"
+weight = 2
+
 [[menu.main]]
 name = "Offtopic"
-pageRef = "/offtopic"
-weight = 20
+url = "/Offtopic"
+weight = 2
+
 [[menu.main]]
 name = "Blog"
-pageRef = "/posts"
-weight = 20
+url = "/posts"
+weight = 2
 
-[services.rss]
-limit = 42
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 5
 
-[outputs]
-# Generate RSS for home only.
-section = ["html"]
-taxonomy = ["html"]
-term = ["html"]
+# Social Menu
+#[[params.social]]
+#name = "گیتهاب"
+#icon = "fab fa-github"
+#url = "https://github.com/dataCobra/hugo-vitae"
+
+#[[params.social]]
+#name = "Email"
+#icon = "fas fa-envelope"
+#cmd = "mailto:example@example.com"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "index.xml"

@@ -1,0 +1,76 @@
+# Basic config
+baseURL = "https://ranhya.github.io/"
+theme = "hugo-simple"
+languageCode = "en"                # zh-Hans
+title = "Ranhya"
+copyright = "© 2025 Ranhya"
+
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# https://github.com/gohugoio/hugo/issues/12152
+capitalizeListTitles = false
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+# ignoreErrors = ["error-disable-taxonomy"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+blog = "/:slugorcontentbasename/"
+tags = "/blog/:slug"
+
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3
+[markup.highlight]
+lineNos = true
+lineNumbersInTable = false
+noClasses = true
+style = "catppuccin-mocha"
+
+[params]
+title = "Hugo Simple"
+description = "Hugo Simple Demo"
+favicon = "favicon.ico"
+dateFormat = "2006-01-02"
+hideMadeWithLine = false
+hideRSSLink = false
+[params.author]
+name = "Nasu Rei"
+email = "nasurei22@gmail.com"
+
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+[[menu.main]]
+name = "Meta"
+pageRef = "/meta"
+weight = 20
+[[menu.main]]
+name = "Offtopic"
+pageRef = "/offtopic"
+weight = 20
+[[menu.main]]
+name = "Blog"
+pageRef = "/posts"
+weight = 20
+
+[services.rss]
+limit = 42
+
+[outputs]
+# Generate RSS for home only.
+section = ["html"]
+taxonomy = ["html"]
+term = ["html"]
