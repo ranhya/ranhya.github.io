@@ -136,10 +136,10 @@ url = "/meta/about"
 weight = 2
 
 # Social Menu
-#[[params.social]]
-#name = "گیتهاب"
-#icon = "fab fa-github"
-#url = "https://github.com/dataCobra/hugo-vitae"
+[[params.social]]
+name = "Ran"
+icon = "fab youtube"
+url = "https://m.youtube.com/channel/UCGPg7xNI5Xs9sNRPNtbuIYw"
 
 #[[params.social]]
 #name = "Email"
