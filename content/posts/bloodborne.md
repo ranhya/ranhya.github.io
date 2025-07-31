@@ -2,7 +2,8 @@
 title: Bloodborne
 date: 2025-06-23
 draft: false
-tags: ['games', 'review', 'fromsoft']
+tags: ['fromsoft']
+categories: ['games', 'reviews']
 ---
 ![Bloodborne.jpeg](/images/Bloodborne.jpeg)
 If this game got a sequel it would be more than a masterpiece. And I do believe it. The game has a lot going for it despite it having a lot of flaws, if I’d written this post a few years ago I think it’d be very different but having now played through Sekiro, Elden Ring and Dark Souls 3 (I’ll go back to ds1 and 2 eventually)

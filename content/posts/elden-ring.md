@@ -1,8 +1,9 @@
 ---
 title: Elden Ring
 date: 2025-07-22
-tags: ['games', 'review', 'fromsoft']
+tags: ['fromsoft']
 draft: false
+categories: ['games', 'reviews']
 ---
 ![Elden_Ring.jpg](/images/Elden_Ring.jpg)
 Elden Ring is by far the biggest game FromSoft has made to date and it is also my favorite as of writing this post.

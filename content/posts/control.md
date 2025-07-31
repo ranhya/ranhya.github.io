@@ -2,7 +2,8 @@
 title: Control
 date: 2025-05-17
 draft: false
-tags: ['games', 'review']
+categories: ['games', 'reviews']
+tags: ['shooter']
 ---
 
 ![Control.jpeg](/images/Control.jpg)

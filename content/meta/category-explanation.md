@@ -2,6 +2,8 @@
 title: Explanation for the different categories
 draft: true
 date: 2007-06-16
+build:
+  list: never
 ---
 <dl>
 

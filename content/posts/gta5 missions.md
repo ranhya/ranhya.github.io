@@ -1,7 +1,7 @@
 ---
 title: Grand Theft Auto 5’s missions suck
 date: 2025-06-30
-tags: ['games']
+categories: ['games']
 draft: false
 ---
 It has been a really long time since I last played GTA 5 so I barely remember anything, but a GTA 5 video came up in my YouTube recommendations and the thought came to my mind, GTA 5’s missions fucking SUCK.
