@@ -2,7 +2,8 @@
 title: "Elden Ring: Summons and Delayed Attacks"
 date: 2025-06-09
 draft: true
-tags: ['games', 'fromsoft']
+tags: ['fromsoft', 'hidden']
+category: ['games']
 ---
 
 ![Elden Ring](/images/Elden_Ring.jpg)

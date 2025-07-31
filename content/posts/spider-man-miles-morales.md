@@ -2,7 +2,7 @@
 title: "Marvel’s Spider-Man: Miles Morales"
 draft: false
 date: 2025-07-21
-tags: ['games', 'review']
+category: ['games', 'reviews']
 ---
 
 ![Spider_man_miles_morales](../../images/Spider_man_miles_morales.jpeg)

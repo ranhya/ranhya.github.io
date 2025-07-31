@@ -2,7 +2,7 @@
 title: Sifu
 date: 2025-05-28
 draft: true
-tags: ['games', 'review']
+category: ['games', 'reviews']
 build:
   list: never
 ---

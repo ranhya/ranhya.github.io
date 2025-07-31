@@ -2,7 +2,8 @@
 title: "Uncharted 2: Among Theives"
 date: 2025-05-21
 draft: false
-tags: ['games', 'review', 'uncharted']
+tags: ['uncharted']
+category: ['games', 'reviews']
 ---
 ![Uncharted 2](/images/Uncharted_2.webp)
 Uncharted 2 is a great game that is an improvement on the first in almost every way—story, visuals, and gameplay… not only that but it is also quite a bit longer than the first.

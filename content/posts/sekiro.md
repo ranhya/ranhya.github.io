@@ -2,7 +2,8 @@
 title: "Sekiro: Shadows Die Twice"
 date: 2025-06-18
 draft: false
-tags: ['games', 'review', 'fromsoft', ]
+tags: ['fromsoft']
+category: ['games', 'reviews']
 ---
 
 ![Sekiro](/images/Sekiro.jpeg)

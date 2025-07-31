@@ -1,7 +1,8 @@
 ---
 title: About
 draft: false
-date: 2025-07-15
+date: 2007-06-16
+category: ['meta']
 ---
 This is a site that I don’t expect many people to read, it’s mostly just for me to keep track of what video games I’ve played and my thoughts on them—just in a public manner because why not. I’ll try to keep it updated as much as possible because I don’t want to be another person with a “blog” that only has like two posts lol.
 

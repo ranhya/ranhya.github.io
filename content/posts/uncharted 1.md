@@ -2,7 +2,8 @@
 title: "Uncharted: Drake's Fortune Remastered"
 date: 2025-05-17
 draft: false
-tags: ['games', 'review', 'uncharted']
+tags: ['uncharted']
+category: ['games', 'reviews']
 ---
 
 ![Uncharted 1 Boat](/images/Uncharted_1_Boat.avif)
