@@ -62,7 +62,7 @@ name = "Offtopic"
 pageRef = "/offtopic"
 weight = 20
 [[menu.main]]
-name = "Gaming"
+name = "Blog"
 pageRef = "/posts"
 weight = 20
 
