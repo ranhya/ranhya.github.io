@@ -3,7 +3,7 @@ title: Persona 5 Royal
 date: 2025-06-22
 draft: false
 tags: ['jrpg']
-categories: ['games', 'reviews']
+category: ['games', 'reviews']
 ---
 ![Persona 5 Royal.png](/images/Persona_5_Royal.png)
 One of the most stylish games of the decade, and a masterpiece in story telling and JRPG gameplay.

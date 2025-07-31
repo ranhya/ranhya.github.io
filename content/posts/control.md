@@ -2,7 +2,7 @@
 title: Control
 date: 2025-05-17
 draft: false
-categories: ['games', 'reviews']
+category: ['games', 'reviews']
 tags: ['shooter']
 ---
 

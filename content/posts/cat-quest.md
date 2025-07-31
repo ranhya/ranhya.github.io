@@ -3,7 +3,7 @@ title: Cat Quest
 date: 2025-07-17
 draft: false
 tags: ['rpg']
-categories: ['games', 'reviews']
+category: ['games', 'reviews']
 ---
 
 ![cat_quest.jpeg](/images/cat_quest.jpeg)
