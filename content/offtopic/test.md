@@ -1,6 +1,6 @@
 ---
 title: baka
-date: 2025-06-23
+date: 2007-06-16
 draft: false
 ---
 kono baka ga!

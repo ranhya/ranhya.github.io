@@ -1,5 +1,5 @@
 ---
-title: ૮ ・ﻌ・ა
+title: About
 draft: false
 date: 2025-07-15
 ---
