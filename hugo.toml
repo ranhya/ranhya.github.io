@@ -2,7 +2,7 @@ BaseURL = "http://ranhya.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 author = "Nasu Rei"
-title = "Ranhya"
+title = "૮ ・ﻌ・ა"
 theme = "hugo-vitae"
 
 enableRobotsTXT = true
@@ -35,10 +35,10 @@ pagerSize = 10
 	#description = "Vitae یک تم وبلاگ برای Hugo است که بر محتوای شما تمرکز دارد."
 
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "Ranhya's Blog"
+	pagetitle = "૮ ・ﻌ・ა"
 
 	# Add a subtitle to your website
-	subtitle = "Ranhya should edit this"
+	subtitle = "I drink glue."
 
 	# Add math typesetting with KaTeX (Global with this Param)
 	math = true
@@ -62,7 +62,7 @@ pagerSize = 10
 	#customcss = "css/custom.css"
 
 	# Show reading time on a post
-	readingTime = false
+	readingTime = true
 
 	# Show word count on a post
 	wordCount = true
