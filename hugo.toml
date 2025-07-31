@@ -138,7 +138,7 @@ weight = 2
 # Social Menu
 [[params.social]]
 name = "Ran"
-icon = "fab youtube"
+icon = "fas youtube"
 url = "https://m.youtube.com/channel/UCGPg7xNI5Xs9sNRPNtbuIYw"
 
 #[[params.social]]
