@@ -50,7 +50,7 @@ pagerSize = 10
 	favicon = true
 
 	# Add list of sections that should show up on the homepage
-	mainSections = ["posts"]
+	mainSections = ["posts", "offtopic", "meta"]
 
 	# Add list of Sections/Types that should no be considered by RSS
 	#nofeedSections = ["post"]
@@ -126,24 +126,14 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Meta"
-url = "/meta"
-weight = 2
-
-[[menu.main]]
-name = "Offtopic"
-url = "/Offtopic"
-weight = 2
-
-[[menu.main]]
-name = "Blog"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Categories"
+url = "/categories"
 weight = 5
+
+[[menu.main]]
+name = "About"
+url = "/meta/about"
+weight = 2
 
 # Social Menu
 #[[params.social]]
