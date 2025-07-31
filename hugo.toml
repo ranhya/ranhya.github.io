@@ -2,7 +2,7 @@ BaseURL = "http://ranhya.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 author = "Nasu Rei"
-title = "૮ ・ﻌ・ა"
+title = "Ranhya's Blog"
 theme = "hugo-vitae"
 
 enableRobotsTXT = true
@@ -35,7 +35,7 @@ pagerSize = 10
 	#description = "Vitae یک تم وبلاگ برای Hugo است که بر محتوای شما تمرکز دارد."
 
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "૮ ・ﻌ・ა"
+	pagetitle = "Ranhya's Blog"
 
 	# Add a subtitle to your website
 	subtitle = "I drink glue."
