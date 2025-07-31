@@ -35,10 +35,10 @@ pagerSize = 10
 	#description = "Vitae یک تم وبلاگ برای Hugo است که بر محتوای شما تمرکز دارد."
 
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "Ranhya's Blog"
+	pagetitle = "૮ ・ﻌ・ა"
 
 	# Add a subtitle to your website
-	subtitle = ""
+	# subtitle = ""
 
 	# Add math typesetting with KaTeX (Global with this Param)
 	math = true
