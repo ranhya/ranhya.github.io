@@ -38,7 +38,7 @@ pagerSize = 10
 	pagetitle = "Ranhya's Blog"
 
 	# Add a subtitle to your website
-	subtitle = "I drink glue."
+	subtitle = ""
 
 	# Add math typesetting with KaTeX (Global with this Param)
 	math = true
