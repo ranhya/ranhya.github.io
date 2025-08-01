@@ -3,8 +3,6 @@ title: Sifu
 date: 2025-08-1
 draft: false
 category: ['games', 'reviews']
-build:
-  list: always
 ---
 ![Sifu](/images/Sifu.JPG)
 ## It's just awesome
