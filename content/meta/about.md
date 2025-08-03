@@ -4,11 +4,18 @@ draft: false
 date: 2007-06-16
 category: ['meta']
 ---
-This is a site that I don’t expect many people to read, it’s really only for me to have an outlet to where I can write about anything I want (mostly video games lol), it feels futile to write and not share it with people so I made this site to do that. I’ll try to keep it updated as much as possible because I don’t want to be another person with a blog that only has like two posts lol.
 
-You can find a list of games I’ve completed [right here](/meta/completion/) I will update it as soon as I complete another game and all that. It also contains links to videos of completion progress or posts relating to the games.
+My name is Rei, I’m a normal girl that likes to play video games and write about it. I don’t expect most people to read this site. I made this site just as a place to post my writing, be it about video games, some of my other hobbies and just my general thoughts about a topic or something like that. At first this site was mainly meant to be a collection of my thoughts on video games I’ve completed however I decided that I shouldn’t limit myself to that since I have a lot of fun writing.
 
+I have a few other interests besides video games and you may or may not see me write about them here but I will list them nevertheless.
 
-If you like the site you can message me on discord  **@ranhya** and tell me what you think about it! I’m not really on any other social media. 
+- Conlanging
+- Phonology 
+- Linguistics in general
+- Japanese Drama and other types of TV shows (western or otherwise)
+- Anime
+- Achievement Hunting
 
-Made with 💟 by Nasu Rei.
+> You can see a list of categories by clicking the category button at the top. You should also check out [This Post](/meta/completion), which is a list of every game I’ve completed—with relevant links to either posts I’ve written about them or links to YouTube videos of me achieving said completion.
+
+**Made with 💟 by Nasu Rei.**
