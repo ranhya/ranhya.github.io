@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/posts/bloodborne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "bloodborne"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#shonen",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -57,7 +57,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "検索"
+          "title": "Search"
         }
       },
       {
@@ -72,7 +72,7 @@
             "searchQuery": ""
           },
           "icon": "lucide-tags",
-          "title": "タグ"
+          "title": "Tags"
         }
       },
       {
@@ -82,7 +82,7 @@
           "type": "bookmarks",
           "state": {},
           "icon": "lucide-bookmark",
-          "title": "ブックマーク"
+          "title": "Bookmarks"
         }
       }
     ],
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/meta/about.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,29 +157,31 @@
   },
   "active": "dea415e1e12348be",
   "lastOpenFiles": [
+    "content/meta/completion.md",
+    "content/meta/category-explanation.md",
     "content/meta/about.md",
-    "content/_index.md",
-    "content/posts/marvel-spider-man.md",
+    "content/posts/elden-ring.md",
     "content/posts/bloodborne.md",
+    "templates/Template game.md",
+    "templates/Template offtopic.md",
+    "content/posts/marvel-spider-man.md",
+    "Screenshot_20250804-094623.jpeg",
+    "content/posts/gta5 missions.md",
+    "content/posts/hades.md",
+    "content/_index.md",
     "Baka.md.md",
     "content/offtopic/world trigger.md",
-    "templates/Template offtopic.md",
-    "content/meta/completion.md",
     "content/posts/spider-man-miles-morales.md",
     "content/posts/cat-quest.md",
     "images.md",
-    "content/posts/hades.md",
     "README.md",
-    "content/posts/elden-ring.md",
     "content/posts/uncharted 2.md",
     "content/hidden/elden ring delayed attacks.md",
-    "templates/Template game.md",
     "Test.md",
     "content/offtopic/The Blacklist.md",
     "content/offtopic/test.md",
     "content/offtopic/ai-and-emdashes.md",
     "content/hidden/sekiro-mechanics.md",
-    "content/meta/category-explanation.md",
     "static/apple-touch-icon.png",
     "images/Sekiro.jpeg",
     "images/Spider_man_miles_morales.jpeg",
@@ -189,13 +191,10 @@
     "images/Persona_5_Royal_All_confidants_Max.jpg",
     "images/Uncharted_1_Boat.avif",
     "images/Control.jpg",
-    "images/Elden_Ring_Ranni.jpeg",
     "images",
     "images 1",
     "Video Games.base",
     "Bhudjsj.md",
-    "content/posts/sifu.md",
-    "無題のファイル.md",
     "templates",
     "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/themes/hugo-simple",
     "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/content/offtopic",

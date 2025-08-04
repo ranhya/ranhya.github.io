@@ -35,6 +35,12 @@
       },
       "note-toolbar": {
         "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "zenmode": {
+        "startupType": "instant"
       }
     }
   }
