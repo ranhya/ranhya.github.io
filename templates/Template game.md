@@ -2,6 +2,6 @@
 title:
 date:
 draft:
-category: ['offtopic']
+category: ['games', ]
 tags: 
 ---

@@ -1,0 +1,16 @@
+{
+  "useSnippets": true,
+  "compatSpf": false,
+  "showAll": false,
+  "snippets": [
+    {
+      "path": "README.md",
+      "type": "file",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    }
+  ],
+  "alwaysHideInBookmarks": false,
+  "buttonInContextBookmark": false,
+  "obsidianExclude": true
+}
