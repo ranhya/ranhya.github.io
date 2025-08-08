@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/bloodborne.md",
-                "mode": "source",
-                "source": false
+                "file": "content/offtopic/youtube-graveyard.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "bloodborne"
+              "title": "youtube-graveyard"
             }
           }
         ]
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/meta/about.md",
+            "file": "content/offtopic/youtube-graveyard.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,17 +157,21 @@
   },
   "active": "dea415e1e12348be",
   "lastOpenFiles": [
-    "content/meta/completion.md",
+    "static/images/yt-recycle-bin.jpeg",
+    "images/yt-recycle-bin.jpeg",
+    "content/offtopic/youtube-graveyard.md",
+    "content/offtopic/ai-and-emdashes.md",
+    "templates/Template game.md",
     "content/meta/category-explanation.md",
     "content/meta/about.md",
-    "content/posts/elden-ring.md",
-    "content/posts/bloodborne.md",
-    "templates/Template game.md",
-    "templates/Template offtopic.md",
     "content/posts/marvel-spider-man.md",
+    "content/posts/hades.md",
+    "content/posts/bloodborne.md",
+    "content/meta/completion.md",
+    "content/posts/elden-ring.md",
+    "templates/Template offtopic.md",
     "Screenshot_20250804-094623.jpeg",
     "content/posts/gta5 missions.md",
-    "content/posts/hades.md",
     "content/_index.md",
     "Baka.md.md",
     "content/offtopic/world trigger.md",
@@ -180,7 +184,6 @@
     "Test.md",
     "content/offtopic/The Blacklist.md",
     "content/offtopic/test.md",
-    "content/offtopic/ai-and-emdashes.md",
     "content/hidden/sekiro-mechanics.md",
     "static/apple-touch-icon.png",
     "images/Sekiro.jpeg",
@@ -190,11 +193,9 @@
     "images/Hades_voiceover_stats.jpeg",
     "images/Persona_5_Royal_All_confidants_Max.jpg",
     "images/Uncharted_1_Boat.avif",
-    "images/Control.jpg",
     "images",
     "images 1",
     "Video Games.base",
-    "Bhudjsj.md",
     "templates",
     "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/themes/hugo-simple",
     "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/content/offtopic",

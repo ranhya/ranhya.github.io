@@ -11,7 +11,7 @@ build:
 
 I can tell why this game is a fan favorite on the PS4, and also a must-play for a lot of people. I usually wouldn't play this kind of game, I'm not a big fan of superheroes. However I bought this game a long time ago to play with my nephew and I finally got around to [platinuming]() it (year) years later.
 
-If you own a PS4 (even if you don't!) I definitely recommend giving this one a shot.
+If you own a PS4 (or even if you don't!) I definitely recommend giving this one a shot.
 
 ## Story
 
@@ -38,6 +38,7 @@ Perfect dodging is super duper satisfying and also very rewarding which is good.
 Though I will say some of the enemies have really annoying patterns... well I say some but it's just the fat guys—those guys will just keep doing attacks over and over again; they just do attack after attack after attack all. And it has gotten me killed more times than I'd like to admit. I don't think it's bad design per se but it is definitely weird and annoying especially when fighting groups of enemies you don't really get an opening to attack the other enemies because of the fat guys.
 
 That's what makes perfect dodge so good though as it will incapacitate them for a little bit which allows you to maybe get one of the other enemies in the air, after which you're free to do whatever you want as the enemies can't do shit while you're in the air. The only exception to this are the enemies with guns, which are very powerful... they do __a lot__ of damage. Snipers are definitely the worst and the enemies I usually end up taking down first as if you don't do it you'll just get one shot by them basically. That's where stealth comes into play I guess you're supposed to stealth takedown the snipers before fighting.
+
 
 
 
