@@ -8,11 +8,15 @@ tags: ['interesting', 'random']
 
 So I came across this YouTube video today: [Exploring “0-view YouTube” Until I Get a Bingo](https://youtu.be/zYmkOInF6Us?si=A6NLh1WETPq-cwiG)
 
-It reminded me of the fact that I’ve always enjoyed getting glimpses or exploring this part of the internet—by that I mean, randomly coming across some of this random videos with no views whatsoever. Or scrolling through random people’s Reddit profiles, especially those with a long post history.
+It reminded me of the fact that I’ve always enjoyed getting glimpses or exploring these corners of the internet—by that I mean, randomly coming across some of these random videos with no views whatsoever. Or scrolling through random people’s Reddit profiles, especially those with a long post history.
 
-I just think it’s super interesting to get a small glimpse into someone else’s life, it’s nice to think about how others might live sometimes. There’s like this mystique, you get to speculate and wonder what their struggles might be. If it’s in an old video or post, you might wonder what they’re up to now, or even if they’re still here with us…
+I just think it’s super interesting to get a small glimpse into someone else’s life, it’s nice to think about how others might live sometimes. There’s like this feeling mystique, you get to wonder what their struggles might be. If it’s in an old video or post, you might wonder what they’re up to now, or even if they’re still here with us…
 
 I think this is also part of why I find blogs so interesting. They’re a place where people are willingly sharing parts of they want to with others and it ends up immortalized for decades. Finding old blogs is always a treat—new blogs too.
+
+Modern social media just doesn’t have this same effect on me, it all feels too curated for it to be intriguing or anything like that. Modern social media profiles and posts don’t give you a glimpse into what the author really is like… it’s hard to put into words but it feels too algorithmic even when you find all by yourself. I guess what it could be is that, modern social media is more focused on getting clicks and engagement than actually sharing that part of yourself that you want people to see—not for validation but because you want people to also be interested in what you like. While I don’t think most people on social media strive to be “influencers” with lots of engagement and internet points, I do think that subconsciously it affects what people tend to post about on these sites.
+
+That’s why I really like the premise of the YouTube graveyard (or recycle bin as the guy in the video calls it). It’s what YouTube was meant to be originally. A place to share videos.
 
 ---
 
