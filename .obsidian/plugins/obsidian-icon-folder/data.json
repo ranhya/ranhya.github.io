@@ -35,7 +35,6 @@
     "useInternalPlugins": false
   },
   "content": "LiTableOfContents",
-  "images": "LiImages",
   "static": "LiImages",
   "templates": "LiBookTemplate",
   "content/hidden": "LiEyeOff",
