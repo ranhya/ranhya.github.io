@@ -72,20 +72,3 @@ I had fun doing the research stations as they have decently varied gameplay. The
 The Taskmaster Challenges are also a lot of fun, they’re the most challenging of all the side content as it does take a few attempts to get a high score on them. Though not required for 100% getting a high score is pretty important as you need a lot of challenge tokens in order to craft all the suits in the game, which is required for an achievement.
 
 There are a lot of hard Taskmaster challenges, not uncharted crushing difficulty level of hard but there were a few that gave me quite a bit of trouble. Notably the combat challenge in Central Park was definitely not a breeze. The terrain there was annoying and I think it took me like 10 tries to finally get the score needed for ultimate level lol.
-
-
-
-
-
-
-
-
-
-
-
-
----
-注釈: 0,5898 SHA-256 916dc3ffed23baf7839ea025b114a05f  
-&AI: 3732,333  
-@Rei: 0,128 150,3582 4065,1833  
-...
