@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/offtopic/youtube-graveyard.md",
+                "file": "content/posts/marvel-spider-man.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "youtube-graveyard"
+              "title": "marvel-spider-man"
             }
           }
         ]
@@ -157,6 +157,12 @@
   },
   "active": "dea415e1e12348be",
   "lastOpenFiles": [
+    "content/posts/elden-ring.md",
+    "content/posts/marvel-spider-man.md",
+    "content/hidden/elden ring delayed attacks.md",
+    "content/hidden/Testing.md",
+    "content/offtopic/youtube-graveyard.md",
+    "content/hidden/Testing.txt",
     "content/meta/category-explanation.md",
     "content/posts/uncharted 2.md",
     "content/posts/bloodborne.md",
@@ -164,8 +170,6 @@
     "content/offtopic/world trigger.md",
     "content/offtopic/The Blacklist.md",
     "content/offtopic/test.md",
-    "content/offtopic/youtube-graveyard.md",
-    "content/posts/marvel-spider-man.md",
     "templates/Template game.md",
     "content/posts.md",
     "static/images/yt-recycle-bin.jpeg",
@@ -174,7 +178,6 @@
     "content/meta/about.md",
     "content/posts/hades.md",
     "content/meta/completion.md",
-    "content/posts/elden-ring.md",
     "templates/Template offtopic.md",
     "Screenshot_20250804-094623.jpeg",
     "content/posts/gta5 missions.md",
@@ -183,9 +186,7 @@
     "content/posts/spider-man-miles-morales.md",
     "images.md",
     "README.md",
-    "content/hidden/elden ring delayed attacks.md",
     "Test.md",
-    "content/hidden/sekiro-mechanics.md",
     "static/apple-touch-icon.png",
     "images/Sekiro.jpeg",
     "images/Spider_man_miles_morales.jpeg",
@@ -201,7 +202,6 @@
     "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/content/offtopic",
     "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/content/meta",
     "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/content/hidden",
-    "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/content/posts",
-    "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/images/favicon.ico"
+    "ranhya.github.io-4a9b3713436c4d037652756930f25cd430243253/content/posts"
   ]
 }
