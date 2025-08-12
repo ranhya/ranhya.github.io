@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImages",
       "LiGamepad2",
       "LiExternalLink",
       "LiAppWindow",
-      "LiEyeOff",
-      "LiBookTemplate"
+      "LiEyeOff"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "content/hidden": "LiEyeOff",
   "content/meta": "LiAppWindow",
   "content/offtopic": "LiExternalLink",
-  "content/posts": "LiGamepad2"
+  "content/posts": "LiGamepad2",
+  "images": "LiImages"
 }
