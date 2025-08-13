@@ -46,11 +46,9 @@ And the suit upgrades you get don’t fare much better in this area either, ther
 > **Full Charge Capacitors**:
 > Increases damage when your health is above 100.
 
-<!-- -->
 > **Discharge Power Cells**:
 > Perfect Dodge temporarily increases damage.
 
-<!-- -->
 > **Combat Analyzer**:
 > Increases XP from defeating enemies. 
 
