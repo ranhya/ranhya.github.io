@@ -101,3 +101,6 @@ The Taskmaster challenges are also a lot of fun, they’re the most challenging 
 There are a lot of hard Taskmaster challenges, not uncharted crushing difficulty level of hard but there were a few that gave me quite a bit of trouble. Notably the combat challenge in Central Park was definitely not a breeze. The terrain there was annoying and I think it took me like 10 tries to finally get the score needed for ultimate level lol. 
 
 The game turned into a collect-a-thon for me near the end. I had already done all the other side content while progressing to the game, so all that was left at this point were the newly unlocked Sable and prisoner outposts, along with the crimes... which took way too long to do and was a boring process but I managed to do it. By this point I’d gotten burnt out on the game but I pushed through since I only had a bit longer till I could finish getting 100%.
+
+### Related Posts
+[Marvel's Spider-Man: Miles Morales](/posts/spider-man-miles-morales)
