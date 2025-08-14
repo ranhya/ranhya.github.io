@@ -7,7 +7,7 @@ category: ['games', 'reviews']
 
 ![Marvel's Spider Man](/images/marvel_spider_man.jpeg)
 
-I can see why this game is a PS4 fan favorite and a must-play for many. I’m not usually into superhero games, but I bought this one years ago to play with my nephew and finally got around to [platinuming]() it—four years later.
+I can see why this game is a PS4 fan favorite and a must-play for many. I’m not usually into superhero games, but I bought this one years ago to play with my nephew and finally got around to [platinuming](https://youtu.be/tfsB8AUlJB4) it—four years later.
 
 If you own a PS4 (or even if you don't!) I highly recommend giving this one a shot.
 
