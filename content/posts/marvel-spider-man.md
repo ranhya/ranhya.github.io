@@ -9,15 +9,15 @@ build:
 
 ![Marvel’s Spider Man](/images/marvel_spider_man.jpeg)
 
-I can tell why this game is a fan favorite on the PS4, and also why it’s a must-play for a lot of people. I usually wouldn't play this kind of game, I'm not a big fan of superheroes. However I bought this game a long time ago to play with my nephew and I finally got around to [platinuming]() it four years later.
+I can see why this game is a PS4 fan favorite and a must-play for many. I’m not usually into superhero games, but I bought this one years ago to play with my nephew and finally got around to [platinuming]() it—four years later.
 
-If you own a PS4 (or even if you don't!) I definitely recommend giving this one a shot.
+If you own a PS4 (or even if you don't!) I highly recommend giving this one a shot.
 
 ## Story
 
 The story isn’t super special but there's enough substance here that it serves for a good bit of entertainment. It's not super deep and it's pretty easy to guess where the story is going.
 
-[WIP]
+One thing I will say is that it’s easy to sympathize with the main villains as taking down a corrupt president is a pretty easy thing to get by.
 
 ## Combat
 
@@ -39,18 +39,24 @@ Though I will say some of the enemies have really annoying patterns... well I sa
 
 That's what makes perfect dodge so good though as it will incapacitate them for a little bit which allows you to maybe get one of the other enemies in the air, after which you're free to do whatever you want as the Enemies can't do shit while you're in the air. The only exception to this are the enemies with guns, which are very powerful... they do __a lot__ of damage. Snipers are definitely the worst and the enemies I usually end up taking down first as if you don't do it you'll just get one shot by them basically. That's where stealth comes into play I guess you're supposed to stealth takedown the snipers before fighting.
 
-The suit powers are awesome and a lot of them do cool stuff. But I don’t think they’re super balanced. The first suit powers you get is the best up until you unlock the Taskmaster challenges, after that the *quad damage* suit power is just the best option for every encounter really. Being able to one or two shot every enemy makes clearing groups so fast that it might as well be NECESSARY to complete some of the Taskmaster challenges lol.
+The suit powers are awesome and a lot of them do cool stuff. But I don’t think they’re super balanced. The first suit power you get is the best up until you unlock the Taskmaster challenges, after that the *quad damage* suit power is just the best option for every encounter really. Being able to one or two shot every enemy makes clearing groups so fast that it might as well be NECESSARY to complete some of the Taskmaster challenges lol.
 
-And the suit upgrades you get don’t fare much better in this area either, there are only a handful of good ones because all the rest are outclassed by the good ones. The one that gives you more EXP from combat is a must have, I got it and then never took it off. And the other two slots—I only ended up using two abilities. Extra damage... and extra damage.
+And the suit upgrades you get don’t fare much better in this area either, there are only a handful of good ones because all the rest are outclassed by the good ones. The one that gives you more EXP from combat is a must have, I got it and then didn’t take it off until I was max level. And the other two slots—I only ended up using two abilities. Extra damage... and extra damage.
 
 > **Full Charge Capacitors**:
 > Increases damage when your health is above 100.
 
+<!-- -->
 > **Discharge Power Cells**:
 > Perfect Dodge temporarily increases damage.
 
+<!-- -->
 > **Combat Analyzer**:
 > Increases XP from defeating enemies. 
+
+In the late game, the first suit power you unlock in the game, ==[forgor name]==, becomes one of the best in my opinion as the Sable guys’ armor make the quad damage a suit power—along with most of the other ones obsolete. However with the ==insert name== suit power you can get up focus bar quickly and focus on performing finishers on the armored Sable guys. This is aided by one of the abilities you unlock in the skill tree that allows you to do another finisher for free.
+
+I’d also reached the max level of 50 in this stage of the game so the combat analyzer ability became obsolete of course. I changed it out for some random one I don’t quite remember which. There are a lot of good ones.
 
 ## Story Missions
 
@@ -58,9 +64,9 @@ The story missions are not the most interesting in terms of gameplay. A lot of t
 
 Obviously it’s more complicated than that but that’s generally how it goes. The missions are fun nonetheless though and as explained above the story is actually quite good. 
 
-There are some missions where you get to play as characters other than Spider-Man, mostly as MJ. But there is one where you control Miles as well. The MJ missions are short enough and focus on stealth. But they’re not difficult or really have anything that can be called riveting gameplay. It’s just sneaking from one place to another.
+There are some missions where you get to play as characters other than Spider-Man, mostly as MJ. But there are some where you get to control Miles as well. The MJ missions are short enough and focus on stealth. But they’re not difficult or really have anything that can be called riveting gameplay. It’s just sneaking from one place to another.
 
-The Miles mission is a spoiler so I won’t be talking about it here. But I will say it is SUPER BORING.
+That being said there are a lot of cool set pieces. One of my favorite ones is in the mission “Collision Course.” Which was super awesome and had great story implications as well. 
 
 ## Side Content
 
@@ -92,4 +98,6 @@ I had fun doing the research stations as they have decently varied gameplay. The
 
 The Taskmaster challenges are also a lot of fun, they’re the most challenging of all the side content as it does take a few attempts to get a high score on them. Though not required for 100% getting a high score is pretty important as you need a lot of challenge tokens in order to craft all the suits in the game, which is required for an achievement.
 
-There are a lot of hard Taskmaster challenges, not uncharted crushing difficulty level of hard but there were a few that gave me quite a bit of trouble. Notably the combat challenge in Central Park was definitely not a breeze. The terrain there was annoying and I think it took me like 10 tries to finally get the score needed for ultimate level lol.
+There are a lot of hard Taskmaster challenges, not uncharted crushing difficulty level of hard but there were a few that gave me quite a bit of trouble. Notably the combat challenge in Central Park was definitely not a breeze. The terrain there was annoying and I think it took me like 10 tries to finally get the score needed for ultimate level lol. 
+
+The game turned into a collect-a-thon for me near the end. I had already done all the other side content while progressing to the game, so all that was left at this point were the newly unlocked Sable and prisoner outposts, along with the crimes... which took way too long to do and was a boring process but I managed to do it. By this point I’d gotten burnt out on the game and was contemplating just getting the platinum here, since I’d already played the game before I had the achievements that came with the main story completion. But I decided to push through to see the ending once again.
