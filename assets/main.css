@@ -235,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 .markdown-body h6 {
   margin-top: var(--base-size-24);
   margin-bottom: var(--base-size-16);
-  font-weight: var(--base-text-weight-semibold, 600);
+  font-weight: 500;
   line-height: 1.25;
   color: var(--txt-color);
 }
@@ -266,31 +266,31 @@ h6 {
 */
 
 .markdown-body h2 {
-  font-weight: var(--base-text-weight-semibold, 600);
+  font-weight: 500;
   padding-bottom: .3em;
-  font-size: 1.5em;
+  font-size: 2em;
   border-bottom: 1px solid var(--borderColor-muted);
 }
 
 .markdown-body h3 {
-  font-weight: var(--base-text-weight-semibold, 600);
-  font-size: 1.25em;
+  font-weight: 500;
+  font-size: 1.7em;
 }
 
 .markdown-body h4 {
-  font-weight: var(--base-text-weight-semibold, 600);
-  font-size: 1em;
+  font-weight: 500;
+  font-size: 1.4em;
 }
 
 .markdown-body h5 {
-  font-weight: var(--base-text-weight-semibold, 600);
-  font-size: .875em;
+  font-weight: 500;
+  font-size: 1em;
 }
 
 .markdown-body h6 {
-  font-weight: var(--base-text-weight-semibold, 600);
+  font-weight: 500;
   font-size: .85em;
-  color: var(--fgColor-muted);
+  color: #9198a1;
 }
 
 ul {
