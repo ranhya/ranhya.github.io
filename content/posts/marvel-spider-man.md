@@ -25,7 +25,7 @@ The combat encounters are varied enough that it doesn’t become stale as new en
 
 You can drop scaffolding on the enemies for instant kills, set down trap mines where an enemy patrols, or even stick them directly onto an enemy and watch them slam into walls, or into others lol. There’s even an achievement for this.
 
-The gadgets you get are all very nice to use and you can to use them quite a lot. I think the star of the show is the impact web gadget which is *very* powerful and will help you instantly kill a lot of enemies as webbing enemies to walls or the floor will instantly take them out of the fight. No matter the type of enemy.
+The gadgets you get are all very nice to use. I think the star of the show is the impact web gadget which is *very* powerful and will help you instantly kill a lot of enemies as webbing enemies to walls or the floor will instantly take them out of the fight. No matter the type of enemy.
 
 The web bomb is also fun because a lot of the time you'll be overwhelmed by groups of enemies and you can absolutely just destroy them with one of these bad boys. If you're lucky you'll even stick a few of them to a wall which is very nice.
 
