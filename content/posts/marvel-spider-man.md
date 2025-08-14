@@ -1,13 +1,11 @@
 ---
 title: Marvel's Spider-Man
-date:
-draft: true
-category: ['games', 'review']
-build:
-  list: never
+date: 2025-08-14
+draft: false
+category: ['games', 'reviews']
 ---
 
-![Marvel’s Spider Man](/images/marvel_spider_man.jpeg)
+[Marvel's Spider Man](/images/marvel_spider_man.jpeg)
 
 I can see why this game is a PS4 fan favorite and a must-play for many. I’m not usually into superhero games, but I bought this one years ago to play with my nephew and finally got around to [platinuming]() it—four years later.
 
@@ -54,9 +52,11 @@ And the suit upgrades you get don’t fare much better in this area either, ther
 > **Combat Analyzer**:
 > Increases XP from defeating enemies. 
 
-In the late game, the first suit power you unlock in the game, ==[forgor name]==, becomes one of the best in my opinion as the Sable guys’ armor make the quad damage a suit power—along with most of the other ones obsolete. However with the ==insert name== suit power you can get up focus bar quickly and focus on performing finishers on the armored Sable guys. This is aided by one of the abilities you unlock in the skill tree that allows you to do another finisher for free.
+In the late game, the first suit power you unlock in the game, battle focus, becomes one of the best in my opinion as the Sable guys’ armor make the quad damage a suit power—along with most of the other ones obsolete. However with the battle focus suit power you can get up focus bar quickly and focus on performing finishers on the armored Sable guys. This is aided by one of the abilities you unlock in the skill tree that allows you to do another finisher for free.
 
-I’d also reached the max level of 50 in this stage of the game so the combat analyzer ability became obsolete of course. I changed it out for some random one I don’t quite remember which. There are a lot of good ones.
+The Web Blossom suit power also becomes way more useful in the late game as you go around stopping every crime in all the districts. It’s very time consuming but the Web Blossom power allows you to bang some of them out very quickly as the enemies tend to bunch up a lot.
+
+Spider Drones are also incredibly useful for dealing with large groups of enemies which is... every encounter lol. They’re also every economic as if they kill an enemy you get another spider drone so you can unleash hell on everyone :D.
 
 ## Story Missions
 
@@ -100,4 +100,4 @@ The Taskmaster challenges are also a lot of fun, they’re the most challenging 
 
 There are a lot of hard Taskmaster challenges, not uncharted crushing difficulty level of hard but there were a few that gave me quite a bit of trouble. Notably the combat challenge in Central Park was definitely not a breeze. The terrain there was annoying and I think it took me like 10 tries to finally get the score needed for ultimate level lol. 
 
-The game turned into a collect-a-thon for me near the end. I had already done all the other side content while progressing to the game, so all that was left at this point were the newly unlocked Sable and prisoner outposts, along with the crimes... which took way too long to do and was a boring process but I managed to do it. By this point I’d gotten burnt out on the game and was contemplating just getting the platinum here, since I’d already played the game before I had the achievements that came with the main story completion. But I decided to push through to see the ending once again.
+The game turned into a collect-a-thon for me near the end. I had already done all the other side content while progressing to the game, so all that was left at this point were the newly unlocked Sable and prisoner outposts, along with the crimes... which took way too long to do and was a boring process but I managed to do it. By this point I’d gotten burnt out on the game but I pushed through since I only had a bit longer till I could finish getting 100%.
