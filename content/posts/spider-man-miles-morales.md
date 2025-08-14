@@ -62,3 +62,6 @@ The game doesn’t have any difficulty trophies—which is nice. I do really lik
 
 There’s also some nice trophies like the paying respects ones—I like these types of miscellaneous trophies!
 
+#### Related Posts
+[Marvel’s Spider-Man](/posts/marvel-spider-man)
+
