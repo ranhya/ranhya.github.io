@@ -237,7 +237,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: var(--base-size-16);
   font-weight: 500;
   line-height: 1.25;
-  color: var(--txt-color);
+  color: #FF0000;
   border-bottom: 1px solid #d0d7de;
   padding-bottom: 0.3em;
   margin-bottom: 16px;
