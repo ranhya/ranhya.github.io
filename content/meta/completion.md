@@ -23,7 +23,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Cat Quest](/posts/cat-quest/) - 10 hours
 - [Marvel’s Spider-Man: Miles Morales](/posts/spider-man-miles-morales) - 22 hours
 ## Platinumed
-- [Marvel's Spider-Man](/posts/marvel-spider-man)
+- [Marvel's Spider-Man](/posts/marvel-spider-man) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
 - Sleeping dogs - 90 hours
 - [The Witcher 3](https://youtu.be/fI7F0vM7USo) - 107 hours
