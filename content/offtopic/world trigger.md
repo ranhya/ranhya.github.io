@@ -2,7 +2,7 @@
 title: World Trigger
 date: 2025-06-28
 draft: false
-tags: ['shonen battle', 'anime' 'action']
+tags: ['shonen battle', 'anime', 'action']
 category: ['Media']
 ---
 
