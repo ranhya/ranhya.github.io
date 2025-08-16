@@ -2,7 +2,7 @@
 title: The Blacklist
 date: 2025-06-29
 draft: true
-tags: ['Crime', 'Drama' 'TV']
+tags: ['Crime', 'Drama', 'TV']
 category: ['Media']
 build:
   list: never
