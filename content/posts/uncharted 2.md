@@ -10,8 +10,6 @@ category: ['games', 'reviews']
 
 Uncharted 2 is a great game that is an improvement on the first in almost every way—story, visuals, and gameplay… not only that but it is also quite a bit longer than the first.
 
----
-
 First of all, the game looks a lot better than the first—and I would argue that it kind of (not really) holds up today aesthetically, from an art-style perspective at least. The animations all look way better and all of that is great. But I don’t wanna just wanna make comparisons to the two games constantly because that’s boring—so I’ll just list the big differences here.
 
 - Game is longer
