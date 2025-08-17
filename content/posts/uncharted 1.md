@@ -6,7 +6,7 @@ tags: ['uncharted']
 category: ['games', 'reviews']
 ---
 
-![Uncharted 1](/images/uncharted_1.jpeg)
+![Uncharted 1](/images/Uncharted_1.jpeg)
 
 Uncharted 1 is a game that had potential—it’s not perfect but it was good enough; so it got a sequel and the series was born, I think idfk.
 
