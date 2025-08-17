@@ -793,10 +793,11 @@ p code {
 
 .markdown > p:not(:empty):first-of-type::first-letter {
   float: left;
-  font-size: 3em;
+  font-size: 3em; 
   line-height: 1;
-  margin-right: 0.1em;
-  margin-top: 0.05em;
-  font-family: "Crimson Pro", serif;
+  margin-right: 0.15em;
+  margin-top: 0;
+  margin-bottom: 0;
   font-weight: normal;
+  font-family: "Crimson Pro", serif;
 }
