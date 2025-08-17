@@ -791,7 +791,7 @@ p code {
   text-align: start;
 }
 
-p:not(:empty):first-of-type::first-letter {
+.markdown > p:not(:empty):first-of-type::first-letter {
   float: left;
   font-size: 5em;
   line-height: 0.85;
