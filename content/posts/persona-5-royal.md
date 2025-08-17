@@ -5,13 +5,9 @@ draft: false
 tags: ['jrpg']
 category: ['games', 'reviews']
 ---
+
 ![Persona 5 Royal.png](/images/Persona_5_Royal.png)
 One of the most stylish games of the decade, and a masterpiece in story telling and JRPG gameplay.
-***
-
-The game starts you off right in the action, right in one of the game’s last dungeons.
-
-Only like 100 hours in you end up back at this point and it is the coolest thing ever.
 
 ## The Premise
 You play as Joker, a high schooler who after a tussle with a man heckling a woman—gets sent off to Tokyo to stay with a family friend, Sakura Sojiro… with a new and shiny criminal record to boot.

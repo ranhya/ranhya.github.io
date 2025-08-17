@@ -5,7 +5,9 @@ draft: false
 tags: ['fromsoft']
 category: ['games', 'reviews']
 ---
+
 ![Bloodborne.jpeg](/images/Bloodborne.jpeg)
+
 If this game got a sequel it would be more than a masterpiece. And I do believe it. The game has a lot going for it despite it having a lot of flaws, if I’d written this post a few years ago I think it’d be very different but having now played through Sekiro, Elden Ring and Dark Souls 3 (I’ll go back to ds1 and 2 eventually)
 
 I can say that while this isn’t my favorite game fromsoft has made it is still amazing and still holds up even after all these years. Though it’s being heavily held back by the lack of a rerelease on better hardware. I actually tried replaying the game before writing this post but I just could not do it—30fps is just too shit to do this game justice.

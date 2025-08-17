@@ -4,6 +4,7 @@ date: 2025-06-30
 category: ['games']
 draft: false
 ---
+
 It has been a really long time since I last played GTA 5 so I barely remember anything, but a GTA 5 video came up in my YouTube recommendations and the thought came to my mind, GTA 5’s missions fucking SUCK.
 
 There’s not that many good missions in the game with the heists being somewhat decent, and even those don’t have much going for them. The missions of the game just feel like “drive to this place, watch cutscene, shoot people, watch cutscene, mission passed”

@@ -5,6 +5,7 @@ draft: false
 tags: ['roguelike']
 category: ['games', 'reviews']
 ---
+
 ![Hades.jpeg](/images/Hades.jpeg)
 I’m a sucker for a good roguelite and Hades is one of the best, and also one of the most unique. Hades is one of the first (if not the first) roguelites to have a very prominent story. The story is built around you dying and interacting with the different NPCs at the house of Hades. [The game has a total of 21,020 voice lines and 30 voiced characters](https://x.com/SupergiantGames/status/1343986323007238144).![Hades voiceover stats.jpeg](/images/Hades_voiceover_stats.jpeg)
 ***

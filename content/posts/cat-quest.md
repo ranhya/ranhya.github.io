@@ -7,6 +7,7 @@ category: ['games', 'reviews']
 ---
 
 ![cat_quest.jpeg](/images/cat_quest.jpeg)
+
 Peak gaming. Cat Quest is a game I remember from when I was a little girl—and seeing it on sale for super cheap, I nabbed it. It was a great decision. I remembered this game very fondly and I’m glad to report that it is not nostalgia this game slaps.
 
 The gameplay loop is addictive and keeps you playing, I played it for 10 hours and got the [platinum](https://youtu.be/y6QPlokR4M4), couldn’t put the game down for those 10 hours. You can watch my full playthrough split into three parts here: [Cat Quest Playthrough](https://youtube.com/playlist?list=PLjp8D5bPtjerF7WUOLA4qm1tahEC1eKzt&si=DXrMpVgTN7bZmgzg)

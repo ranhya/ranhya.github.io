@@ -7,7 +7,9 @@ category: ['Media']
 build:
   list: never
 ---
+
 ![[The_Blacklist.jpeg]]
+
 The Blacklist is an interesting show, it’s right up my alley, and has done quite well to the point that other shows seem to have taken from it. (I say this because I have a feeling the J-Drama Invisible (インビジブル) might have taken inspiration from it as they have an identical premise)
 
 This post will just be a collection of my thoughts on the show, therefore **<mark style=“color:red;”>it will contain lots of spoilers</mark>**. So if you don’t want that I recommend you do watch the show first as it is actually a really good show!
