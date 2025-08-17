@@ -59,7 +59,7 @@ pagerSize = 10
 	#disableTaxoTypes = [""]
 
 	# Custom CSS applied to default styles. (Path could be "static/css/")
-	customcss = "/css/Markdown.css/"
+	customcss = "/css/Markdown.css"
 
 	# Show reading time on a post
 	readingTime = true
