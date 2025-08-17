@@ -17,6 +17,9 @@ These are `hugo.toml` configuration files for hugo
  Currently `/layouts/_partials/footer.html` has been moved to `/footer.html` so that it does
  not interfere with `hugo-vitae` theme
 
+ ### CSS
+ - `/static/css/Markdown.css` currently overrides all of `/themes/hugo-vitae/static/css/main.css` for personal cusomizations (`hugo-vitae`)
+
 ### Terminology
 
 In this repository for the README:
