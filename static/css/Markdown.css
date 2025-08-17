@@ -793,11 +793,13 @@ p code {
 
 .markdown > p:not(:empty):first-of-type::first-letter {
   float: left;
-  font-size: 3em; 
-  line-height: 1;
-  margin-right: 0.15em;
-  margin-top: 0;
+  font-size: 3em;        /* Bigger drop cap */
+  line-height: 1;        /* Prevents extra internal spacing */
+  margin-right: 0.15em;  /* Space between drop cap & text */
+  margin-top: 0;         
   margin-bottom: 0;
+  position: relative;    /* Allows nudging */
+  top: -0.05em;   
   font-weight: normal;
   font-family: "Crimson Pro", serif;
 }
