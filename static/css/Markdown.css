@@ -793,7 +793,7 @@ p code {
 
 .markdown > p:not(:empty):first-of-type::first-letter {
   float: left;
-  font-size: 6em;
+  font-size: 3.3em;
   line-height: 1;
   margin: 0.1em 0.1em 0.2em 0;
   padding: 0.1em;
