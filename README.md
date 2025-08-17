@@ -12,6 +12,7 @@ These are `hugo.toml` configuration files for hugo
 #### Layouts
  - `/layouts/_partials/head.html`: Custom head.html to load dark mode (`hugo-vitae`)
  - `/layouts/_partials/header.html`: Custom header.html for margin (`hugo-vitae`)
+ - `/layouts/_defaults/baseof.html`: Custom baseof.html for emptying out `p` tags (`hugo-vitae`)
  - `/layouts/_partials/footer.html`: Custom footer (`hugo-simple`)
 
  Currently `/layouts/_partials/footer.html` has been moved to `/footer.html` so that it does

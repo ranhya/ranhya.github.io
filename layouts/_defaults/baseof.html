@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" dir='{{ .Site.Params.LanguageDir | default "ltr" }}'>
+{{ partial "head.html" . -}}
+<script defer>
+/* 1) Remove empty <p> tags (including whitespace, &nbsp;, <br>, or comments)  */
+function removeEmptyParagraphs(root) {
+  const scope = root || document;
+  scope.querySelectorAll("p").forEach(p => {
+    // keep paragraphs that contain real content elements
+    const hasContentElement = p.querySelector("img, svg, video, iframe, object, embed, canvas, picture, audio, table, math") !== null;
+    if (hasContentElement) return;
+
+    const text = (p.textContent || "").replace(/\u00A0/g, " ").trim(); // &nbsp; -> real space
+    // strip comments, whitespace, &nbsp;, and <br> to see if anything remains
+    const htmlStripped = (p.innerHTML || "")
+      .replace(/<!--[\s\S]*?-->/g, "")
+      .replace(/&nbsp;|\s|<br\s*\/?>/gi, "");
+
+    if (text.length === 0 && htmlStripped.length === 0) {
+      p.remove();
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Run the cleanup first (limit to .markdown if you prefer)
+  const markdownRoot = document.querySelector('.markdown') || document;
+  removeEmptyParagraphs(markdownRoot);
+
+  // OPTIONAL: if other scripts inject content later, keep things clean:
+  // const mo = new MutationObserver(muts => removeEmptyParagraphs(markdownRoot));
+  // mo.observe(markdownRoot, { childList: true, subtree: true });
+
+  /* 2) Your existing RTL/Persian direction logic */
+  const persianRegex = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u200B\u200D\u2060\u0020]/g;
+
+  const elements = document.querySelectorAll(`
+    .markdown p,
+    .markdown h1,
+    .markdown h2,
+    .markdown h3,
+    .markdown h4,
+    .markdown h5,
+    .markdown h6,
+    .markdown li,
+    .markdown blockquote,
+    .markdown dd,
+    .markdown dt,
+    .markdown td,
+    .markdown th,
+    pre,
+    .post-header
+  `);
+
+  elements.forEach(el => {
+    if (!el.textContent) return;
+    const isFirstPersian = el.textContent[0].match(persianRegex) !== null;
+    const persianNumberOfLetterMatches = Array.from(el.textContent.matchAll(persianRegex)).length * (isFirstPersian ? 1.2 : 1.0);
+    const hasPersian = persianNumberOfLetterMatches >= (el.textContent.length / 2.0);
+
+    el.style.direction = hasPersian ? 'rtl' : 'ltr';
+    el.style.textAlign = hasPersian ? 'right' : 'left';
+
+    if (el.tagName.match(/^H[1-6]$/)) {
+      el.style.marginRight = hasPersian ? '1rem' : '-1';
+      el.style.marginLeft = hasPersian ? '0' : '1rem';
+    }
+  });
+});
+</script>
+
+<body>
+{{ partial "header.html" . -}}
+<main>
+{{- block "main" . }}{{- end }}
+</main>
+{{- partial "footer.html" . }}
+</body>
+</html>
