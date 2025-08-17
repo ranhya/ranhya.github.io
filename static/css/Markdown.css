@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,900;1,900&display=swap');
 
 @font-face {
   font-family: 'Bookerly Display';
@@ -793,9 +793,9 @@ p code {
 
 .markdown > p:not(:empty):first-of-type::first-letter {
   float: left;
-  font-size: 4em;
-  line-height: 0.8;
+  font-size: 2em;
+  line-height: 1;
   margin-right: 0.1em;
-  font-family: 'Cormorant', serif;
-  font-weight: normal;
+  font-family: "Crimson Pro", serif;
+  font-weight: 900;
 }
