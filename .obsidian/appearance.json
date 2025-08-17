@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Pomme Notes",
+  "accentColor": "#3165f5",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "clutter",
+    "fonts-ia-writer",
+    "hide-yaml-reading-mode",
+    "generated.explorer-hider"
+  ],
+  "baseFontSize": 20,
+  "textFontFamily": "Hiragino Maru Gothic ProN",
+  "interfaceFontFamily": "Hiragino Maru Gothic ProN"
+}

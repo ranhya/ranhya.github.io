@@ -2,8 +2,8 @@
 title: The Blacklist
 date: 2025-06-29
 draft: true
-tags: ['Crime', 'Drama']
-category: ['TV']
+tags: ['Crime', 'Drama', 'TV']
+category: ['Media']
 build:
   list: never
 ---
@@ -31,3 +31,4 @@ Liz’s character arc continues as well, now she’s paranoid, sleeping in motel
 Naomi/Carla is a fucking bitch along with her stupid ass husband, your life is in danger but you refuse to listen to the one guy who can keep you safe, it’s so fucking stupid dude what the hell. Like I guess that it’s a complicated past and stuff but that shouldn’t matter when your life is in danger and you know that Red only wants to help you fucking stay alive.
 
 I mean the only reason she got grabbed in the first place was because she was being a stubborn motherfucker, if you are in protective custody and the FBI comes to tell you that you are in danger you go with them NO QUESTIONS ASKED it’s kinda stupid that she just stood there talking like bruh go already.
+

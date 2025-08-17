@@ -59,7 +59,7 @@ pagerSize = 10
 	#disableTaxoTypes = [""]
 
 	# Custom CSS applied to default styles. (Path could be "static/css/")
-	#customcss = "css/custom.css"
+	#customcss = "static/css/Markdown.css"
 
 	# Show reading time on a post
 	readingTime = true
@@ -128,6 +128,11 @@ weight = 1
 [[menu.main]]
 name = "Categories"
 url = "/category"
+weight = 4
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
 weight = 5
 
 [[menu.main]]

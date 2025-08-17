@@ -1,0 +1,67 @@
+.markdown, .content {
+  font-family: "Georgia", "Iowan Old Style", "Times New Roman", serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  max-width: 40rem;
+  margin: auto;
+  padding: 1rem;
+}
+
+.markdown h1, .content h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 2rem 0 1rem;
+}
+
+.markdown h2, .content h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 2rem 0 1rem;
+}
+
+.markdown h3, .content h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1.5rem 0 0.75rem;
+}
+
+.markdown p, .content p {
+  margin: 1rem 0;
+}
+
+.markdown p:first-of-type::first-letter,
+.content p:first-of-type::first-letter {
+  float: left;
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 400;
+  margin-right: 0.25rem;
+}
+
+.markdown blockquote, .content blockquote {
+  font-style: italic;
+  border-left: 3px solid;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+}
+
+.markdown pre, .content pre {
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-family: "JetBrains Mono", "Courier New", monospace;
+  font-size: 0.9rem;
+}
+
+.markdown code, .content code {
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: "JetBrains Mono", "Courier New", monospace;
+  font-size: 0.9rem;
+}
+
+.markdown ul, .content ul,
+.markdown ol, .content ol {
+  margin: 1rem 0 1rem 1.5rem;
+  padding: 0;
+}

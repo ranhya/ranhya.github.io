@@ -1,0 +1,869 @@
+{
+  "debugEnabled": false,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": "453c6a98-abc9-45a4-ba21-9df6e1b427f5"
+    },
+    {
+      "folder": "content",
+      "toolbar": "5334e310-016b-458c-a282-8e28990bedd6"
+    }
+  ],
+  "icon": "lucide-circle-ellipsis",
+  "keepPropsState": false,
+  "onboarding": {},
+  "ribbonAction": "toolbar",
+  "scriptingEnabled": true,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "5334e310-016b-458c-a282-8e28990bedd6",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "sticky",
+        "button"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "347070d5-c338-4d16-8c83-a796d4938d51",
+          "hasCommand": false,
+          "icon": "check-square",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": true,
+            "commandId": "editor:cycle-list-checklist",
+            "focus": "editor",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Cycle bullet/checkbox",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "5006ed3e-3ccb-4ac4-8007-7b8796d890d2",
+          "hasCommand": false,
+          "icon": "list-ordered",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": true,
+            "commandId": "editor:toggle-numbered-list",
+            "focus": "editor",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Toggle numbered list",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "8f2d0788-df04-4144-8f56-cc7fc0f48d21",
+          "hasCommand": false,
+          "icon": "indent-increase",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "app.workspace.activeLeaf.view?.editor.indentList()",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Indent",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "8277efc1-45a3-4dd0-8037-cfa284f656ff",
+          "hasCommand": false,
+          "icon": "indent-decrease",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "app.workspace.activeLeaf.view?.editor.unindentList()",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Unindent",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Floater",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "fabr"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "fabr"
+          }
+        }
+      },
+      "updated": "2025-08-04T00:47:46.666Z"
+    },
+    {
+      "uuid": "453c6a98-abc9-45a4-ba21-9df6e1b427f5",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "sticky",
+        "button"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "1209680b-5609-4537-814b-b09559261d20",
+          "hasCommand": false,
+          "icon": "lucide-activity",
+          "inGallery": false,
+          "label": "Zen",
+          "link": "Zen Mode: Toggle",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "zenmode:toggle-zen-mode",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "4e692671-0e4b-4065-b553-0b0b5dd48e42",
+          "hasCommand": false,
+          "icon": "clipboard-copy",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "const e = app.workspace.activeLeaf.view?.editor;\ntry { await window.navigator.clipboard.writeText(e.getSelection()); e?.focus(); } catch (e) { console.error(e); new Notice(ntb.t('api.msg.error-console')); }",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Copy",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "32ec1d6c-ec23-4987-8e2a-2b698d58078e",
+          "hasCommand": false,
+          "icon": "scissors",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "const e = app.workspace.activeLeaf.view?.editor;\ntry { await window.navigator.clipboard.writeText(e.getSelection()); e.replaceSelection(''); e?.focus(); } catch (e) { console.error(e); new Notice(ntb.t('api.msg.error-console')); }",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Cut",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "ef6109bc-8163-4796-8501-fd58d1ac767e",
+          "hasCommand": false,
+          "icon": "clipboard-paste",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "const e = app.workspace.activeLeaf.view?.editor;\ntry { let rs = e.replaceSelection; let text = await window.navigator.clipboard.readText(); if (text) rs.apply(e, [text]); e?.focus(); } catch (e) { console.error(e); new Notice(ntb.t('api.msg.error-console')); }",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Paste",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "b95da8c3-e2c4-4c6e-a668-56e4adc3e7ea",
+          "hasCommand": false,
+          "icon": "lucide-undo-2",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "app.workspace.activeLeaf.view?.editor.undo()",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Undo",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "3efa7b10-894b-4a17-bdc4-b0d87df42d8d",
+          "hasCommand": false,
+          "icon": "lucide-redo-2",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "app.workspace.activeLeaf.view?.editor.redo()",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Redo",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "dea53e15-6470-4344-aecc-dbd799326e4e",
+          "hasCommand": false,
+          "icon": "",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "separator"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "bebfb024-06c8-4f70-bef6-fd9c2f67edb0",
+          "hasCommand": false,
+          "icon": "paperclip",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": true,
+            "commandId": "editor:attach-file",
+            "focus": "editor",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Insert attachment",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "b80e6586-b332-48da-8bb0-5eab266414e3",
+          "hasCommand": false,
+          "icon": "link",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": true,
+            "commandId": "editor:insert-link",
+            "focus": "editor",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Insert markdown link",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "2953ec30-a848-405a-bbcf-dfaf1f614e9f",
+          "hasCommand": false,
+          "icon": "",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "separator"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "81b886f9-ecca-46fe-a87e-6177af42930c",
+          "hasCommand": false,
+          "icon": "bold",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": true,
+            "commandId": "editor:toggle-bold",
+            "focus": "editor",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Toggle bold",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "831794fa-2da8-4dfb-80fb-1d9ee29c2c42",
+          "hasCommand": false,
+          "icon": "italic",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": true,
+            "commandId": "editor:toggle-italics",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Toggle italics",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "ca87b221-1621-424d-a299-bd4e20dfe802",
+          "hasCommand": false,
+          "icon": "strikethrough",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": true,
+            "commandId": "editor:toggle-strikethrough",
+            "focus": "editor",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Toggle strikethrough",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [
+        "mnbrder",
+        "mnwrp"
+      ],
+      "name": "Topbar",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-08-04T07:19:32.385Z"
+    }
+  ],
+  "version": 20250313.1,
+  "whatsnew_version": "1.25"
+}

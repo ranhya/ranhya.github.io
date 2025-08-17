@@ -1,0 +1,16 @@
+{
+  "livePreview": false,
+  "userIgnoreFilters": [
+    "archetypes/",
+    "archetypes/",
+    "layouts/",
+    "layouts/_partials/",
+    "assets/",
+    "themes/"
+  ],
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "mobileToolbarCommands": [],
+  "propertiesInDocument": "source",
+  "showInlineTitle": false
+}
