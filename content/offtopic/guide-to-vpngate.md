@@ -1,11 +1,12 @@
 ---
 title: Guide to using vpngate.net
-draft: true
+draft: false
 date: 2025-08-19
 category: ['offtopic']
 tags: ['guide']
-toc: true
 ---
+
+{{< toc >}}
 
 VPN Gate is a great resources that not enough people make use of. It’s one of the few free and actually good ways of getting a VPN connection. 
 
