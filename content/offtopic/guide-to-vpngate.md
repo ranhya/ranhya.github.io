@@ -13,6 +13,8 @@ tags: ['guide']
   - [Windows](#windows)
   - [iOS, Android, macOS and Linux](#ios-android-macos-and-linux)
 
+---
+
 VPN Gate is a great resources that not enough people make use of. It’s one of the few free and actually good ways of getting a VPN connection. 
 
 ## What is VPN Gate?
