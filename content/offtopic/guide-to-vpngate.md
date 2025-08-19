@@ -15,7 +15,7 @@ tags: ['guide']
 
 ---
 
-VPN Gate is a great resources that not enough people make use of. It’s one of the few free and actually good ways of getting a VPN connection. 
+VPN Gate is a great resource that not enough people make use of. It’s one of the few free and actually good ways of getting a VPN connection. 
 
 ## What is VPN Gate?
 
@@ -23,7 +23,7 @@ VPN Gate is a great resources that not enough people make use of. It’s one of 
 \
 — [vpngate.net overview](https://www.vpngate.net/en/about_overview.aspx)
 
-Unlike other VPN providers, most of the servers on vpngate.net are hosted by volunteers around the world. This insures that they cannot all be blocked, and the site itself does not offer a full list of all the servers available, insuring that governments, companies and other actors cannot block traffic from them.
+Unlike other VPN providers, most of the servers on vpngate.net are hosted by volunteers around the world. This insures that they cannot all be blocked, and the site itself does not offer a full list of all the servers available, pretty much guaranteeing that governments and companies cannot block traffic from them.
 
 There are many reasons to use a VPN, though in this blog post I just want to detail how you can use vpngate to bypass streaming service country specific licensing and watch any show you want on the streaming service you’ve paid for.
 
