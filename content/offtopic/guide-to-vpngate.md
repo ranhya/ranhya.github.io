@@ -33,7 +33,7 @@ There are many reasons to use a VPN, though in this blog post I just want to det
 
 First of all when you open the site you’ll see a big list of available VPN servers. The country flag on the left, and a bunch of other info on the right. If you do not see a VPN server from the country you want to connect to, you can scroll to the bottom and click the blue button that says “Refresh Servers List.”
 
-Lets say you want to connect to a Japanese VPN server, as these appear most commonly on the list, first you’ll want to avoid any of the ones that have “By Daiyu Nobori” as these always appear at the top and are most definitely blocked by streaming service providers. Instead look for the ones that say “By [something] owner” as these are hosted by volunteers and are most likely not blocked. 
+Let’s say you want to connect to a Japanese VPN server, as these appear most commonly on the list, first you’ll want to avoid any of the ones that have “By Daiyu Nobori” as these always appear at the top and are most definitely blocked by streaming service providers. Instead look for the ones that say “By [something] owner” as these are hosted by volunteers and are most likely not blocked. 
 
 The next step depends on the device/operating system you’re connecting from.
 
