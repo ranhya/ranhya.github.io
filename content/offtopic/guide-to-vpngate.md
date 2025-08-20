@@ -43,7 +43,7 @@ On windows it is easiest to use, as you can go to the website’s [download page
 
 ### iOS, Android, macOS and Linux
 
-On mobile devices, you must first download the OpenVPN app from your respective AppStore, or on download the APK on Android if you feel so inclined. Then you can go to the website, and click on the “OpenVPN Config file” link on the right. It will take you to a page containing various download links. ***I recommend picking the OpenVPN file with the IP address included rather than the DDNS host name one as it is generally more reliable.*** It doesn’t matter which one of the two you pick; you can just pick the top one. You can then go into the OpenVPN app and import the file, and you should connect to the VPN automatically, if it does not work—try a different server until you get one that works.
+On mobile devices, you must first download the OpenVPN app from your respective AppStore, or download the APK on Android if you feel so inclined. Then you can go to the website, and click on the “OpenVPN Config file” link on the right. It will take you to a page containing various download links. ***I recommend picking the OpenVPN file with the IP address included rather than the DDNS host name one as it is generally more reliable.*** It doesn’t matter which one of the two you pick; you can just pick the top one. You can then go into the OpenVPN app and import the file, and you should connect to the VPN automatically, if it does not work—try a different server until you get one that works.
 
 > 📝 Note:
 > On iOS you must share the file to the OpenVPN app from the system files app.
