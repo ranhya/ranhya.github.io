@@ -9,7 +9,7 @@ category: ['games']
 ![Elden_Ring.jpg](/images/Elden_Ring.jpg)
 Elden Ring is by far the biggest game FromSoft has made to date and it is also my favorite as of writing this post.
 
-I think it has every aspect I loved about the other souls games I played but by like boosted like 10 times. I think, these games are at heart, Metroidvanias and Elden Ring feels most like one. The open world and literally do anything whenever you want nature of the game make this game feel way more like a Metroidvania than the others. I’m glad to have [platinumed](https://youtu.be/QKbSvsgJGgc?feature=shared) it.
+I think it has every aspect I loved about the other souls games I played but boosted by like 10 times. I think, these games are at heart, Metroidvanias and Elden Ring feels most like one. The open world and literally do anything whenever you want nature of the game make this game feel way more like a Metroidvania than the others. I’m glad to have [platinumed](https://youtu.be/QKbSvsgJGgc?feature=shared) it.
 
 There’s so much to do and see that you could do many playthroughs without even seeing certain areas that other players ended up seeing at the very beginning or other stuff like that. That gives the game a lot of replay-ability along with the amount of build variety you can have, you can just play the game for thousands of hours casually and still not get bored.
 
