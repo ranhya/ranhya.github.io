@@ -1,7 +1,7 @@
 ---
 title: Borderlands
 date: 2025-08-23
-draft: true
+draft: false
 ---
 
 The first Borderlands game is the first in a series that many love. And it’s no wonder why it is so, it’s a great game with great mechanics that still mostly holds up well to this day, especially with the game of the year enhanced edition.
