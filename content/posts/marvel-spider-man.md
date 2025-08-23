@@ -2,7 +2,7 @@
 title: Marvel's Spider-Man
 date: 2025-08-14
 draft: false
-category: ['games', 'reviews']
+category: ['games']
 ---
 
 ![Marvel's Spider Man](/images/marvel_spider_man.jpeg)

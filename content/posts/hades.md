@@ -3,7 +3,7 @@ title: Hades
 date: 2025-06-23
 draft: false
 tags: ['roguelike']
-category: ['games', 'reviews']
+category: ['games']
 ---
 
 ![Hades.jpeg](/images/Hades.jpeg)

@@ -3,7 +3,7 @@ title: "Uncharted 2: Among Theives"
 date: 2025-05-21
 draft: false
 tags: ['uncharted']
-category: ['games', 'reviews']
+category: ['games']
 ---
 
 ![Uncharted 2](/images/Uncharted_2.webp)

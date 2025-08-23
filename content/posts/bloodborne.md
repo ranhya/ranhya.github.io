@@ -3,7 +3,7 @@ title: Bloodborne
 date: 2025-06-23
 draft: false
 tags: ['fromsoft']
-category: ['games', 'reviews']
+category: ['games']
 ---
 
 ![Bloodborne.jpeg](/images/Bloodborne.jpeg)

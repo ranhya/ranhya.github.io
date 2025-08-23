@@ -3,7 +3,7 @@ title: Persona 5 Royal
 date: 2025-06-22
 draft: false
 tags: ['jrpg']
-category: ['games', 'reviews']
+category: ['games']
 ---
 
 ![Persona 5 Royal.png](/images/Persona_5_Royal.png)
