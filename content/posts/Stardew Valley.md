@@ -10,7 +10,7 @@ Stardew Valley is probably one of my favorite games and I’ve not even played i
 
 I’ve been playing on my phone and I think it’s a great phone game! The mobile versions have an “emergency save” feature that lets you start right back from where you left off in the day so you don’t have to sleep to save. That means you can play for a few minutes then put the game down no problem! And I think that’s awesome. 
 
-![Stardew Valley resume prompt](/images/Previously_left_off_stardew)
+![Stardew Valley resume prompt](/images/Previously_left_off_stardew.png)
 
 ---
 
