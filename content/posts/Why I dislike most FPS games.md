@@ -6,7 +6,7 @@ category: ['games']
 tags: ['shooter']
 ---
 
-Okay, the title is kind of a lie. I don’t *dislike* FPS games. I think I’m disappointed with the current state the genre is in. What do I mean by that exactly, I’m not 100% sure myself. That’s what I want to find out by writing this blog post. I’m not one with a really long history in FPS games but I’ve played them quite a lot over the years nonetheless.
+Okay, the title is kind of a lie. I don’t *dislike* FPS games[^By FPS games I mean multiplayer, competitive FPS games.]. I think I’m disappointed with the current state the genre is in. What do I mean by that exactly, I’m not 100% sure myself. That’s what I want to find out by writing this blog post. I’m not one with a really long history in FPS games but I’ve played them quite a lot over the years nonetheless.
 
 I probably have around 4000 hours sunk into various games, but the biggest chunk that time is in one game: *Apex Legends*. There’s a reason I have so many hours in the game—well a few reasons:
 
