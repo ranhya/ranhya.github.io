@@ -6,7 +6,7 @@ category: ['games']
 tags: ['shooter']
 ---
 
-Okay, the title is kind of a lie. I don’t *dislike* FPS games[^By FPS games I mean multiplayer, competitive FPS games.]. I think I’m disappointed with the current state the genre is in. What do I mean by that exactly, I’m not 100% sure myself. That’s what I want to find out by writing this blog post. I’m not one with a really long history in FPS games but I’ve played them quite a lot over the years nonetheless.
+Okay, the title is kind of a lie. I don’t *dislike* FPS games[^1]. I think I’m disappointed with the current state the genre is in. What do I mean by that exactly, I’m not 100% sure myself. That’s what I want to find out by writing this blog post. I’m not one with a really long history in FPS games but I’ve played them quite a lot over the years nonetheless.
 
 I probably have around 4000 hours sunk into various games, but the biggest chunk that time is in one game: *Apex Legends*. There’s a reason I have so many hours in the game—well a few reasons:
 
@@ -37,3 +37,5 @@ Despite all of that, I don’t play THE FINALS regularly at all. I think while t
 Splitgate one flopped. It was a great game in my opinion. It was original and wasn’t a BR or anything like that. Splitgate 2 is just Splitgate one but better, issue is that they’ve caved and added a BR mode! A super lackluster one at that! It was horrible. But I do think the game still has a glimmer of hope in my eyes as, there’s a server browser, and game modes other than the stupid BR one.
 
 Mechanically the game is great and feels great to play, the portals are awesome and offer a lot of opportunities for outplays blah blah blah. The only issue I had with the game was the BR mode which is completely avoidable! I think that’s cool and I do hope this game succeeds.
+
+[^1]: By FPS games I mean multiplayer, competitive FPS games.
