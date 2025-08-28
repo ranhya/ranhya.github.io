@@ -6,7 +6,7 @@ category: ['games']
 tags: ['relaxing game']
 ---
 
-Stardew Valley is probably one of my favorite games and I’ve not even played it as much as other people yet. I first played the game I don’t know how many years ago, and I was hooked—I was young and I had just saw a YouTube video or two about it, mainly DangerouslyFunny videos where he used mods and stuff and did massive harvests. My first introduction to the game was modded lol, I guess that speaks wonders to the kind of game it is.
+I love Stardew Valley. I first played the game I don’t know how many years ago, and I was hooked—I was young and I had just saw a YouTube video or two about it, mainly DangerouslyFunny videos where he used mods and stuff and did massive harvests. My first introduction to the game was modded lol, I guess that speaks wonders to the kind of game it is.
 
 I’ve been playing on my phone and I think it’s a great phone game! The mobile versions have an “emergency save” feature that lets you start right back from where you left off in the day so you don’t have to sleep to save. That means you can play for a few minutes then put the game down no problem! And I think that’s awesome. 
 
