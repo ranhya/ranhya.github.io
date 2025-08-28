@@ -24,7 +24,7 @@ The game was challenging on crushing but it wasn’t totally unfair… though th
 ### Gunplay
 The gun play feels a little bit… unsatisfying—it feels like you’re shooting blanks or nerf darts at the enemy, and it’s not helped by the fact that the weapons you’ll be using the most—that being the ARs: the AK and the M4. These two are probably the worst culprits in my opinion, they are just too inaccurate and are only good to spray down enemies with. Spraying down enemies is most of what you’ll be doing, at least on crushing difficulty and below. Most of the enemies have helmets preventing them from dying from one headshot, and even if they don’t the hit-boxes are kind of atrocious; a lot of the time I would feel as though an enemy should have died but in fact they were alive and then they would one shot me with a shotgun or something. The weapons I had the most luck with were the 92FS and the FAL, as well as the shotguns and of course the RPG and Grenade Launcher were great too when I had access to them though I did find myself not using them as much as getting another weapon after running out of ammo mid fight was kind of annoying.
 
-The good weapons just don’t have enough ammo to make them worth while most of the time, like the Deagle and the Wes, which are both 1 shot kills on unarmored enemies each have a very limited ammo capacity—which makes sense they would be very OP if you could use them as much as the AK or the 92FS… but because of that I never found it worth while to pick them up unless I was fighting a stronger opponent like an armored enemy or something. And even then blind firing from cover was a way better strategy a lot of the time. Especially when fighting certain enemies like the armored guys with shotguns or the shield guys. 
+The good weapons just don’t have enough ammo to make them worth while most of the time, like the Deagle and the Wes, which are both 1 shot kills on unarmored enemies each have a limited ammo capacity—which makes sense they would be OP if you could use them as much as the AK or the 92FS… but because of that I never found it worth while to pick them up unless I was fighting a stronger opponent like an armored enemy or something. And even then blind firing from cover was a way better strategy a lot of the time. Especially when fighting certain enemies like the armored guys with shotguns or the shield guys. 
 
 Oh yeah the blind fire is actually really good. 
 
@@ -42,11 +42,11 @@ I think the weapons I would pick up the most on crushing are these—in order of
 
 The shield is fun but the amount of times that you get to use it throughout the games is a number you can count on one hand so…
 
-On a different note, the cover system, while an improvement over the first game—can feel very clunky as the controls are quite unintuitive and Nate controls like a fucking tank sometimes, I found myself dying a lot while trying to get into cover but Nate wouldn’t do it or would lock onto something completely different. Some pieces of cover worked really poorly and Nate wouldn’t “stick” to them so well, you could walk a bit too far and he would leave cover.
+On a different note, the cover system, while an improvement over the first game—can feel clunky as the controls are quite unintuitive and Nate controls like a fucking tank sometimes, I found myself dying a lot while trying to get into cover but Nate wouldn’t do it or would lock onto something completely different. Some pieces of cover worked really poorly and Nate wouldn’t “stick” to them so well, you could walk a bit too far and he would leave cover.
 
 I found myself unintentionally jumping back and forth between cover like poles and such a lot because the controls are kind of unintuitive.
 
-Overall the gunplay is lacking in some areas but it’s not the worst—definitely doesn’t ruin the experience and it is probably the biggest part of the experience for me as well. Encounters were usually very fun and challenging in a mostly unfrustrating way. The AI is not super duper stupid and actually try to flank you and can be a pain in the ass to deal with sometimes—I faced this in chapter 4.
+Overall the gunplay is lacking in some areas but it’s not the worst—definitely doesn’t ruin the experience and it is probably the biggest part of the experience for me as well. Encounters were usually fun and challenging in a mostly unfrustrating way. The AI is not super duper stupid and actually try to flank you and can be a pain in the ass to deal with sometimes—I faced this in chapter 4.
 
 The main issues in my experience are:
 - Guns are unsatisfying 
@@ -59,7 +59,7 @@ Unlike the first game—this one does actually have some stealth which makes the
 Overall not bad I don’t think.
 
 ### Treasure Collecting
-There are a total of 101 treasures in the game and they were quite fun to collect. I used a guide—it’d be very hard to get them without one…
+There are a total of 101 treasures in the game and they were quite fun to collect. I used a guide—it’d be hard to get them without one…
 
 The treasures are spread around pretty evenly throughout the whole game, and their locations are pretty off the beaten path this time. Some of them are right in front of you but those are fewer. A lot of the treasures you have to shoot down from a higher up place before you can actually go and collect them which is an OK mechanic though I had one time where a treasure seemingly disappeared after I’d shot it down, reloading checkpoint fixed it though and I was able to collect it.
 
@@ -78,7 +78,7 @@ The one thing I found was better was the writing, lots of fun quips and stuff li
 Chloe is a pretty cool character—it was a surprise to me that Nate didn’t end up being betrayed by her… from the start I thought she would betray Nate but it didn’t happen, though Nate still ended up with Elena, which I don’t mind. For most of the game she doesn’t care about others but herself and Nate but like right at the end that changes with Elena which is quite nice… not much of a character arc but her change of heart at the end was still nice.
 
 ### Final Boss
-The final boss was a really fun fight, I did spend like an hour dying to him on Crushing but I found the gimmick to be very fun even though it was frustrating on crushing. On other difficulties it is totally fine and is a very awesome fight that leads to a satisfying ending after wanting to beat the shit out of Lozaravich for so long.
+The final boss was a really fun fight, I did spend like an hour dying to him on Crushing but I found the gimmick to be fun even though it was frustrating on crushing. On other difficulties it is totally fine and is a awesome fight that leads to a satisfying ending after wanting to beat the shit out of Lozaravich for so long.
 
 All my thoughts. Bye!
 

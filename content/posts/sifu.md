@@ -30,7 +30,7 @@ All of that comes with just playing the game more and more there’s stuff you c
 
 ## In conclusion
 
-The game has a very arcade-y… old beat-em-up feel but with all of the wonders of modern day games. The game has so much replay-ability especially with the game getting free updates and the arenas mode that was added in one of those FREE updates. That added so much content to a game already filled with stuff to do!
+The game has an arcade-y… old beat-em-up feel but with all of the wonders of modern day games. The game has so much replay-ability especially with the game getting free updates and the arenas mode that was added in one of those FREE updates. That added so much content to a game already filled with stuff to do!
 
 
 

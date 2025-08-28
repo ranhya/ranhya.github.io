@@ -14,7 +14,7 @@ I’ve been playing on my phone and I think it’s a great phone game! The mobil
 
 ---
 
-As of the time I’m writing this I'm in fall of year one, about to enter into winter. I’m very close to being done with the community center, can easily finish it in year two! I mostly fished in the early game and got my money that one + multiple harvest crops, which I love! Just plant them once and don’t worry about it for the rest of the season! I’ve got a bunch of ancient fruit which I plan on planting on spring of year two and I’m also excited to plant starfruit in summer!
+As of the time I’m writing this I'm in fall of year one, about to enter into winter. I’m close to being done with the community center, can easily finish it in year two! I mostly fished in the early game and got my money that one + multiple harvest crops, which I love! Just plant them once and don’t worry about it for the rest of the season! I’ve got a bunch of ancient fruit which I plan on planting on spring of year two and I’m also excited to plant starfruit in summer!
 
 The one thing I’ve been neglecting is friendship. I plan on doing that a bit later, possibly starting in year two as it’s a bit difficult for me to remember all these schedules and stuff! I’ve got a good stockpile of diamonds and other gifts so that shouldn’t be a problem!
 

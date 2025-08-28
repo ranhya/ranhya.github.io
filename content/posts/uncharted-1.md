@@ -16,11 +16,11 @@ Uncharted 1 starts you off right in the action—and that’s indicative of the 
 The main gripe I have with the game, is that there is a LOT of shooting—compared to Uncharted 4.[^1]
 
 
-The lots of fighting got pretty boring on my first play-through, however—with the absolutely insane difficulty of crushing, I thought it wasn’t *as bad*. Weird… I know, but I found it very rewarding (and frustrating :D) to finally get through a tough encounter some of which took dozens of tries and strategies.
+The lots of fighting got pretty boring on my first play-through, however—with the absolutely insane difficulty of crushing, I thought it wasn’t *as bad*. Weird… I know, but I found it rewarding (and frustrating :D) to finally get through a tough encounter some of which took dozens of tries and strategies.
 
 And the amount of encounters did allow for that, but while I thought it a plus during my crushing play-thorough, I do have to say the difficulty and amount of encounters could definitely get quite stale.
 
-You die in like three shots and the enemies practically have aim bot, so using the in-game cover system means you have very little time to peak out of cover before you get shot to death. Couple that with whatever the fuck kinda drugs the enemies are taking to literally **dodge your shots** matrix-style… the game can feel super duper punishing and unfair a lot of the time. A lot of my deaths were ones where I felt like I had no chance because the enemies laser-ed me out of nowhere and it felt like RNG at times whether I would die in a section.
+You die in like three shots and the enemies practically have aim bot, so using the in-game cover system means you have little time to peak out of cover before you get shot to death. Couple that with whatever the fuck kinda drugs the enemies are taking to literally **dodge your shots** matrix-style… the game can feel super duper punishing and unfair a lot of the time. A lot of my deaths were ones where I felt like I had no chance because the enemies laser-ed me out of nowhere and it felt like RNG at times whether I would die in a section.
 
 That’s on crushing difficulty though—hard and below are quite fair I think.
 

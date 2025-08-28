@@ -11,12 +11,12 @@ Elden Ring is by far the biggest game FromSoft has made to date and it is also m
 
 I think it has every aspect I loved about the other souls games I played but boosted by like 10 times. I think, these games are at heart, Metroidvanias and Elden Ring feels most like one. The open world and literally do anything whenever you want nature of the game make this game feel way more like a Metroidvania than the others. I’m glad to have [platinumed](https://youtu.be/QKbSvsgJGgc?feature=shared) it.
 
-There’s so much to do and see that you could do many playthroughs without even seeing certain areas that other players ended up seeing at the very beginning or other stuff like that. That gives the game a lot of replay-ability along with the amount of build variety you can have, you can just play the game for thousands of hours casually and still not get bored.
+There’s so much to do and see that you could do many playthroughs without even seeing certain areas that other players ended up seeing at the beginning or other stuff like that. That gives the game a lot of replay-ability along with the amount of build variety you can have, you can just play the game for thousands of hours casually and still not get bored.
 
-There are like over 130 bosses in the base game which is insane—and most of them are good bosses too, very fun fights. 
+There are like over 130 bosses in the base game which is insane—and most of them are good bosses too, fun fights. 
 
 ## The Open World
-The Elden Ring open world is absolutely massive, I don’t believe the 79 square kilometer estimate is very accurate but it works see: [this video](https://youtu.be/XWQtJiQ1Sm4). But compared to other games the map is absolutely massive and the amount of stuff there is to do in the open world is insane. There’s still so many areas in the open world that I haven’t seen probably which is crazy.
+The Elden Ring open world is absolutely massive, I don’t believe the 79 square kilometer estimate is accurate but it works see: [this video](https://youtu.be/XWQtJiQ1Sm4). But compared to other games the map is absolutely massive and the amount of stuff there is to do in the open world is insane. There’s still so many areas in the open world that I haven’t seen probably which is crazy.
 
 The main way you traverse this massive open world is obviously, with your trusty steed, Torrent. Torrent moves way faster than your character does but to be honest he does feel a bit slow at times, the travel time between graces and certain close areas feels kind of annoying.
 
@@ -31,9 +31,9 @@ It is so infuriating when you’re looking for an item or a dungeon or something
 ## Gameplay
 The gameplay loop in Elden Ring is a lot different than the other games FromSoft has made. The core of it is still the same, explore, kill bosses, find key items, get an ending.
 
-But the gameplay loop in Elden Ring focuses a lot more on exploration than the other games, obviously with such a massive open world it’s not a surprise that the game is very focused on exploration—but it’s not just the fact that the game has an open world, the game also has A LOT of dungeons to explore. Not just legacy dungeons but optional dungeons which you will spend a lot of time exploring.
+But the gameplay loop in Elden Ring focuses a lot more on exploration than the other games, obviously with such a massive open world it’s not a surprise that the game is focused on exploration—but it’s not just the fact that the game has an open world, the game also has A LOT of dungeons to explore. Not just legacy dungeons but optional dungeons which you will spend a lot of time exploring.
 
-This is also where the Metroidvania aspect of the game comes in, with so much to explore, on subsequent play-throughs the most fun part of the game is coming up with a build, going to the places, getting the weapons and the items and all of that. Upgrading your weapons and trying to optimize your build is very fun. I am a big fan of routing so it’s pretty cool.
+This is also where the Metroidvania aspect of the game comes in, with so much to explore, on subsequent play-throughs the most fun part of the game is coming up with a build, going to the places, getting the weapons and the items and all of that. Upgrading your weapons and trying to optimize your build is fun. I am a big fan of routing so it’s pretty cool.
 ### The NPC Quests
 So, I wanna talk about the NPC quests a bit since I think Elden Ring improves *a lot* on them, compared to the other games completing the NPC quests is a lot easier without any sort of guide.
 
@@ -54,7 +54,7 @@ There is one thing about Varre’s quest that I dislike—that is the fact that 
 #### Fia’s Quest
 
 ![Fia](/images/FiaER.jpeg)
-Fia’s quest is also very important as it’s locking a remembrance boss behind it which is quite interesting as it’s super out of the way… though her quest is not super difficult to do, I in fact stumbled upon it on my first playthrough where I actually ended up getting most of the endings set up besides the frenzied flame ending.
+Fia’s quest is also important as it’s locking a remembrance boss behind it which is quite interesting as it’s super out of the way… though her quest is not super difficult to do, I in fact stumbled upon it on my first playthrough where I actually ended up getting most of the endings set up besides the frenzied flame ending.
 
 ### Combat
 Finally onto the most important part of the game—the best one too. I think Elden Ring has improved on the souls combat formula so drastically and it feels amazing. In part because of the added jump and crouch buttons but also due to the fact that the variety in viable builds and play-styles has increased so much that it feels like you can make anything work in this game and have a lot of fun doing it.
@@ -67,9 +67,9 @@ Guard counters are also incredibly cool and I really love that they gave shields
 
 Though the combat wouldn’t matter if the bosses weren’t good as well. And I do think that Elden Ring does REALLY REALLY well in this aspect. There’s not one boss I don’t look forward to fighting in this game. Maybe fire giant but he can be fun as he’s a real test of how much damage you can do.
 
-Basically all of the bosses have some delay to most if not all of their attacks, along with one or two attacks that are INCREDIBLY delayed. It really caught me off guard and I still am not used to it, as in the games I’ve played this was a very rare occurrence—in DS3 I can only think of one boss with delayed attacks and that’s The Nameless King. 
+Basically all of the bosses have some delay to most if not all of their attacks, along with one or two attacks that are INCREDIBLY delayed. It really caught me off guard and I still am not used to it, as in the games I’ve played, this was a rare occurrence—in DS3 I can only think of one boss with delayed attacks and that’s The Nameless King. 
 
-Though all that isn’t to say I dislike the delayed attacks, I think they promote more skill expression as you can’t just roll spam to dodge them, you actually have to learn the timings and positioning in order to successfully dodge them which I think is very rewarding. In DS3 you can get away with roll spamming on most bosses but Elden Ring will heavily punish you for it, panic dodging means getting hit for most of your health or even just straight up dying. I do enjoy it.
+Though all that isn’t to say I dislike the delayed attacks, I think they promote more skill expression as you can’t just roll spam to dodge them, you actually have to learn the timings and positioning in order to successfully dodge them which I think is rewarding. In DS3 you can get away with roll spamming on most bosses but Elden Ring will heavily punish you for it, panic dodging means getting hit for most of your health or even just straight up dying. I do enjoy it.
 
 #### A note on difficulty 
 

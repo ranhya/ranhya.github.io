@@ -14,4 +14,4 @@ The main focus of the fights is less on power of friendship suddenly get a boost
 
 One thing I really like in this show is that the characters actually listen to each other and also respect orders, they don’t do bullshit because they don’t want to or anything. 
 
-World Trigger is a piece of media I highly recommend. I do recommend you watch the anime first, though it starts of pretty slowly—the manga has the same issue though. You can watch the anime and then start the manga from where the anime left off though as the anime adaptation is very faithful to the original you won’t miss out on anything!
+World Trigger is a piece of media I highly recommend. I do recommend you watch the anime first, though it starts of pretty slowly—the manga has the same issue though. You can watch the anime and then start the manga from where the anime left off though as the anime adaptation is faithful to the original you won’t miss out on anything!
