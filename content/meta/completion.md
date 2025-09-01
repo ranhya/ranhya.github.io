@@ -1,7 +1,7 @@
 ---
 title: "Completion List"
 draft: false
-date: 2007-06-16
+date: 2025-01-01
 category: ['meta']
 ---
 This is a list of the games I have completed—not in any particular order. The games in "platinumed" are games I have gotten all the achievements for but have not done enough for me to consider them completed 100%.[^1]

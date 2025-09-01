@@ -1,14 +1,15 @@
 ---
 title: About
 draft: false
-date: 2007-06-16
+date: 2025-01-01
 category: ['meta']
 ---
 
-My name is Rei, I’m a normal girl that likes to play video games and write about it. I don’t expect most people to read this site. I made this site just as a place to post my writing, be it about video games, some of my other hobbies and just my general thoughts about a topic or something like that. At first this site was mainly meant to be a collection of my thoughts on video games I’ve completed however I decided that I shouldn’t limit myself to that since I have a lot of fun writing.
+My name is Rei, I’m a normal girl that likes to play video games and write about it. I don’t expect most people to read this site. I made this site as a place to post my writing, be it about video games, my other hobbies and my general thoughts on a topic or something like that. At first this site was mainly meant to be a collection of my thoughts on video games that I’ve completed. However, I decided that I shouldn’t limit myself to that since I have a lot of fun writing.
 
-I have a few other interests besides video games and you may or may not see me write about them here but I will list them nevertheless.
+I have a few other interests besides video games and you may or may not see me write about them here but I will list them nonetheless.
 
+- Writing
 - Conlanging
 - Phonology 
 - Linguistics in general
