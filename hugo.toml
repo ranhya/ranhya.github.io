@@ -99,7 +99,7 @@ enabled = false
 # Comments
 [params.comments]
 # Enable Comments with "true"
-enabled = false
+enabled = true
 
 # Comment provider:
 #   disqus (https://disqus.com)
