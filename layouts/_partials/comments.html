@@ -4,6 +4,6 @@
 {{ partial "comments/commento.html" . }}
 {{- else if eq site.Params.comments.engine "isso" }}
 {{ partial "comments/isso.html" . }}
-{{- end }}
 {{- else if eq site.Params.comments.engine "cusdis" }}
 {{ partial "comments/cusdis.html" . }}
+{{- end }}
