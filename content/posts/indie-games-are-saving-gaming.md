@@ -15,6 +15,7 @@ Without those people and the greed they bring—games can thrive—under good cr
 On top of that, besides all that, indie games are so popular due to their accessibility. Now I get that most of the games I listed above are older, but this even applies to new indie games. Not everyone has a beefy computer or the newest and greatest console to play these games, yet most indie games will run decently on a lot of modern computers and some, though unofficial have even been ported to mobile, very successfully at that.
 
 ## Indie games are so goddamn cheap too! 
+
 You can get Terraria on steam for like $5 on sale, maybe even less! Hollow Knight, a game I’ve sunk hundreds of hours in and could sink hundreds more hours in, is $15 and often goes on sale. And despite the fact people would gladly pay double, triple the price—TeamCherry have confirmed the price of Hollow Knight: Silksong to be… $20. For a game such as Silksong, one that’s been in development for 7+ years and all that without a second crowdfunding campaign (money for the Hollow Knight one was used for Silksong as well), it’s baffling.
 
 Yet Nintendo charge $80 for Switch 2 titles.
