@@ -16,9 +16,9 @@ On top of that, besides all that, indie games are so popular due to their access
 
 ## Indie games are so goddamn cheap too! 
 
-You can get Terraria on steam for like $5 on sale, maybe even less! 
+You can get Terraria on steam for like five dollars on sale, maybe even less! 
 
-Hollow Knight, a game I’ve sunk hundreds of hours in and could sink hundreds more hours in, is $15 and often goes on sale. And despite the fact people would gladly pay double, triple the price—TeamCherry have confirmed the price of Hollow Knight: Silksong to be… $20. For a game such as Silksong, one that’s been in development for 7+ years and all that without a second crowdfunding campaign (money for the Hollow Knight one was used for Silksong as well), it’s baffling.
+Hollow Knight, a game I’ve sunk hundreds of hours in and could sink hundreds more hours in, is 15 dollars and often goes on sale. And despite the fact people would gladly pay double, triple the price—TeamCherry have confirmed the price of Hollow Knight: Silksong to be… 20 dollars. For a game such as Silksong, one that’s been in development for 7+ years and all that without a second crowdfunding campaign (money for the Hollow Knight one was used for Silksong as well), it’s baffling.
 
 Yet Nintendo charge $80 for Switch 2 titles.
 
