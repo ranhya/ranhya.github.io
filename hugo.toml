@@ -1,4 +1,4 @@
-BaseURL = "http://ranhya.github.io/"
+BaseURL = "https://ranya.run"
 languageCode = "en"
 defaultContentLanguage = "en"
 author = "Nasu Rei"
@@ -7,7 +7,7 @@ theme = "hugo-vitae"
 
 enableRobotsTXT = true
 
-copyright = "© 2025 Ranhya"
+copyright = "© 2025 Rei"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
