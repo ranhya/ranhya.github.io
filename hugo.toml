@@ -105,7 +105,7 @@ enabled = true
 #   disqus (https://disqus.com)
 #   commento (https://commento.io)
 #   isso (https://isso-comments.de/)
-engine = "cusdis"
+engine = "giscus"
 
 # Content types to disable comments on.
 #disableOnTypes = ["page"]

@@ -6,4 +6,6 @@
 {{ partial "comments/isso.html" . }}
 {{- else if eq site.Params.comments.engine "cusdis" }}
 {{ partial "comments/cusdis.html" . }}
+{{- else if eq site.Params.comments.engine "giscus" }}
+{{ partial "comments/giscus.html" . }}
 {{- end }}
