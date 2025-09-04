@@ -2,6 +2,8 @@
 title: Indie Games Are Saving Gaming
 date: 2025-09-03
 draft: false
+category: ['games']
+tags: ['indie']
 ---
 
 With Hollow Knight: Silksong coming out tomorrow, there’s no better time to make this post.
