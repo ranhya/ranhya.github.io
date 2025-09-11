@@ -16,7 +16,7 @@ enableRobotsTXT = true
   enable = true
 
 # Navigation
-
+[menu]
 [[menu.main]]
 name = "Categories"
 url = "/category"
@@ -39,29 +39,3 @@ pre = "<i class='fas fa-info'></i>"
 title = "About"
 url = "/about/"
 weight = 4
-
-# [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-# [[menu.main]]
-name = "About"
-url = "/meta/about"
-weight = 2
-
-# Social Menu
-[[params.social]]
-name = "Ran"
-icon = "fab fa-youtube"
-url = "https://m.youtube.com/channel/UCGPg7xNI5Xs9sNRPNtbuIYw"
-
-#[[params.social]]
-#name = "Email"
-#icon = "fas fa-envelope"
-#cmd = "mailto:example@example.com"
-
-[[params.social]]
-name = "RSS"
-icon = "fas fa-rss"
-url = "index.xml"
