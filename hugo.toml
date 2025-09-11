@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 author = "Nasu Rei"
 title = "૮ ・ﻌ・ა"
-theme = "hugo-vitae"
+theme = "typographical"
 
 enableRobotsTXT = true
 
