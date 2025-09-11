@@ -2,7 +2,8 @@
 title: AI, writing and emdashes
 date: 2025-07-31
 draft: false
-category: ['offtopic']
+category:
+- offtopic
 ---
 
 As GenAI and LLMs get better and better I grow more weary of my passion for writing as now it feels like by the time I’m able to really do anything AI will have already taken over and my work remain forever drowning in an ocean of AI slop articles and novels. For the longest time now ever since I’ve found myself indulging in escapism I’ve wanted to write fiction but haven’t even gotten around to it yet, wanting to be a published author one day I’ve been _meaning_ to actually read more books and try to get myself in a position where I can write something I’m proud of. I know the first thing I write probably won’t be a masterpiece but I really wish to write it the best I can.

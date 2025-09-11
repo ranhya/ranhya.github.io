@@ -2,8 +2,12 @@
 title: "Persona 5 Royal: Tips for All Confidants MAX"
 date: 2025-06-22
 draft: false
-tags: ['tips', 'jrpg', 'hidden']
-category: ['games']
+tags:
+- tips
+- jrpg
+- hidden
+category:
+- games
 ---
 
 I’ll be detailing a few tips on getting all of your confidants to MAX in Persona 5 Royal. This can be done on your first playthrough with ease if you just keep a few things in mind. This is a lot more lenient than in the original Persona 5.

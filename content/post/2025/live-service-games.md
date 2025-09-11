@@ -2,7 +2,8 @@
 title: Live Service Games
 date: 2025-08-28
 draft: false
-category: ['games']
+category:
+- games
 ---
 
 Live service games are both good and bad. On one hand live service games are awesome. If supported for a long time, they become classics and come to shape whole childhoods and generations. Yet live service games have a bad reputation and it’s not unwarranted either. There are plenty of reasons to dislike live service games, even more so if you actively play one. The big ones people talk about a lot are shady monetization schemes and business practices. Try to think of any big live service game nowadays that doesn’t have loot boxes, battle passes, gacha mechanics, absurd prices for in-game items and cosmetics—shady “discounts” that aren’t discounts, and it goes on and on! Those are all present in not just free-to-play games, which is the main model games go with these days. They’re present in games which you’ve already paid for, 60, 70 dollars and then when you boot up the game you’re blasted with popups for the latest battle pass! Buy it now! Oh and look at this discounted bundle! It comes with both a car skin and a character skin! 

@@ -1,7 +1,8 @@
 ---
 title: Grand Theft Auto 5’s missions suck
 date: 2025-06-30
-category: ['games']
+category:
+- games
 draft: false
 ---
 

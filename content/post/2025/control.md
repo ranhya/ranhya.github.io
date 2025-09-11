@@ -2,8 +2,10 @@
 title: Control
 date: 2025-05-17
 draft: false
-category: ['games']
-tags: ['shooter']
+category:
+- games
+tags:
+- shooter
 ---
 
 Control is an amazing game with an amazing atmosphere. While a little short I think it suits it well, and after playing it… I think it’s become one of my favorite games I’ve played so far!

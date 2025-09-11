@@ -2,8 +2,10 @@
 title: Guide to using vpngate.net
 draft: false
 date: 2025-08-19
-category: ['offtopic']
-tags: ['guide']
+category:
+- offtopic
+tags:
+- guide
 ---
 
 ## Table of Contents

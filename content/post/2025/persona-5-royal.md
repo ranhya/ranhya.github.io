@@ -1,9 +1,12 @@
 ---
 title: Persona 5 Royal
+subtitle: Gonna Steal Your Heart!
 date: 2025-06-22
 draft: false
-tags: ['jrpg']
-category: ['games']
+tags:
+- jrpg
+category:
+- games
 ---
 
 ![Persona 5 Royal.png](/images/Persona_5_Royal.png)

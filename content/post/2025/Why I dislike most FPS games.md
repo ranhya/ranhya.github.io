@@ -2,8 +2,10 @@
 title: Why I Dislike Most FPS Games
 date: 2025-08-25
 draft: false
-category: ['games']
-tags: ['shooter']
+category:
+- games
+tags:
+- shooter
 ---
 
 Okay, the title is kind of a lie. I don’t *dislike* FPS games[^1]. I think I’m disappointed with the current state the genre is in. What do I mean by that exactly, I’m not 100% sure myself. That’s what I want to find out by writing this blog post. I’m not one with a really long history in FPS games but I’ve played them quite a lot over the years nonetheless.

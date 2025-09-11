@@ -1,9 +1,11 @@
 ---
 title: Elden Ring
 date: 2025-07-22
-tags: ['fromsoft']
+tags:
+- fromsoft
 draft: false
-category: ['games']
+category:
+- games
 ---
 
 ![Elden_Ring.jpg](/images/Elden_Ring.jpg)

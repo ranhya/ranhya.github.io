@@ -2,8 +2,11 @@
 title: Stardew Valley
 date: 2025-08-24
 draft: false
-category: ['games']
-tags: ['rpg', 'cozy']
+category:
+- games
+tags:
+- rpg
+- cozy
 ---
 
 I love Stardew Valley. I first played the game I don’t know how many years ago, and I was hooked—I was young and I had just saw a YouTube video or two about it, mainly DangerouslyFunny videos where he used mods and stuff and did massive harvests. My first introduction to the game was modded lol, I guess that speaks wonders to the kind of game it is.

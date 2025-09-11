@@ -2,8 +2,11 @@
 title: The YouTube Graveyard
 date: 2025-08-08
 draft: false
-category: ['offtopic']
-tags: ['interesting', 'random']
+category:
+- offtopic
+tags:
+- interesting
+- random
 ---
 
 So I came across this YouTube video today: [Exploring “0-view YouTube” Until I Get a Bingo](https://youtu.be/zYmkOInF6Us?si=A6NLh1WETPq-cwiG)

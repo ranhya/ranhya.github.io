@@ -2,8 +2,12 @@
 title: World Trigger
 date: 2025-06-28
 draft: false
-tags: ['shonen', 'anime', 'action']
-category: ['Media']
+tags:
+- shonen
+- anime
+- action
+category:
+- Media
 ---
 
 ![World Trigger.jpeg](/images/World_Trigger.jpeg)
