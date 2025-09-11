@@ -7,11 +7,13 @@ tags:
 - placeholder
 ---
 
+{{< raw >}}
 <p style="text-align:center;">**CLASSIFIED DATA, APPROVED PERSONNEL ONLY.**
 
 <p style="text-align:center;">*CLEARANCE LEVEL - MACHINE ADMIN, MACHINE USER*
 
 <p style="text-align:right;">14 February 2014
+{{< /raw >}}
 
 Experiment has concluded successfully. Currently writing this entry in the year 2014. Present year is 2025.
 
