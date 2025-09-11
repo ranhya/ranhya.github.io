@@ -7,49 +7,13 @@ theme = "typographical"
 
 enableRobotsTXT = true
 
-copyright = "© 2025 Rei"
-
-pygmentsstyle = "colorful"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-googleAnalytics = ""
-[pagination]
-pagerSize = 10
-
 [taxonomies]
 	tag = "tags"
 	category = "category"
 	series = "series"
 
 [params]
-	favicon = true
-    dropCap = true
-
-	mainSections = ["posts", "offtopic", "meta"]
-
-# Comments
-[params.comments]
-# Enable Comments with "true"
-enabled = true
-
-# Comment provider:
-#   disqus (https://disqus.com)
-#   commento (https://commento.io)
-#   isso (https://isso-comments.de/)
-engine = "giscus"
-
-# Content types to disable comments on.
-#disableOnTypes = ["page"]
-
-[params.comments.disqus]
-#shortname = "" # Paste the shortname from your Disqus dashboard.
-
-[params.comments.commento]
-#host = "" # Paste the domain of you commento.io system
-
-[params.comments.isso]
-#host = "" # Enter the domain of your Isso instance
+dropCap = true
 
 # Navigation
 [[menu.main]]
@@ -58,20 +22,32 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-identifier = "Categories"
-title = "Categories"
-pre = "<i class="fa-solid fa-list"></i>"
+name = "Categories"
 url = "/category"
 weight = 4
-
-[[menu.main]]
-identifier = "about"
-pre = "<i class='fas fa-info'></i>"
-title = "About"
-url = "/about/"
-weight = 2
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
 weight = 5
+
+[[menu.main]]
+name = "About"
+url = "/meta/about"
+weight = 2
+
+# Social Menu
+[[params.social]]
+name = "Ran"
+icon = "fab fa-youtube"
+url = "https://m.youtube.com/channel/UCGPg7xNI5Xs9sNRPNtbuIYw"
+
+#[[params.social]]
+#name = "Email"
+#icon = "fas fa-envelope"
+#cmd = "mailto:example@example.com"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "index.xml"
