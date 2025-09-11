@@ -16,6 +16,7 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = ""
 [pagination]
 pagerSize = 10
+
 [taxonomies]
 	tag = "tags"
 	category = "category"
