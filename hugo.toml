@@ -16,6 +16,8 @@ enableRobotsTXT = true
   enable = true
 
 summaryLength = 50
+
+accentColour = "#1ABC9C"
   
 
 # Navigation
