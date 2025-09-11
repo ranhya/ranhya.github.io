@@ -12,8 +12,8 @@ enableRobotsTXT = true
 	category = "category"
 	series = "series"
 
-[params]
-dropCap = true
+[params.dropCap]
+  enable = true
 
 # Navigation
 [[menu.main]]
