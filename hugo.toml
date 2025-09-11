@@ -40,5 +40,5 @@ weight = 1
 identifier = "about"
 pre = "<i class='fas fa-info'></i>"
 title = "About"
-url = "/about/"
+url = "post/about/"
 weight = 4
