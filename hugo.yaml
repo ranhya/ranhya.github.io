@@ -11,28 +11,25 @@ params:
   author:
     name: Nasu Rei
     url: https://ranya.run
-    x: N/A
-    facebook: N/A
-    razorpay: N/A
+    x: ""
+    facebook: ""
+    razorpay: ""
   description: Ran play game.
   enableAutoAttribution: true
   enableDevanagari: true
   enableSharing: true
-  applePodcastsId: N/A
-  googlePodcastsId: N/A
+  applePodcastsId: ""
+  googlePodcastsId: ""
   privacyPolicyUrl: /privacy/
   postFooter: I drink glue!
   amazon:
-    domain: N/A
-    trackingId: N/A
+    domain: ""
+    trackingId: ""
   mastodon:
-    server: N/A
-    username: N/A
+    server: ""
+    username: ""
   copyright:
-    icon: <i class="fab fa-creative-commons"></i>&thinsp;<i class="fab
-      fa-creative-commons-by"></i>&thinsp;<i class="fab
-      fa-creative-commons-nc"></i>&thinsp;<i class="fab
-      fa-creative-commons-sa"></i>
+    icon: "<i class='fab fa-creative-commons'></i>&thinsp;<i class='fab fa-creative-commons-by'></i>&thinsp;<i class='fab fa-creative-commons-nc'></i>&thinsp;<i class='fab fa-creative-commons-sa'></i>"
     message: "Ranhya 2025"
   dropCap:
     enable: true
@@ -60,12 +57,12 @@ permalinks:
 menu:
   main:
     - identifier: archive
-      pre: <i class='fas fa-archive'></i>
+      pre: "<i class='fas fa-archive'></i>"
       title: Archive
       url: /archive/
       weight: 1
     - identifier: about
-      pre: <i class='fas fa-info'></i>
+      pre: "<i class='fas fa-info'></i>"
       title: About
       url: /about/
       weight: 4
