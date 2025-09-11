@@ -22,6 +22,8 @@ accentColour = "#FF6B6B"
 [permalinks]
   post = "/:title/"
   page = "/:title/"
+
+favicon = "/images/favicon.ico"
   
 
 # Navigation
@@ -44,5 +46,5 @@ weight = 3
 identifier = "about"
 pre = "<i class='fas fa-info'></i>"
 title = "About"
-url = "/page/about/"
+url = "/about/"
 weight = 1
