@@ -1,5 +1,6 @@
 ---
 title: Persona 5 Royal
+author: Nasu Rei
 subtitle: Gonna Steal Your Heart!
 date: 2025-06-22
 draft: false
