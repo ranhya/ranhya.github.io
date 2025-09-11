@@ -1,4 +1,4 @@
-BaseURL = "https://ranya.run"
+baseURL = "https://ranya.run"
 languageCode = "en"
 defaultContentLanguage = "en"
 author = "Nasu Rei"
