@@ -22,79 +22,10 @@ pagerSize = 10
 	series = "series"
 
 [params]
-	# Enable dark mode as default
-	#darkmode = true
-
-	# Use homepage.md instead of a list of posts
-	homepage = false
-
-	# Add meta keywords in head part (Site Keywords or Tags of Page)
-	#keywords = ["هوگو","ویتا","قالب","استاتیک"]
-
-	# Add meta description in head part
-	#description = "Vitae یک تم وبلاگ برای Hugo است که بر محتوای شما تمرکز دارد."
-
-	# Add pagetitle to homepage <title> tag
-	pagetitle = "૮ ・ﻌ・ა"
-
-	# Add a subtitle to your website
-	# subtitle = ""
-
-	# Add math typesetting with KaTeX (Global with this Param)
-	math = true
-
-	# Optional 80x80 avatar image.
-	avatar = "avatar.jpg"
-
-	# Optional favicons for website
 	favicon = true
+    dropCap = true
 
-	# Add list of sections that should show up on the homepage
 	mainSections = ["posts", "offtopic", "meta"]
-
-	# Add list of Sections/Types that should no be considered by RSS
-	#nofeedSections = ["post"]
-
-	# Deactivate Taxonomies for specific page types
-	#disableTaxoTypes = [""]
-
-	# Custom CSS applied to default styles. (Path could be "static/css/")
-	customcss = ["css/Markdown.css", " "]
-
-	# Show reading time on a post
-	readingTime = true
-
-	# Show word count on a post
-	wordCount = true
-
-	# Show author on a post (groups with readingTime and wordCount)
-	hideAuthor = true
-
-# Custom JavaScript
-[params.customjs]
-# enable Javascript by setting to true
-enabled = false
-
-# add a filepath (could be "static/js/")
-#src = "js/main.js"
-
-# specifies which referrer information to send when fetching the script
-#referrerpolicy = "no-referrer"
-
-# specifies that the script should not be executed in browsers supporting ES2015 modules
-#nomodule = false
-
-# Allows a browser to check for integrity to ensure the code hasn't been manipulated
-#integrity= ""
-
-# execute the script when page has finished parsing (external only)
-#defer = true
-
-# sets the mode of the request to an http cors request
-#crossorigin=true
-
-# executes the script asynchronously (external only)
-#async = true
 
 # Comments
 [params.comments]
@@ -126,32 +57,20 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Categories"
+identifier = "Categories"
+title = "Categories"
+pre = "<i class="fa-solid fa-list"></i>"
 url = "/category"
 weight = 4
+
+[[menu.main]]
+identifier = "about"
+pre = "<i class='fas fa-info'></i>"
+title = "About"
+url = "/about/"
+weight = 2
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
 weight = 5
-
-[[menu.main]]
-name = "About"
-url = "/meta/about"
-weight = 2
-
-# Social Menu
-[[params.social]]
-name = "Ran"
-icon = "fab fa-youtube"
-url = "https://m.youtube.com/channel/UCGPg7xNI5Xs9sNRPNtbuIYw"
-
-#[[params.social]]
-#name = "Email"
-#icon = "fas fa-envelope"
-#cmd = "mailto:example@example.com"
-
-[[params.social]]
-name = "RSS"
-icon = "fas fa-rss"
-url = "index.xml"
