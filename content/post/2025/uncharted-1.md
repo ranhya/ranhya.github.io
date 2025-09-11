@@ -59,4 +59,4 @@ Yeah that’s all my thoughts. Bye!
 [^1]: I'd only played Uncharted 4 to completion as of writing this.
 
 #### Related Articles
-[Uncharted 2](/uncharted%202)
+[Uncharted 2: Among Theives](/uncharted-2/)
