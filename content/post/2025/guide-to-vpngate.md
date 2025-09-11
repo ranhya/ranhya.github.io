@@ -11,10 +11,7 @@ tags:
 
 ## Table of Contents
 
-- [What is VPN Gate?](#what-is-vpn-gate)
-- [How to use VPN Gate](#how-to-use-vpn-gate)
-  - [Windows](#windows)
-  - [iOS, Android, macOS and Linux](#ios-android-macos-and-linux)
+{{< toc >}}
 
 ---
 
