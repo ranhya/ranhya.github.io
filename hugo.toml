@@ -17,7 +17,11 @@ enableRobotsTXT = true
 
 summaryLength = 50
 
-accentColour = "#1ABC9C"
+accentColour = "#FF6B6B"
+
+[permalinks]
+  post = "/:title/"
+  page = "/:title/"
   
 
 # Navigation
