@@ -14,12 +14,6 @@ params:
   enableAutoAttribution: true
   enableDevanagari: true
   enableSharing: true
-  copyright:
-    icon: <i class="fab fa-creative-commons"></i>&thinsp;<i class="fab
-      fa-creative-commons-by"></i>&thinsp;<i class="fab
-      fa-creative-commons-nc"></i>&thinsp;<i class="fab
-      fa-creative-commons-sa"></i>
-    message: "Copyright Ran 2025"
   dropCap:
     enable: true
 privacy:
