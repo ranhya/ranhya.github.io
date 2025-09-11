@@ -1,6 +1,9 @@
 ---
 title: Why I Dislike Most FPS Games
 author: Nasu Rei
+summary: “I think what I dislike about them is their fleetingness paired with, unoriginality—it feels as though every new FPS game that comes out nowadays is in one of a few categories. BR, CS/Valorant clone… or uh yeah that’s it w.
+
+There’s some standout games here and there that don’t follow this pattern, which I’ll get into but in general most of the FPS games coming out nowadays are either tactical shooters or BRs and I think it’s sad.”
 date: 2025-08-25
 draft: false
 category:
