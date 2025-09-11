@@ -107,4 +107,4 @@ There are a lot of hard Taskmaster challenges, not uncharted crushing difficulty
 The game turned into a collect-a-thon for me near the end. I had already done all the other side content while progressing to the game, so all that was left at this point were the newly unlocked Sable and prisoner outposts, along with the crimes... which took way too long to do and was a boring process but I managed to do it. By this point I’d gotten burnt out on the game but I pushed through since I only had a bit longer till I could finish getting 100%.
 
 ### Related Posts
-[Marvel's Spider-Man: Miles Morales](/posts/spider-man-miles-morales)
+[Marvel's Spider-Man: Miles Morales](/spider-man-miles-morales)

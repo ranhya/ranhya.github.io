@@ -61,4 +61,4 @@ Oh yeah speaking of the rain + Beneath the Mask is such a calming combo the firs
 
 
 #### Related Articles
-[Persona 5 Royal: Tips for All Confidants MAX](/hidden/p5r-tips/)
+[Persona 5 Royal: Tips for All Confidants MAX](/p5r-tips/)
