@@ -4,6 +4,3 @@
 [submodule "themes/hugo-vitae"]
 	path = themes/hugo-vitae
 	url = https://codeberg.org/farooqkz/hugo-vitae
-[submodule "themes/typographical"]
-	path = themes/typographical
-	url = https://github.com/theramiyer/typographical-hugo.git
