@@ -3,6 +3,8 @@ title: PLACEHOLDER
 draft: true
 author: Nasu Rei
 date: 2025-09-11
+tags:
+- placeholder
 ---
 
 <p style="text-align:center;">**CLASSIFIED DATA, APPROVED PERSONNEL ONLY.**
