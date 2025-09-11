@@ -15,6 +15,9 @@ enableRobotsTXT = true
 [params.dropCap]
   enable = true
 
+summaryLength = 50
+  
+
 # Navigation
 [menu]
 [[menu.main]]
