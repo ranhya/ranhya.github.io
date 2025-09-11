@@ -2,6 +2,7 @@
 title: The YouTube Graveyard
 date: 2025-08-08
 draft: false
+author: Nasu Rei
 category:
 - offtopic
 tags:

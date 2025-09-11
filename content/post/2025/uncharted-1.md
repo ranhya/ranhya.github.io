@@ -2,6 +2,7 @@
 title: "Uncharted: Drake's Fortune Remastered"
 date: 2025-05-17
 draft: false
+author: Nasu Rei
 tags:
 - uncharted
 category:
