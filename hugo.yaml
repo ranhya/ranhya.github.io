@@ -1,0 +1,75 @@
+baseURL: https://blog.ramiyer.me
+languageCode: en-IN
+title: Ran's Blog
+theme: typographical
+canonifyURLs: true
+enableRobotsTXT: true
+enableGitInfo: true
+summaryLength: 50
+
+params:
+  author:
+    name: Nasu Rei
+  description: Ran play game!
+  enableAutoAttribution: true
+  enableDevanagari: true
+  enableSharing: true
+    username: ramiyer
+  copyright:
+    icon: <i class="fab fa-creative-commons"></i>&thinsp;<i class="fab
+      fa-creative-commons-by"></i>&thinsp;<i class="fab
+      fa-creative-commons-nc"></i>&thinsp;<i class="fab
+      fa-creative-commons-sa"></i>
+    message: "Copyright Ran 2025"
+  dropCap:
+    enable: true
+privacy:
+  x:
+    enableDNT: true
+  youTube:
+    privacyEnhanced: true
+  googleAnalytics:
+    disable: true
+    respectDoNotTrack: true
+
+permalinks:
+  post: /:title/
+  page: /:title/
+
+menu:
+  main:
+    - identifier: archive
+      pre: <i class='fas fa-archive'></i>
+      title: Archive
+      url: /archive/
+      weight: 1
+    - identifier: about
+      pre: <i class='fas fa-info'></i>
+      title: About
+      url: /about/
+      weight: 4
+
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+  page:
+    - HTML
+
+markup:
+  goldmark:
+    extensions:
+      linkify: false
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
