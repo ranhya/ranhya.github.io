@@ -16,10 +16,6 @@ enableRobotsTXT = true
   enable = true
 
 # Navigation
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
 
 [[menu.main]]
 name = "Categories"
@@ -31,7 +27,25 @@ name = "Tags"
 url = "/tags"
 weight = 5
 
-[[menu.main]]
+  [[menu.main]]
+  identifier = "archive"
+  pre = "<i class='fas fa-archive'></i>"
+  title = "Archive"
+  url = "/archive/"
+  weight = 1
+  [[menu.main]]
+  identifier = "about"
+  pre = "<i class='fas fa-info'></i>"
+  title = "About"
+  url = "/about/"
+  weight = 4
+
+# [[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+# [[menu.main]]
 name = "About"
 url = "/meta/about"
 weight = 2
