@@ -1,9 +1,12 @@
 ---
 title: "Marvel’s Spider-Man: Miles Morales"
+author: Nasu Rei
 draft: false
 date: 2025-07-21
 category:
 - games
+tags:
+- Spider-Man
 ---
 
 ![Spider_man_miles_morales](../../images/Spider_man_miles_morales.jpeg)

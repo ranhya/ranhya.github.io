@@ -1,6 +1,7 @@
 ---
 title: Borderlands
 date: 2025-08-23
+author: Nasu Rei
 draft: false
 category:
 - games

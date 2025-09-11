@@ -1,5 +1,6 @@
 ---
 title: AI, writing and emdashes
+author: Nasu Rei
 date: 2025-07-31
 draft: false
 category:

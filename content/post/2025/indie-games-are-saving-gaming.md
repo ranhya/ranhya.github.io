@@ -1,5 +1,6 @@
 ---
 title: Indie Games Are Saving Gaming
+author: Nasu Rei
 date: 2025-09-03
 draft: false
 category:

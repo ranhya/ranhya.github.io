@@ -1,5 +1,6 @@
 ---
 title: Stardew Valley
+author: Nasu Rei
 date: 2025-08-24
 draft: false
 category:

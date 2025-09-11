@@ -2,6 +2,7 @@
 title: Cat Quest
 date: 2025-07-17
 draft: false
+author: Nasu Rei
 tags:
 - rpg
 category:

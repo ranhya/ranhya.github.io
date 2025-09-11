@@ -1,5 +1,6 @@
 ---
 title: "Persona 5 Royal: Tips for All Confidants MAX"
+author: Nasu Rei
 date: 2025-06-22
 draft: false
 tags:

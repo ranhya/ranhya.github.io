@@ -1,5 +1,6 @@
 ---
 title: "Uncharted 2: Among Theives"
+author: Nasu Rei
 date: 2025-05-21
 draft: false
 tags:

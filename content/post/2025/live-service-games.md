@@ -1,5 +1,6 @@
 ---
 title: Live Service Games
+author: Nasu Rei
 date: 2025-08-28
 draft: false
 category:

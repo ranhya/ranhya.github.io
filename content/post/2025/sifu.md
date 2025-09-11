@@ -1,6 +1,7 @@
 ---
 title: Sifu
 date: 2025-08-01
+author: Nasu Rei
 draft: false
 category:
 - games

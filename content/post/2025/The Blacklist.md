@@ -1,5 +1,6 @@
 ---
 title: The Blacklist
+author: Nasu Rei
 date: 2025-06-29
 draft: true
 tags:

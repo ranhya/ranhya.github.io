@@ -2,6 +2,7 @@
 title: Control
 date: 2025-05-17
 draft: false
+author: Nasu Rei
 category:
 - games
 tags:

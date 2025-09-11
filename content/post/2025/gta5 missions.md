@@ -1,5 +1,6 @@
 ---
 title: Grand Theft Auto 5’s missions suck
+author: Nasu Rei
 date: 2025-06-30
 category:
 - games

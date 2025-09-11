@@ -1,9 +1,12 @@
 ---
 title: Marvel's Spider-Man
+author: Nasu Rei
 date: 2025-08-14
 draft: false
 category:
 - games
+tags:
+- Spider-Man
 ---
 
 ![Marvel's Spider Man](/images/marvel_spider_man.jpeg)

@@ -1,6 +1,7 @@
 ---
 title: Guide to using vpngate.net
 draft: false
+author: Nasu Rei
 date: 2025-08-19
 category:
 - offtopic

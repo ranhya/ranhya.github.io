@@ -1,6 +1,7 @@
 ---
 title: Elden Ring
 date: 2025-07-22
+author: Nasu Rei
 tags:
 - fromsoft
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Sekiro: Shadows Die Twice"
+author: Nasu Rei
 date: 2025-06-18
 draft: false
 tags:

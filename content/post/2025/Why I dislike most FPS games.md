@@ -1,5 +1,6 @@
 ---
 title: Why I Dislike Most FPS Games
+author: Nasu Rei
 date: 2025-08-25
 draft: false
 category:

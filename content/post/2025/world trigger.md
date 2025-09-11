@@ -1,7 +1,9 @@
 ---
 title: World Trigger
+author: Nasu Rei
 date: 2025-06-28
 draft: false
+author: Nasu Rei
 tags:
 - shonen
 - anime
