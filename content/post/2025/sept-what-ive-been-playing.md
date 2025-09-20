@@ -1,5 +1,5 @@
 ---
-title: "What I've Been Playing" 
+title: what ive been playing 
 subtitle: For the month of September!
 author: Nasu Rei
 date: 2025-09-20
