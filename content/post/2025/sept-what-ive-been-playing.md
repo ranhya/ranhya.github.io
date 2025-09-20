@@ -1,5 +1,5 @@
 ---
-title: Indie Games Are Saving Gaming
+title: "What I've Been Playing" 
 subtitle: For the month of September!
 author: Nasu Rei
 date: 2025-09-20
