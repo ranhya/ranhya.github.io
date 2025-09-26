@@ -1,7 +1,7 @@
 baseURL = "https://ranya.run"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "૮ ・ﻌ・ა"
+title = "Ran's Blog"
 theme = "typographical"
 
 enableRobotsTXT = true
