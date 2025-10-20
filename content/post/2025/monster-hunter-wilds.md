@@ -2,7 +2,7 @@
 title: Monster Hunter is a series you can fall in love with 14 times
 author: Nasu Rei
 subtitle: and more!
-date: 2025-10-21
+date: 2025-10-20
 draft: false
 ---
 
