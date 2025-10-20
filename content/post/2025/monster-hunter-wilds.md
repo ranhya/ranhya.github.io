@@ -6,7 +6,7 @@ date: 2025-10-20
 draft: false
 ---
 
-![Monster Hunter Wilds](mhwilds.jpeg)
+![Monster Hunter Wilds](/images/mhwilds.jpeg)
 
 I love Monster Hunter. It just instantly hooked me from the moment I first played rise. And it’s kept hooking me and might very well keep hooking me many more times. Playing Wilds I realized just how deep this franchise goes, I may have not played the older games (yet), but I can say for certain that from the beginning it was destined to be an amazing franchise. 
 
@@ -18,10 +18,10 @@ Sword and Shield became the ultimate jack of all trades, with the new perfect bl
 
 There’s a lot to like about every weapon and while I still have not put the time into learning them all, I’m working on making a set for all of them—a meta set for all of the weapons that interest me. The newest weapon I’ve fallen in love with are the Dual Blades. The dual blades are probably the weapon that’s gotten the biggest upgrade in wilds, they’re now able to dish out even more damage than in previous titles such as Rise… and that’s saying something because dual blades in Rise were the best weapon in terms of pure DPS, Bow of course being right up there with them.
 
-![mhwildsdb](mhwildsdb.jpeg)
+![mhwildsdb](/images/mhwildsdb.jpeg)
 
 Hammer and Great Sword are also a lot of fun now with their new additions in Wilds, mainly the new offset mechanic which fits their play-style great and adds a lot of depth to their core gameplay. It’s fantastic. And hitting those offsets is super rewarding.
 
-![mhwildsgsfit](mhwildsgsfit.jpeg)
+![mhwildsgsfit](/images/mhwildsgsfit.jpeg)
 
-![mhwildshammerfit](mhwildshammerfit.jpeg)
+![mhwildshammerfit](/images/mhwildshammerfit.jpeg)
