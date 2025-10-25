@@ -23,6 +23,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Persona 5 Royal](/persona-5-royal/) - 135 Hours
 - [Cat Quest](/cat-quest/) - 10 hours
 - [Marvel’s Spider-Man: Miles Morales](/spider-man-miles-morales) - 22 hours
+- [Monster Hunter Wilds](https://youtu.be/aabHCirODeQ) - 170 hours
 ## Platinumed
 - [Marvel’s Spider-Man](/marvel-spider-man) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
