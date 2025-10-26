@@ -4,6 +4,10 @@ author: Nasu Rei
 subtitle: and more!
 date: 2025-10-20
 draft: false
+category: 
+- games
+tags:
+- monster-hunter
 ---
 
 ![Monster Hunter Wilds](/images/mhwilds.jpeg)
