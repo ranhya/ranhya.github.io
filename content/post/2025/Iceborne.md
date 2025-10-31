@@ -1,5 +1,6 @@
 ---
 title: Monster Hunter World: Iceborne
+date: 2025-10-31
 subtitle: Peakborne!
 author: Nasu Rei
 draft: false
