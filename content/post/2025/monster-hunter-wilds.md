@@ -29,3 +29,5 @@ Hammer and Great Sword are also a lot of fun now with their new additions in Wil
 ![mhwildsgsfit](/images/mhwildsgsfit.jpeg)
 
 ![mhwildshammerfit](/images/mhwildshammerfit.jpeg)
+
+![mhwildsplatinum](/images/wildsplat.jpeg)
