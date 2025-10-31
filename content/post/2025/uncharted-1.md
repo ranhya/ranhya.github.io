@@ -9,7 +9,7 @@ category:
 - games
 ---
 
-![Uncharted 1](images/Uncharted_1.jpeg)
+![Uncharted 1](/images/Uncharted_1.jpeg)
 Uncharted 1 is a game that had potential—it’s not perfect but it was good enough for a sequel :D.
 
 ## Platinum Experience
@@ -59,4 +59,4 @@ Yeah that’s all my thoughts. Bye!
 [^1]: I'd only played Uncharted 4 to completion as of writing this.
 
 #### Related Articles
-[Uncharted 2: Among Theives](/uncharted-2/)
+[Uncharted 2: Among Theives](/uncharted-2-among-thieves/)

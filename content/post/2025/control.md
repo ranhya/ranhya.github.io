@@ -7,6 +7,7 @@ category:
 - games
 tags:
 - shooter
+- indie
 ---
 
 Control is an amazing game with an amazing atmosphere. While a little short I think it suits it well, and after playing it… I think it’s become one of my favorite games I’ve played so far!

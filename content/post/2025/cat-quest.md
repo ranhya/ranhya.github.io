@@ -5,6 +5,8 @@ draft: false
 author: Nasu Rei
 tags:
 - rpg
+- indie
+- cozy
 category:
 - games
 ---

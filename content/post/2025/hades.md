@@ -5,6 +5,7 @@ date: 2025-06-23
 draft: false
 tags:
 - roguelike
+- indie
 category:
 - games
 ---

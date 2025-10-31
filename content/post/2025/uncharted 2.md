@@ -86,4 +86,4 @@ The final boss was a really fun fight, I did spend like an hour dying to him on 
 All my thoughts. Bye!
 
 #### Related Articles
-[Uncharted: Drake's Fortune Remastered](/uncharted-1/)
+[Uncharted: Drake's Fortune Remastered](/uncharted-drakes-fortune/)
