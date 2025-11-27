@@ -11,6 +11,7 @@ tags:
 - immersive
 - narrative-driven
 - sci-fi
+- cozy
 ---
 
 ![Stray Morusque](/images/stray.jpeg)
