@@ -4,6 +4,13 @@ subtitle: Meow!
 date: 2025-11-27
 draft: false
 author: Nasu Rei
+category:
+- games
+tags:
+- indie
+- immersive
+- narrative-driven
+- sci-fi
 ---
 
 ![Stray Morusque](/images/stray.jpeg)
