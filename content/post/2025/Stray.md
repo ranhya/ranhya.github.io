@@ -14,7 +14,7 @@ tags:
 - cozy
 ---
 
-![Stray Morusque](/images/stray.jpeg)
+[ ![Stray Morusque](/images/stray.jpeg) ](https://youtu.be/sEqMN45fz4w)
 
 Stray is *THE* game with the absolute *best* atmosphere I’ve ever had the pleasure of experiencing in a game. It’s what made me fall in love with the game instantly from the moment I entered into the slums in chapter 4 to the moment I reached the end in the control room of chapter 12. The game’s atmosphere and level design, coupled with the beautiful art style and sound design, all of these together form an amazing experience and work to pull you right in and keep you right there, immersed in the world of Stray.
 
