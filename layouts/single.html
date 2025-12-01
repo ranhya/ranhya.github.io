@@ -43,10 +43,10 @@
 		{{- end }}
 		{{- if .Next }}
 		<a href="{{ .Next.RelPermalink }}" class="right arrow">&#8594;</a>
-        {{ partial "single.html . }}
 		{{- end }}
 
 		<a href="#" class="top">Top</a>
+        {{ partial "giscus.html" . }}
 	</div>
 </main>
 
