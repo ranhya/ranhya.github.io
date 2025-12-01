@@ -27,6 +27,7 @@
 		{{ else if .Site.Params.Author.razorpay }}
 			{{ partial "single/razorpay.html" . }}
 		{{ end }}
+        {{ partial "single.html . }}
 		{{ partial "single/footer.html" . }}
 	</div>
 	{{ partial "single/share.html" . }}
@@ -47,9 +48,6 @@
 
 		<a href="#" class="top">Top</a>
 	</div>
-<div class="comments aligncenter">
-    {{ partial "giscus.html" . }}
-  </div>
 </main>
 
 {{ end }}
