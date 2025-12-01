@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<main>
+	<div class="post">
+		{{ partial "single/post-info.html" . }}
+		{{ partial "single/title.html" . }}
+
+		{{ partial "single/header.html" . }}
+
+		<!-- Content -->
+		<section class="post-content">
+			{{- $Content := .Content -}}
+			{{- if .Site.Params.DropCap.Enable }}
+			{{- $regexPatternDropCap := `(<p>)([^<])(.+(< /p>|\n))` -}}
+			{{- $regexReplacementDropCap := `$1<span class="drop-cap">$2</span>$3` -}}
+			{{- $firstParagraphOld := (delimit (findRE $regexPatternDropCap $Content 1) " ") -}}
+			{{- $firstParagraphNew := (replaceRE $regexPatternDropCap $regexReplacementDropCap $firstParagraphOld) -}}
+			{{- $Content = replace $Content $firstParagraphOld $firstParagraphNew -}}
+			{{- end }}
+			{{- $Content | replaceRE "\\b([A-Z][A-Z0-9\\-]{2,})\\b" "<abbr>$1</abbr>" | safeHTML -}}
+		</section>
+		<!-- End content -->
+		{{ if .Site.Params.Author.patreon }}
+			{{ partial "single/patreon.html" . }}
+		{{ else if .Site.Params.Author.liberapay }}
+			{{ partial "single/liberapay.html" . }}
+		{{ else if .Site.Params.Author.razorpay }}
+			{{ partial "single/razorpay.html" . }}
+		{{ end }}
+		{{ partial "single/footer.html" . }}
+	</div>
+	{{ partial "single/share.html" . }}
+	{{ partial "single/related.html" . }}
+	{{ partial "single/gitinfo.html" . }}
+	{{ partial "single/tinyletter.html" . }}
+	{{- if .Params.Tags }}
+		<div class="hidden">{{ delimit .Params.Tags ", " }}</div>
+	{{- end }}
+
+	<div class="pagination">
+		{{- if .Prev }}
+		<a href="{{ .Prev.RelPermalink }}" class="left arrow">&#8592;</a>
+		{{- end }}
+		{{- if .Next }}
+		<a href="{{ .Next.RelPermalink }}" class="right arrow">&#8594;</a>
+		{{- end }}
+
+		<a href="#" class="top">Top</a>
+	</div>
+<div class="comments aligncenter">
+    {{ partial "giscus.html" . }}
+  </div>
+</main>
+
+{{ end }}
