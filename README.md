@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-read me for read meing
-=======
-ranni
->>>>>>> main
+read me or not idc
