@@ -13,11 +13,7 @@ enableRobotsTXT = true
 
 [params.dropCap]
   enable = true
-
-[Params]
-giscusTheme="preferred_color_scheme"
-disableComments=false
-
+  
 summaryLength = 50
 
 accentColour = "#FF6B6B"
