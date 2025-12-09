@@ -2,7 +2,7 @@
 title: "Dishonored: Death of the Outsider"
 subtitle: God is dead, and I killed him.
 draft: false
-date: 2025-12-10
+date: 2025-12-09
 author: Nasu Rei
 category: 
 - games
