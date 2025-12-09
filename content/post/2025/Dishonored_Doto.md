@@ -1,5 +1,5 @@
 ---
-title: “Dishonored: Death of the Outsider
+title: "Dishonored: Death of the Outsider"
 subtitle: God is dead, and I killed him.
 date: 2025-12-10
 author: Nasu Rei
@@ -9,9 +9,10 @@ tags:
 - action
 - stealth
 - dishonored
+summary: Out of all the Dishonored games, I liked this one the most. I think it’s the best one, despite being a short spinoff game. It’s a sequel to Dishonored 2, where you play as Meghan Foster, AKA Billie Lurk. I think this game was made to cap off the Dishonored series so it’s no doubt that this is the last game  in the series. I think the endings, both good and bad complete the story of the series in a satisfying way. 
 ---
 
-![](/images/doto.jpeg)
+[ ![](/images/doto.jpeg) ](https://m.youtube.com/watch?v=SPBOj7-mmm0)
 
 Out of all the Dishonored games, I liked this one the most. I think it’s the best one, despite being a short spinoff game. It’s a sequel to Dishonored 2, where you play as Meghan Foster, AKA Billie Lurk. I think this game was made to cap off the Dishonored series so it’s no doubt that this is the last game  in the series. I think the endings, both good and bad complete the story of the series in a satisfying way. 
 
