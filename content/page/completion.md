@@ -26,7 +26,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Monster Hunter Wilds](https://youtu.be/aabHCirODeQ) - 170 hours
 - [Stray](/stray/) - 14 hours
 - [Ratchet & Clank: Rift Apart](/ratchet-clank-rift-apart/) - 13 hours
-- [Dishonored: Death of the Outsider](https://youtu.be/SPBOj7-mmm0)
+- [Dishonored: Death of the Outsider](/dishonored-death-of-the-outsider/) - 13 hours
 ## Platinumed
 - [Marvel’s Spider-Man](/marvels-spider-man/) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
