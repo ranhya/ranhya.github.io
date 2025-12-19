@@ -27,6 +27,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Stray](/stray/) - 14 hours
 - [Ratchet & Clank: Rift Apart](/ratchet-clank-rift-apart/) - 13 hours
 - [Dishonored: Death of the Outsider](/dishonored-death-of-the-outsider/) - 13 hours
+- [Don’t Starve Together](https://youtu.be/Wm5SHzCXcgQ) - 57 hours
 ## Platinumed
 - [Marvel’s Spider-Man](/marvels-spider-man/) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
