@@ -42,4 +42,6 @@ If you’re asking this question my answer to you is, maybe. It’s most definit
 
 If you are looking to start out, I’d recommend you start with one of your favorite games, and I always recommend looking up a guide and having a peek at what there is before attempting to hunt a game! It’s important you do this for a few reasons—if the game is older, there might be multiplayer achievements which are unattainable, or the game could have a lot of missable achievements, and all of the sort. In general achievement guides and the like do not contain spoilers, though your mileage may vary. Depending on the game the achievement names and descriptions themselves could be spoilers as well. For PlayStation trophies specifically, [PSNProfiles](https://psnprofiles.com/) is your best bet when it comes to guides and the like, as, at the start of every guide you will be able to see info such as missable trophies and which trophies require multiplayer. Steam guides are also a great resource, and [Powerpyx](https://www.powerpyx.com/) is alright though their YouTube videos are way more useful than the site considering there are usually better alternatives for guides.
 
+Last updated: 2026-01-09
+
 
