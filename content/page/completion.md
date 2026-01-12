@@ -28,6 +28,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Ratchet & Clank: Rift Apart](/ratchet-clank-rift-apart/) - 13 hours
 - [Dishonored: Death of the Outsider](/dishonored-death-of-the-outsider/) - 13 hours
 - [Don’t Starve Together](https://youtu.be/Wm5SHzCXcgQ) - 57 hours
+- [Like A Dragon Gaiden: The Man Who Erased His Name](https://youtu.be/FDXpu95kAKg?si=TKFl7awTkHJBARmO) - 34 hours
 ## Platinumed
 - [Marvel’s Spider-Man](/marvels-spider-man/) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
