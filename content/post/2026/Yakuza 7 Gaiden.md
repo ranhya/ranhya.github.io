@@ -8,7 +8,7 @@ tags:
   - narrative-driven
   - beat-em-up
 category:  
-  - games
+- games
 date: 2026-01-15
 author: Nasu Rei
 ---
