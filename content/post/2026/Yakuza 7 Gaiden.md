@@ -5,10 +5,10 @@ draft: false
 tags:
   - yakuza_series
   - action
-  - narrative_driven
-  - beat_em_up
+  - narrative-driven
+  - beat-em-up
 category:  
-- games
+  - games
 date: 2026-01-15
 author: Nasu Rei
 ---
