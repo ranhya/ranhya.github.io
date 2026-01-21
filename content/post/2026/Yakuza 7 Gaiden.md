@@ -3,12 +3,12 @@ title: Yakuza 7 Gaiden
 subtitle: Kiryu is in witness protection, unlike Michael
 draft: false
 tags:
-- yakuza-series
-- action
-- narrative-driven
-- beat-em-up
-category:  
-- games
+  - yakuza-series
+  - action
+  - narrative-driven
+  - beat-em-up
+category:
+  - games
 date: 2026-01-15
 author: Nasu Rei
 ---
