@@ -1,12 +1,14 @@
 ---
 title: Cat Quest
 date: 2025-07-17
+subtitle: Pawfect!
 draft: false
 author: Nasu Rei
 tags:
 - rpg
 - indie
 - cozy
+- cat-quest
 category:
 - games
 ---
