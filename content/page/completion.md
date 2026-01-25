@@ -29,6 +29,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Dishonored: Death of the Outsider](/dishonored-death-of-the-outsider/) - 13 hours
 - [Don’t Starve Together](https://youtu.be/Wm5SHzCXcgQ) - 57 hours
 - [Like A Dragon Gaiden: The Man Who Erased His Name](https://youtu.be/FDXpu95kAKg?si=TKFl7awTkHJBARmO) - 34 hours
+- [Untitled Goose Game](https://youtu.be/Jtn9aHK93b8?si=LF2KegJ1I_OH1Cdg) - 6 hours
 ## Platinumed
 - [Marvel’s Spider-Man](/marvels-spider-man/) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
@@ -37,5 +38,6 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Sifu](/sifu/) -  15th platinum - 28 hours
 - [Control](/control/) - 19 hours
 - [Monster Hunter Rise](https://youtu.be/mGco28OXnGE) - 304 hours
+- [Undertale](https://youtu.be/M4zJsvLI820?si=tV31msiGuHzNc-i6) - 6 hours
 
 [^1]: 100% Doesn't necessarily mean 100% of the in-game completion (if the game has a counter, or something similar) but rather what I deem to be 100%. e.g. I consider getting all of the confidants in Persona 5 to max to be 100%. Even though the game has a lot of in-game achievements with the new thieves' den area introduced in Royal.
