@@ -3,6 +3,7 @@ title: Untitled Goose Game
 draft: false
 subtitle: HONK!
 author: Nasu Rei
+date: 2026-01-27
 tags:
 - puzzle
 - indie
