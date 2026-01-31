@@ -37,31 +37,38 @@ header.hero-section {
   background-color: var(--hero-bg);
   color: var(--hero-text);
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 3rem 1rem 4rem;
 }
 
 header.hero-section h1 {
   margin: 0 0 0.5rem;
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
   font-weight: 700;
-  font-size: 1.8rem;
+  font-size: 2.5rem;
+  line-height: 1.1;
+  color: var(--hero-text);
 }
 
 header.hero-section .subtitle {
-  font-size: 1rem;
-  margin: 0 0 1.5rem;
-  line-height: 1.4;
+  font-size: 1.1rem;
+  margin: 0 0 2rem; /* more space below subtitle */
+  line-height: 1.5; /* a little more breathing room */
+  max-width: 28rem;
+  margin-left: auto;
+  margin-right: auto;
   color: var(--hero-text);
 }
 
 .hero-section figure {
-  margin: 0;
+  margin: 0 auto;
+  max-width: 100;
 }
 
-.hero-section figure img {
+.header.hero-section figure img {
   width: 100%;
   height: auto;
   display: block;
+  border-radius: 4px;
 }
 
 article h1, article h2, article h3 {
