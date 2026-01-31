@@ -37,9 +37,7 @@ header.hero-section {
   background-color: var(--hero-bg);
   color: var(--hero-text);
   text-align: center;
-  padding-top: 0;
-  padding-left: 0;
-  padding-right: 0;
+  margin: 5rem 5rem 0;
 }
 
 header.hero-section h1 {
@@ -53,8 +51,8 @@ header.hero-section h1 {
 
 header.hero-section .subtitle {
   font-size: 1.1rem;
-  margin: 0 0 2rem; /* more space below subtitle */
-  line-height: 1.5; /* a little more breathing room */
+  margin: 0 0 1rem;
+  line-height: 1.5;
   max-width: 28rem;
   margin-left: auto;
   margin-right: auto;
