@@ -1,0 +1,57 @@
+:root {
+  --bg: #fafafa;
+  --text: #222;
+  --muted: #666;
+  --accent: #2a6fdb;
+}
+
+body {
+  margin: 0;
+  padding: 3rem 1.5rem;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+h1, h2, h3 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-top: 3rem;
+}
+
+p {
+  margin: 1.25rem 0;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.drop-cap::first-letter {
+  float: left;
+  font-size: 3.5em;
+  line-height: 1;
+  padding-right: 0.15em;
+  font-weight: 600;
+}
