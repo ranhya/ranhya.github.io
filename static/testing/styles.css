@@ -37,7 +37,6 @@ header.hero-section {
   background-color: var(--hero-bg);
   color: var(--hero-text);
   text-align: center;
-  padding: 3rem 1rem 4rem;
 }
 
 header.hero-section h1 {
