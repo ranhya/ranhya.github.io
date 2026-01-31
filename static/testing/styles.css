@@ -111,7 +111,7 @@ a:hover {
   border-bottom-style: none;
 }
 
-img {
+.image {
   max-width: 100%;
   height: auto;
   display: block;
