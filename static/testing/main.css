@@ -1,57 +1,93 @@
 :root {
   --bg: #fafafa;
   --text: #222;
-  --muted: #666;
   --accent: #2a6fdb;
 }
 
 body {
   margin: 0;
-  padding: 3rem 1.5rem;
+  padding: 1.25rem 0.75rem;
   background: var(--bg);
   color: var(--text);
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.7;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
 }
 
 main {
-  max-width: 42rem;
-  margin: 0 auto;
+  max-width: 100%;
 }
 
 h1, h2, h3 {
-  font-family: "Helvetica Neue", Arial, sans-serif;
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 1.2;
+  margin: 1.5rem 0 0.75rem;
 }
 
 h1 {
-  font-size: 2.2rem;
-  margin-bottom: 1rem;
+  font-size: 1.6rem;
 }
 
 h2 {
-  font-size: 1.6rem;
-  margin-top: 3rem;
+  font-size: 1.3rem;
 }
 
 p {
-  margin: 1.25rem 0;
+  margin: 0.9rem 0;
+  font-size: 1rem;
 }
 
 a {
   color: var(--accent);
-  text-decoration: none;
-}
-
-a:hover {
   text-decoration: underline;
+  text-underline-offset: 0.15em;
 }
 
 .drop-cap::first-letter {
   float: left;
-  font-size: 3.5em;
+  font-size: 2.6em;
   line-height: 1;
-  padding-right: 0.15em;
+  padding-right: 0.12em;
   font-weight: 600;
+}
+
+@media (min-width: 40rem) {
+  body {
+    padding: 2.5rem 1.25rem;
+  }
+
+  main {
+    max-width: 42rem;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 2.1rem;
+  }
+
+  h2 {
+    font-size: 1.55rem;
+  }
+
+  p {
+    font-size: 1.05rem;
+  }
+
+  .drop-cap::first-letter {
+    font-size: 3.4em;
+  }
+}
+
+@media (min-width: 64rem) {
+  body {
+    padding: 3.5rem 2rem;
+  }
+
+  h1 {
+    font-size: 2.4rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
 }
