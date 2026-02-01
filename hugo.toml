@@ -29,7 +29,7 @@ favicon = "/images/favicon.ico"
 
 [params]
     [params.copyright]
-        icon = "<i class="far fa-copyright"></i>"
+        icon = "<i class='far fa-copyright'></i>"
         message = "Glue Drinkers' Association, some rights reserved :D"
   
 # Navigation
