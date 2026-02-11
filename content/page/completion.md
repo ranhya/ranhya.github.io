@@ -6,7 +6,7 @@ category:
 - meta
 ---
 
-{{< raw > }}<a href="https://psnprofiles.com/nasuww"><img src="https://card.psnprofiles.com/1/nasuww.png" border="0"></a> {{< /raw >}}
+{{< raw >}}<a href="https://psnprofiles.com/nasuww"><img src="https://card.psnprofiles.com/1/nasuww.png" border="0"></a>{{< /raw >}}
 
 This is a list of the games I have completed—not in any particular order. The games in “platinumed” are games I have gotten all the achievements for but have not done enough for me to consider them completed 100%.[^1]
 ## 100%
