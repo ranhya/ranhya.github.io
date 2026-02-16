@@ -42,5 +42,6 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Control](/control/) - 19 hours
 - [Monster Hunter Rise](https://youtu.be/mGco28OXnGE) - 304 hours
 - [Undertale](https://youtu.be/M4zJsvLI820?si=tV31msiGuHzNc-i6) - 6 hours
+- [Borderlands](https://youtu.be/YzRNzvsMsTo?si=BUJDaW8bUMIQk29n) - 41 hours
 
 [^1]: 100% Doesn't necessarily mean 100% of the in-game completion (if the game has a counter, or something similar) but rather what I deem to be 100%. e.g. I consider getting all of the confidants in Persona 5 to max to be 100%. Even though the game has a lot of in-game achievements with the new thieves' den area introduced in Royal.
