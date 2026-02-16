@@ -1,5 +1,5 @@
 ---
-title: Borderlands: Game of the Year Edition
+title: "Borderlands: Game of the Year Edition"
 draft: false
 subtitle: Do these teeth make my gums look fat?
 author: Nasu Rei
