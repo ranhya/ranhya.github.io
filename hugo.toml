@@ -64,7 +64,7 @@ weight = 2
 
 [[menu.main]]
 identifier = "Completion List"
-pre = "<i class="fa-solid fa-award"></i>"
+pre = '<i class="fa-solid fa-award"></i>'
 title = "Completion List"
 url = "/completion-list/"
-weight = 2
+weight = 3
