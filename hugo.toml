@@ -39,14 +39,14 @@ identifier = "categories"
 pre = "<i class='fa-solid fa-filter'></i>"
 title = "Categories"
 url = "/category"
-weight = 2
+weight = 4
 
 [[menu.main]]
 identifier = "tags"
 pre = "<i class='fa-solid fa-tags'></i>"
 title = "Tags"
 url = "/tags"
-weight = 3
+weight = 4
 
 [[menu.main]]
 identifier = "archive"
