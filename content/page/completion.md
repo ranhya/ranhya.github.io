@@ -33,6 +33,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Don’t Starve Together](https://youtu.be/Wm5SHzCXcgQ) - 57 hours
 - [Like A Dragon Gaiden: The Man Who Erased His Name](/yakuza-7-gaiden/) - 34 hours
 - [Untitled Goose Game](/untitled-goose-game/) - 6 hours
+- [Exit 8](/exit-8/) - [1 hour](https://youtu.be/zT2XIfbNJ84?is=KyI0wzCEFBKN9y8k)
 ## Platinumed
 - [Marvel’s Spider-Man](/marvels-spider-man/) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
