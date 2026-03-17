@@ -61,3 +61,10 @@ pre = "<i class='fas fa-info'></i>"
 title = "About"
 url = "/about/"
 weight = 2
+
+[[menu.main]]
+identifier = "Completion List"
+pre = "<i class='fas fa-info'></i>"
+title = "Completion List"
+url = "/completion-list/"
+weight = 2
