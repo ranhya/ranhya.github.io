@@ -33,7 +33,7 @@ The boss fights are just amazing. When an enemy health bar is at the top of your
 
 They tend to have fun gimmicks attached to them and, while they overstay their welcome sometimes, it’s not too big of an issue I think. They tend to make heavier use of the new mechanics introduced in this game, revolving around enemy attacks: the parry, and crush attacks.
 
-### The new parry system
+### THE NEW PARRY SYSTEM
 
 It’s... satisfying for sure. But it made barely any difference in my gameplay. I didn’t use it unless I needed to, dodging is just easier—and while I think parrying offers more value, it’s definitely not needed. Which I do like by the way, you can ignore this mechanic and the game is not much harder than if you were to use it. The undodgeable attacks, the ones you can only parry are also able to be jumped over. So you can ignore this mechanic and not nerf yourself considerably.
 
