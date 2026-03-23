@@ -1,7 +1,7 @@
 ---
 title: Marvel’s Spider-Man 2
 subtitle: Bro just wanted to go to Valhalla
-date: 2026-3-23
+date: 2026-03-23
 author: Nasu Rei
 category: 
 - games
