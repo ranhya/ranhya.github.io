@@ -34,6 +34,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Like A Dragon Gaiden: The Man Who Erased His Name](/yakuza-7-gaiden/) - 34 hours
 - [Untitled Goose Game](/untitled-goose-game/) - 6 hours
 - [Exit 8](/exit-8/) - [1 hour](https://youtu.be/zT2XIfbNJ84?is=KyI0wzCEFBKN9y8k)
+- [Marvel’s Spider-Man 2](/marvels-spider-man-2/) - [19 hours](https://youtu.be/z3-8eEL3HbA?is=DJ6aQdPHLz_cDRoL)
 ## Platinumed
 - [Marvel’s Spider-Man](/marvels-spider-man/) - 53 hours
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
