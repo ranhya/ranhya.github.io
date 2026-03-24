@@ -19,6 +19,5 @@ I have a few other interests besides video games and you may or may not see me w
 
 > 📝 **Note:** 
 > You can see a list of categories by clicking the category button at the top. You should also check out [this post](/completion-list/), which is a list of every game I’ve completed—with relevant links to either posts I’ve written about them or links to YouTube videos of me achieving said completion. 
-> P.S. if you need to contact me for whatever reason (I don’t know why you would), you can email me at `nasurei22@gmail.com`
 
 Made with 💟 by Nasu Rei.
