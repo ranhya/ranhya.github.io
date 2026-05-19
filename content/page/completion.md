@@ -30,7 +30,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Stray](/stray/) - 14 hours
 - [Ratchet & Clank: Rift Apart](/ratchet-clank-rift-apart/) - 13 hours
 - [Dishonored: Death of the Outsider](/dishonored-death-of-the-outsider/) - 13 hours
-- [Don’t Starve Together](https://youtu.be/Wm5SHzCXcgQ) - 57 hours
+- [Don’t Starve Together](/dont-starve-together/) - [57 hours](https://youtu.be/Wm5SHzCXcgQ?si=r5zP2TfmCHG2tNFi)
 - [Like A Dragon Gaiden: The Man Who Erased His Name](/yakuza-7-gaiden/) - 34 hours
 - [Untitled Goose Game](/untitled-goose-game/) - 6 hours
 - [Exit 8](/exit-8/) - [1 hour](https://youtu.be/zT2XIfbNJ84?is=KyI0wzCEFBKN9y8k)
