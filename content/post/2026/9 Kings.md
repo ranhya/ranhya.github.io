@@ -15,4 +15,4 @@ author: Nasu Rei
 
 My favorite strategy I’ve found so far, in the previous multiplayer season when the golem rainbow card was in rotation, was to play as nature and fully scale my boars with 2 forests and wait until I get rainbow cards at which point I would portal BACK IN TIME to get another rainbow card, usually *giantify* to super buff my golems ALONGSIDE the buffs they would get from riding the boars. Legit so fun pulling it off and it’s surprisingly consistent.
 
-![](/images/golem.jpeg)
+![](/images/golem.jpg)
