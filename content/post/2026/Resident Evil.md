@@ -1,6 +1,6 @@
 ---
 title: Resident Evil
-date: 2026-03-11
+date: 2026-11-03
 draft: false
 tags:
 - resident-evil
