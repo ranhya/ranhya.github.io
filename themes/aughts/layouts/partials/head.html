@@ -8,4 +8,5 @@
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 {{ range site.Params.css }}<link rel="stylesheet" href="{{ . | relURL }}">{{ end }}
 {{ with site.Params.dropcap }}{{ with .accentcolour }}<style>:root{--accent:{{ . | safeCSS }}}</style>{{ end }}{{ end }}
+{{ with site.Params.titlestyle }}{{ $fc := .firstcolour }}{{ $rc := .restcolour }}<style>:root{ {{ with $fc }}--title-first:{{ . | safeCSS }};{{ end }}{{ with $rc }}--title-rest:{{ . | safeCSS }};{{ end }} }</style>{{ end }}
 {{ partial "plausible.html" . }}

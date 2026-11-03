@@ -41,7 +41,12 @@ summaryLength = 50               # (was under [params.dropCap]; Hugo reads it at
   # css = ["custom.css"]            # extra stylesheets from /static
   [params.dropCap]
     enable = true
-    accentColour = "#FF6B6B"
+    accentColour = "#ffd24d"
+ [params.titleStyle]
+    first = "Rae's"
+    rest = "Blog"
+    firstColour = "#ffd24d"      # yellow
+    restColour = "#ffffff"       # white
   [params.author]                   # (was top-level [author])
     name = "Nasu Rei"
   [params.copyright]

@@ -8,8 +8,10 @@ header#top{position:relative;padding:22px 26px 16px;color:#fff;background:linear
 header#top:before{content:"";position:absolute;left:0;right:0;top:0;height:50%;background:linear-gradient(rgba(255,255,255,.28),rgba(255,255,255,.04))}
 header#top h1{position:relative;margin:0;padding-right:100px;font:italic bold 36px Georgia,"Times New Roman",serif;text-shadow:2px 2px 3px rgba(0,0,0,.5)}
 header#top h1 a{color:#fff;text-decoration:none}
+.t-first{color:var(--title-first,#ffd24d)}
+.t-rest{color:var(--title-rest,#fff)}
 header#top p{position:relative;margin:0;font-size:11px;opacity:.9;letter-spacing:.5px}
-.star{position:absolute;right:22px;top:12px;width:84px;height:84px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffd0d0,var(--accent) 60%,#a02c2c);border:2px solid #fff;color:#fff;font:bold 11px/1.15 Verdana;text-align:center;padding-top:25px;transform:rotate(12deg);box-shadow:0 2px 6px rgba(0,0,0,.4);text-shadow:0 1px 1px rgba(0,0,0,.4);z-index:1}
+.star{position:absolute;right:22px;top:12px;width:84px;height:84px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffd0d0,#ff6b6b 60%,#a02c2c);border:2px solid #fff;color:#fff;font:bold 11px/1.15 Verdana;text-align:center;padding-top:25px;transform:rotate(12deg);box-shadow:0 2px 6px rgba(0,0,0,.4);text-shadow:0 1px 1px rgba(0,0,0,.4);z-index:1}
 nav{display:flex;flex-wrap:wrap;background:linear-gradient(#fff,#d3e3f5 50%,#c3d8f0 51%,#dce9f8);border-bottom:1px solid var(--rule)}
 nav a{padding:8px 14px;font:bold 12px Verdana;text-decoration:none;color:#1a4b8c;border-right:1px solid var(--rule);text-shadow:0 1px 0 #fff}
 nav a:hover{background:rgba(255,255,255,.6)}

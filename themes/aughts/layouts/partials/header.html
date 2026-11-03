@@ -1,6 +1,9 @@
 <header id="top">
   <div class="star">IT’S<br>GAMIN’<br>TIME</div>
-  <h1><a href="{{ "/" | relLangURL }}">{{ site.Title }}</a></h1>
+  {{ $first := "" }}{{ $rest := "" }}
+  {{ with site.Params.titlestyle }}{{ $first = .first | default "" }}{{ $rest = .rest | default "" }}{{ end }}
+  {{ if and (not $first) (not $rest) }}{{ $w := split site.Title " " }}{{ $first = index $w 0 }}{{ $rest = delimit (after 1 $w) " " }}{{ end }}
+  <h1><a href="{{ "/" | relLangURL }}"><span class="t-first">{{ $first }}</span>{{ with $rest }} <span class="t-rest">{{ . }}</span>{{ end }}</a></h1>
   {{ with site.Params.subtitle }}<p>{{ . }}</p>{{ end }}
 </header>
 <nav>
