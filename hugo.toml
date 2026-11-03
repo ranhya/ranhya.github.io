@@ -1,7 +1,7 @@
 baseURL = "https://ranya.run"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Ran's Blog"
+title = "Rae's Blog"
 theme = "aughts"
 enableRobotsTXT = true
 summaryLength = 50               # (was under [params.dropCap]; Hugo reads it at top level)
@@ -37,7 +37,7 @@ summaryLength = 50               # (was under [params.dropCap]; Hugo reads it at
 
 [params]
   subtitle = "~ my little corner of the internet ~"
-  favicon = "/images/favicon.ico"   # (was under [permalinks] in the old config)
+  favicon = "/static/favicon.ico"   # (was under [permalinks] in the old config)
   # css = ["custom.css"]            # extra stylesheets from /static
   [params.dropCap]
     enable = true
@@ -49,7 +49,7 @@ summaryLength = 50               # (was under [params.dropCap]; Hugo reads it at
     message = "Glue Drinkers' Association, some rights reserved :D"
   [params.plausible]
     enable = false
-    domain = "ranya.run"
+    domain = ""
 
 [menu]
   [[menu.main]]
@@ -87,6 +87,6 @@ summaryLength = 50               # (was under [params.dropCap]; Hugo reads it at
  [params.giscus]
    repo = "ranhya/ranhya.github.io"
    repoId = "R_kgDOPM7Feg"
-   category = "Announcements"
-   categoryId = "PASTE_CATEGORY_ID"
+   category = "General"
+   categoryId = "DIC_kwDOPM7Fes4Cu7El"
    mapping = "pathname"
