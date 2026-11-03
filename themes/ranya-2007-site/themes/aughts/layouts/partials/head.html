@@ -1,0 +1,11 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Title }}{{ end }}">
+{{ with site.Params.favicon }}<link rel="icon" href="{{ . | relURL }}">{{ end }}
+<link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="{{ site.Title }}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+{{ range site.Params.css }}<link rel="stylesheet" href="{{ . | relURL }}">{{ end }}
+{{ with site.Params.dropcap }}{{ with .accentcolour }}<style>:root{--accent:{{ . | safeCSS }}}</style>{{ end }}{{ end }}
+{{ partial "plausible.html" . }}

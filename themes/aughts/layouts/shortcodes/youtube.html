@@ -1,0 +1,3 @@
+{{- /* {{< youtube ID >}}  or  {{< youtube id="ID" start="30" end="60" title="..." >}} */ -}}
+{{- $id := .Get "id" | default (.Get 0) -}}
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/{{ $id }}?{{ with .Get "start" }}start={{ . }}&amp;{{ end }}{{ with .Get "end" }}end={{ . }}&amp;{{ end }}rel=0" title="{{ .Get "title" | default "YouTube video" }}" loading="lazy" allowfullscreen></iframe></div>

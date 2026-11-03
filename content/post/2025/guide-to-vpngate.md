@@ -11,7 +11,6 @@ tags:
 
 ## Table of Contents
 
-{{< toc >}}
 
 ---
 

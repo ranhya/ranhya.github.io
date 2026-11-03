@@ -1,0 +1,5 @@
+{{ with (site.RegularPages.Related . | first 3) }}
+<section class="related side-box"><h3>Related posts</h3><ul>
+{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><br><span class="meta">{{ .Date.Format "Jan 2, 2006" }}</span></li>{{ end }}
+</ul></section>
+{{ end }}

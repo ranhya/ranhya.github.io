@@ -1,0 +1,92 @@
+baseURL = "https://ranya.run"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Ran's Blog"
+theme = "aughts"
+enableRobotsTXT = true
+summaryLength = 50               # (was under [params.dropCap]; Hugo reads it at top level)
+
+[pagination]
+  pagerSize = 5
+
+[markup.goldmark.renderer]
+  unsafe = true                  # allows raw HTML in posts (charts, embeds)
+
+[taxonomies]
+  tag = "tags"
+  category = "category"
+  series = "series"
+
+[permalinks]
+  post = "/:title/"
+  page = "/:title/"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]  # JSON powers the instant search
+
+[related]
+  includeNewer = true
+  threshold = 50
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "category"
+    weight = 50
+
+[params]
+  subtitle = "~ my little corner of the internet ~"
+  favicon = "/images/favicon.ico"   # (was under [permalinks] in the old config)
+  # css = ["custom.css"]            # extra stylesheets from /static
+  [params.dropCap]
+    enable = true
+    accentColour = "#FF6B6B"
+  [params.author]                   # (was top-level [author])
+    name = "Nasu Rei"
+  [params.copyright]
+    icon = "<i class='far fa-copyright'></i>"
+    message = "Glue Drinkers' Association, some rights reserved :D"
+  [params.plausible]
+    enable = false
+    domain = "ranya.run"
+
+[menu]
+  [[menu.main]]
+    identifier = "archive"
+    pre = "<i class='fas fa-archive'></i>"
+    title = "Archive"
+    url = "/archive/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    pre = "<i class='fas fa-info'></i>"
+    title = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "Completion List"
+    pre = '<i class="fa-solid fa-award"></i>'
+    title = "Completion List"
+    url = "/completion-list/"
+    weight = 3
+  [[menu.main]]
+    identifier = "categories"
+    pre = "<i class='fa-solid fa-filter'></i>"
+    title = "Categories"
+    url = "/category"
+    weight = 4
+  [[menu.main]]
+    identifier = "tags"
+    pre = "<i class='fa-solid fa-tags'></i>"
+    title = "Tags"
+    url = "/tags"
+    weight = 4
+
+# Comments (giscus). Get these four values from https://giscus.app, then uncomment.
+# [params.giscus]
+#   repo = "ranhya/ranhya.github.io"
+#   repoId = "PASTE_REPO_ID"
+#   category = "Announcements"
+#   categoryId = "PASTE_CATEGORY_ID"
+#   mapping = "pathname"

@@ -1,0 +1,6 @@
+{{ define "main" }}
+<h2 class="page">404 – page not found</h2>
+<div class="body"><p>That page wandered off. Try searching for it:</p></div>
+{{ partial "search.html" . }}
+{{ end }}
+{{ define "scripts" }}<script src="{{ "js/search.js" | relURL }}"></script>{{ end }}

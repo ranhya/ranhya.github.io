@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ $drop := false }}
+{{ with site.Params.dropcap }}{{ if .enable }}{{ $drop = true }}{{ end }}{{ end }}
+{{ if eq .Params.dropcap false }}{{ $drop = false }}{{ end }}
+{{ $isPost := eq .Type "post" }}
+<article class="post{{ if $isPost }} is-post{{ end }}">
+  <h2 class="page">{{ .Title }}</h2>
+  {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+  {{ if $isPost }}
+  <div class="post-grid">
+    <div class="post-main">
+      {{ partial "single/header.html" . }}
+      <div class="body{{ if $drop }} dropcap{{ end }}">{{ .Content }}</div>
+      {{ partial "single/footer.html" . }}
+      {{ partial "comments.html" . }}
+    </div>
+    <aside class="post-side">
+      <section class="side-box"><h3>About this post</h3>
+        <p class="meta">{{ .Date.Format "January 2, 2006" }}<br>{{ .ReadingTime }} min read · {{ .WordCount }} words</p>
+        <div>{{ partial "taxlinks.html" . }}</div>
+      </section>
+      {{ if .Params.toc }}<section class="side-box toc"><h3>Contents</h3>{{ .TableOfContents }}</section>{{ end }}
+      {{ partial "related.html" . }}
+    </aside>
+  </div>
+  {{ else }}
+  {{ partial "single/header.html" . }}
+  {{ if .Params.toc }}<aside class="toc side-box"><h3>Contents</h3>{{ .TableOfContents }}</aside>{{ end }}
+  <div class="body{{ if $drop }} dropcap{{ end }}">{{ .Content }}</div>
+  {{ partial "single/footer.html" . }}
+  {{ end }}
+</article>
+{{ end }}

@@ -1,0 +1,21 @@
+{{- /* Giscus comments. Configure in hugo.toml under [params.giscus]. Disable per post with `comments = false`. */ -}}
+{{ with site.Params.giscus }}{{ if and .repo .repoid }}{{ if ne $.Params.comments false }}
+<section id="comments" class="comments side-box">
+  <h3>Comments</h3>
+  <div class="giscus"></div>
+  <script src="https://giscus.app/client.js"
+    data-repo="{{ .repo }}"
+    data-repo-id="{{ .repoid }}"
+    data-category="{{ .category }}"
+    data-category-id="{{ .categoryid }}"
+    data-mapping="{{ .mapping | default "pathname" }}"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="{{ if hugo.IsServer }}preferred_color_scheme{{ else }}{{ "css/giscus.css" | absURL }}{{ end }}"
+    data-lang="en"
+    data-loading="lazy"
+    crossorigin="anonymous" async></script>
+</section>
+{{ end }}{{ end }}{{ end }}

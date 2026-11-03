@@ -1,0 +1,2 @@
+{{- /* {{< chart src="https://datawrapper.dwcdn.net/xxxxx/" height="400" />}}  or paste raw chart HTML between open/close tags */ -}}
+<div class="chart">{{ with .Get "src" }}<iframe src="{{ . }}" height="{{ $.Get "height" | default 400 }}" loading="lazy" frameborder="0"></iframe>{{ else }}{{ .Inner | safeHTML }}{{ end }}</div>
