@@ -1,4 +1,0 @@
-{{- /* {{< spotify "https://open.spotify.com/episode/ID" >}} - or set `spotify:` in front matter and use {{< spotify >}} */ -}}
-{{- $src := .Get 0 | default .Page.Params.spotify -}}
-{{- if and $src (not (strings.Contains $src "/embed/")) -}}{{- $src = replace $src "open.spotify.com/" "open.spotify.com/embed/" -}}{{- end -}}
-<div class="spotify-container"><iframe src="{{ $src }}" width="100%" height="{{ .Get "height" | default 232 }}" frameborder="0" allowtransparency="true" allow="encrypted-media" loading="lazy"></iframe></div>

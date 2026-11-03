@@ -1,6 +1,0 @@
-{{ define "main" }}
-{{ partial "index/introduction.html" . }}
-{{ $pag := .Paginate (where site.RegularPages "Type" "post") }}
-{{ range $pag.Pages }}{{ partial "card.html" . }}{{ end }}
-{{ template "_internal/pagination.html" . }}
-{{ end }}

@@ -1,1 +1,0 @@
-{{ range .GetTerms "category" }}<a class="tag cat" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ end }}{{ range .GetTerms "tags" }}<a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ end }}{{ range .GetTerms "series" }}<a class="tag ser" href="{{ .RelPermalink }}">series: {{ .LinkTitle }}</a> {{ end }}

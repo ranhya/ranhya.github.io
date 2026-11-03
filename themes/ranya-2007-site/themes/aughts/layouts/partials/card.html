@@ -1,9 +1,0 @@
-<article class="entry">
-  <div class="date"><b>{{ .Date.Format "Jan" }}</b><i>{{ .Date.Format "2" }}</i></div>
-  <div class="txt">
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <div class="meta">{{ partial "taxlinks.html" . }}</div>
-    {{ if not site.Params.disableSummary }}<div class="body">{{ with .Params.summary }}<p>{{ . }}</p>{{ else }}{{ .Summary }}{{ end }}</div>{{ end }}
-    <a class="btn" href="{{ .RelPermalink }}">Read more »</a>
-  </div>
-</article>

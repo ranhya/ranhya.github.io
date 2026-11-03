@@ -1,8 +1,0 @@
-{{ $url := .Permalink | urlquery }}{{ $title := .Title | urlquery }}
-{{ $tags := slice }}{{ range .Params.tags }}{{ $tags = $tags | append (. | anchorize | replace "-" "") }}{{ end }}
-<div class="share"><strong>Share:</strong>
-  <a class="btn" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text={{ $title }}&url={{ $url }}{{ with $tags }}&hashtags={{ delimit . "," | urlquery }}{{ end }}"><i class="fa-brands fa-x-twitter"></i> X</a>
-  <a class="btn" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}"><i class="fa-brands fa-facebook-f"></i> Facebook</a>
-  <a class="btn" target="_blank" rel="noopener" href="https://www.reddit.com/submit?url={{ $url }}&title={{ $title }}"><i class="fa-brands fa-reddit-alien"></i> Reddit</a>
-  <a class="btn" href="mailto:?subject={{ $title }}&body={{ $url }}"><i class="fas fa-envelope"></i> Email</a>
-</div>

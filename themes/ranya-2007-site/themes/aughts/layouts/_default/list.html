@@ -1,6 +1,0 @@
-{{ define "main" }}
-<h2 class="page">{{ .Title }}</h2>
-{{ with .Content }}<div class="body">{{ . }}</div>{{ end }}
-{{ range .Paginator.Pages }}{{ partial "card.html" . }}{{ end }}
-{{ template "_internal/pagination.html" . }}
-{{ end }}

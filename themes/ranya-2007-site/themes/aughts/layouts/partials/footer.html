@@ -1,5 +1,0 @@
-{{ $a := site.Title }}{{ with site.Params.author }}{{ $a = .name }}{{ end }}
-<footer>
-  {{ with site.Params.copyright }}{{ .icon | safeHTML }} {{ now.Year }} {{ $a }} · {{ .message | safeHTML }}{{ else }}© {{ now.Year }} {{ $a }}{{ end }}
-  · powered by Hugo · <a href="#top">top ▲</a>
-</footer>
