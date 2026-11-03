@@ -37,7 +37,7 @@ summaryLength = 50               # (was under [params.dropCap]; Hugo reads it at
 
 [params]
   subtitle = "~ my little corner of the internet ~"
-  favicon = "/static/favicon.ico"   # (was under [permalinks] in the old config)
+  favicon = "/images/favicon.ico"   # (was under [permalinks] in the old config)
   # css = ["custom.css"]            # extra stylesheets from /static
   [params.dropCap]
     enable = true
