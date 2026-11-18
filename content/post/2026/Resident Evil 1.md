@@ -11,12 +11,12 @@ category:
 - games
 ---
 
-[Jill_and_Chris.jpeg](/images/Jill_and_Chris.jpeg)
+![Jill_and_Chris.jpeg](/images/Jill_and_Chris.jpeg)
 
 Okay so where do I even start with this game. I absolutely love this game, it is genuinely baffling to me how this game came out in the 1996, and the remake in 2005. The remake, despite coming out in 2005 holds up magnificently to this day, despite the fact that the original came out in 1996! It’s brilliant.
 
 I finished the game clocking in about 22 hours total playtime on Steam. Not much of that was time spent AFK but a lot of it was spent lost and backtracking especially starting out. 
-[Re1_result_screen_jill.jpeg](/images/Re1_result_screen_jill.jpeg)
+![Re1_result_screen_jill.jpeg](/images/Re1_result_screen_jill.jpeg)
 
 Stats in order from left to right: 
 - Play Time: 10:14:21
@@ -41,7 +41,7 @@ I will say though, in the residence the backtracking really got to me for a bit,
 
 One “puzzle” that seemed annoying but is quite manageable was the puzzle with the nitrogen capsule. 
 
-[Nitrogen_capsule_re1.jpeg](/images/Nitrogen_capsule_re1.jpeg)
+![Nitrogen_capsule_re1.jpeg](/images/Nitrogen_capsule_re1.jpeg)
 
 
 The item description says: it looks like it could explode just from *running*. The game also fails to mention that getting hit will also trigger the explosion (which is an instant game over). Thankfully this “puzzle” was actually very easy in practice, as I’d already killed all the enemies that could’ve been a problem so it was just about walking there, and paying attention to item descriptions!
@@ -64,6 +64,6 @@ Scary. Me no like. So is good because horror game.
 Every time I felt that “oh so this has got to be the last area” there was always another one! Nothing to complain about obviously all of the areas are designed great and were very fun but man did I not expect this game to be as long as it is. It’s very impressive for a game originally released in 1996.
 
 ## Screenshots
-[Jill_play_piano.jpeg](/images/Jill_play_piano.jpeg)
-[Pool_table_re1.jpeg](/images/Pool_table_re1.jpeg)
+![Jill_play_piano.jpeg](/images/Jill_play_piano.jpeg)
+![Pool_table_re1.jpeg](/images/Pool_table_re1.jpeg)
  

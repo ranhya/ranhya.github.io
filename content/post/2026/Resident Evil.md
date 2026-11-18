@@ -9,7 +9,6 @@ category:
 - meta
 ---
 
-Last Updated: November 18 2026
 
 Recently, a Resident Evil bundle went on a super sale on Steam, containing all the games from Resident Evil 1 all the way up to Resident Evil 8, minus the Resident Evil Revaluations 1 and 2 sadly. 
 
@@ -17,8 +16,10 @@ Having bought said bundle, I am now on the mission of firstly: completing each o
 
 But for this challenge I’m going to switch it up and make two posts for each game in the series, I’ll update this post with links to each of them as I go of course. The first post will be my thoughts after completing the game’s main story, and then a second post after I’ve 100%ed the game and my whole thoughts on how it went and what I liked/didn’t like about it.
 
+Last Updated: November 18 2026
+
 # As of the **3rd of November 2026**, 
 I’m currently playing through Resident Evil 1 and have about 7 hours in the game though a good portion of that was spent AFK while I was cooking.
 
 # Resident Evil 1 - November 18, 2026, 8:47PM CLEAR
-Absolutely Peak, check out the blog post about it here: [Resident Evil 1](/resident-evil-1/]
+Absolutely Peak, check out the blog post about it here: [Resident Evil 1](/resident-evil-1/)
