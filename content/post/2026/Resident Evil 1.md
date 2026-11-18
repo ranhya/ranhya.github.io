@@ -29,7 +29,7 @@ Judging by the playtime on the result screen, I lost about 10 hours of progress 
 
 # Miscellaneous thoughts
 
-Having beaten the game with Jill, I can only speak on how Jill’s route functions for now, though I do plan on returning to the game after finishing the rest, as is part of the challenge (see: [Resident Evil](/resident-rvil)). Of course I played as Jill, not only because it seems she’s the recommended character to start of with due to her lock pick, but also because—I love when games give me the option to play as a woman, it’s unironically an important thing to me and any game that allows me to do that gets a *big* plus in my book.
+Having beaten the game with Jill, I can only speak on how Jill’s route functions for now, though I do plan on returning to the game after finishing the rest, as is part of the challenge (see: [Resident Evil](/resident-evil/)). Of course I played as Jill, not only because it seems she’s the recommended character to start of with due to her lock pick, but also because—I love when games give me the option to play as a woman, it’s unironically an important thing to me and any game that allows me to do that gets a *big* plus in my book.
 
 
 I do have some notes that I’ve written while playing, just random thoughts I had:
