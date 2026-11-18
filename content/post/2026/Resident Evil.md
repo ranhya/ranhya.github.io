@@ -9,6 +9,8 @@ category:
 - meta
 ---
 
+Last Updated: November 18 2026
+
 Recently, a Resident Evil bundle went on a super sale on Steam, containing all the games from Resident Evil 1 all the way up to Resident Evil 8, minus the Resident Evil Revaluations 1 and 2 sadly. 
 
 Having bought said bundle, I am now on the mission of firstly: completing each of the games in order, and then going back and 100%ing them in order (if I even manage to as I’ve heard they’re not easy completion-ist games). The way I prefer to post on this blog is as such: one post, when I finally reach 100% of a game or, as apparent from the more recent posts, whenever the frick I feel like I need to post something.
