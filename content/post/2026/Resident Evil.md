@@ -21,5 +21,5 @@ Last Updated: November 18 2026
 # As of the **3rd of November 2026**, 
 I’m currently playing through Resident Evil 1 and have about 7 hours in the game though a good portion of that was spent AFK while I was cooking.
 
-# Resident Evil 1 - November 18, 2026, 8:47PM CLEAR
+# [Resident Evil 1 - November 18, 2026, 8:47PM CLEAR](/resident-evil-1/)
 Absolutely Peak, check out the blog post about it here: [Resident Evil 1](/resident-evil-1/)
