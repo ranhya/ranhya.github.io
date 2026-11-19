@@ -13,7 +13,7 @@ category:
 
 ![Jill_and_Chris.jpeg](/images/Jill_and_Chris.jpeg)
 
-Okay so where do I even start with this game. I absolutely love this game, it is genuinely baffling to me how this game came out in the 1996, and the remake in 2005. The remake, despite coming out in 2005 holds up magnificently to this day, despite the fact that the original came out in 1996! It’s brilliant.
+Okay so where do I even start with this game. I absolutely love this game, it is genuinely baffling to me how this game came out in the 1996, and the remake in 2002. The remake, despite coming out in 2002 holds up magnificently to this day, despite the fact that the original came out in 1996! It’s brilliant.
 
 I finished the game clocking in about 22 hours total playtime on Steam. Not much of that was time spent AFK but a lot of it was spent lost and backtracking especially starting out. 
 ![Re1_result_screen_jill.jpeg](/images/Re1_result_screen_jill.jpeg)
